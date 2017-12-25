@@ -1,0 +1,934 @@
+Entry	Entry name	Protein names	Gene names	Organism	Organism ID	Length	Mass	EC number	Gene ontology (biological process)	Gene ontology (cellular component)	Gene ontology (molecular function)	PubMed ID
+Q5UQL3	NDK_MIMIV	Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6)	NDK MIMI_R418	Acanthamoeba polyphaga mimivirus (APMV)	212035	137	15,750	2.7.4.6	CTP biosynthetic process [GO:0006241]; GTP biosynthetic process [GO:0006183]; UTP biosynthetic process [GO:0006228]		ATP binding [GO:0005524]; metal ion binding [GO:0046872]; nucleoside diphosphate kinase activity [GO:0004550]	15486256; 16957983; 19457438; 16511098
+Q5UPJ7	SYY_MIMIV	Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS)	YARS MIMI_L124	Acanthamoeba polyphaga mimivirus (APMV)	212035	346	39,723	6.1.1.1	tyrosyl-tRNA aminoacylation [GO:0006437]		ATP binding [GO:0005524]; identical protein binding [GO:0042802]; protein homodimerization activity [GO:0042803]; tyrosine binding [GO:0072545]; tyrosine-tRNA ligase activity [GO:0004831]	15486256; 16510997; 17855524
+Q5UQX1	MCE_MIMIV	Probable mRNA-capping enzyme [Includes: Polynucleotide 5'-triphosphatase (EC 3.1.3.33) (mRNA 5'-triphosphatase) (TPase); mRNA guanylyltransferase (EC 2.7.7.50) (GTP--RNA guanylyltransferase) (GTase); mRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.56)]	MIMI_R382	Acanthamoeba polyphaga mimivirus (APMV)	212035	1170	136,508	3.1.3.33; 2.7.7.50; 2.1.1.56		virion [GO:0019012]	GTP binding [GO:0005525]; mRNA (guanine-N7-)-methyltransferase activity [GO:0004482]; mRNA guanylyltransferase activity [GO:0004484]; polynucleotide 5'-phosphatase activity [GO:0004651]; RNA binding [GO:0003723]	15486256; 16971431
+Q5UQC3	PLOD_MIMIV	Procollagen lysyl hydroxylase and glycosyltransferase (LHGT) (EC 1.14.11.4) (EC 2.4.1.-) (Lysyl hydroxylase) (Procollagen-lysine,2-oxoglutarate 5-dioxygenase)	MIMI_L230	Acanthamoeba polyphaga mimivirus (APMV)	212035	895	103,501	1.14.11.4; 2.4.1.-			iron ion binding [GO:0005506]; L-ascorbic acid binding [GO:0031418]; procollagen-lysine 5-dioxygenase activity [GO:0008475]; transferase activity [GO:0016740]	15486256; 21646533; 21375749; 22045808
+Q7T6X9	TOP1E_MIMIV	DNA topoisomerase 1B (TopIB) (EC 5.99.1.2) (DNA topoisomerase type IB)	TOP1E MIMI_R194	Acanthamoeba polyphaga mimivirus (APMV)	212035	336	39,879	5.99.1.2	DNA topological change [GO:0006265]	virion [GO:0019012]	DNA binding [GO:0003677]; DNA topoisomerase type I activity [GO:0003917]	15486256; 16352556; 16971431
+Q5UQE6	TOP2_MIMIV	DNA topoisomerase 2 (EC 5.99.1.3) (DNA topoisomerase II)	TOP2 MIMI_R480	Acanthamoeba polyphaga mimivirus (APMV)	212035	1263	143,449	5.99.1.3	DNA topological change [GO:0006265]		ATP binding [GO:0005524]; DNA binding [GO:0003677]; DNA topoisomerase type II (ATP-hydrolyzing) activity [GO:0003918]; metal ion binding [GO:0046872]	15486256
+Q5UPZ0	DNLJ_MIMIV	DNA ligase (EC 6.5.1.2) (NAD-dependent DNA ligase) (Polydeoxyribonucleotide synthase [NAD(+)])	MIMI_R303	Acanthamoeba polyphaga mimivirus (APMV)	212035	636	72,089	6.5.1.2	DNA repair [GO:0006281]; DNA replication [GO:0006260]		DNA ligase (NAD+) activity [GO:0003911]; nucleotide binding [GO:0000166]	15486256; 16844179
+Q5UQW2	DIPP_MIMIV	Putative mRNA-decapping protein (EC 3.1.3.-) (Diphosphoinositol polyphosphate phosphohydrolase) (DIPP) (EC 3.6.1.52)	MIMI_L375	Acanthamoeba polyphaga mimivirus (APMV)	212035	360	43,662	3.1.3.-; 3.6.1.52	metabolic process [GO:0008152]		diphosphoinositol-polyphosphate diphosphatase activity [GO:0008486]; inositol-1,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 1-diphosphatase activity [GO:0052846]; inositol-1,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity [GO:0052847]; inositol-1-diphosphate-2,3,4,5,6-pentakisphosphate diphosphatase activity [GO:0052843]; inositol-3,5-bisdiphosphate-2,3,4,6-tetrakisphosphate 5-diphosphatase activity [GO:0052848]; inositol-3-diphosphate-1,2,4,5,6-pentakisphosphate diphosphatase activity [GO:0052844]; inositol-5-diphosphate-1,2,3,4,6-pentakisphosphate diphosphatase activity [GO:0052845]; inositol diphosphate tetrakisphosphate diphosphatase activity [GO:0052840]; nucleic acid binding [GO:0003676]; zinc ion binding [GO:0008270]	15486256
+Q5UQG3	DRTS_MIMIV	Bifunctional dihydrofolate reductase-thymidylate synthase (DHFR-TS) [Includes: Dihydrofolate reductase (EC 1.5.1.3); Thymidylate synthase (EC 2.1.1.45)]	MIMI_R497	Acanthamoeba polyphaga mimivirus (APMV)	212035	563	65,063	1.5.1.3; 2.1.1.45	dTMP biosynthetic process [GO:0006231]; glycine biosynthetic process [GO:0006545]; one-carbon metabolic process [GO:0006730]; tetrahydrofolate biosynthetic process [GO:0046654]		dihydrofolate reductase activity [GO:0004146]; thymidylate synthase activity [GO:0004799]	15486256
+Q7T6Y8	RIR1_MIMIV	Ribonucleoside-diphosphate reductase large subunit (EC 1.17.4.1) (Ribonucleotide reductase large subunit)	RNR1 MIMI_R313	Acanthamoeba polyphaga mimivirus (APMV)	212035	881	101,472	1.17.4.1	DNA replication [GO:0006260]		ATP binding [GO:0005524]; ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor [GO:0004748]	15486256
+Q5UQI3	CP51_MIMIV	Probable lanosterol 14-alpha demethylase (EC 1.14.13.70) (CYPLI) (Cytochrome P450 51) (Cytochrome P450-14DM) (Cytochrome P450-LIA1) (Sterol 14-alpha demethylase)	MIMI_L808	Acanthamoeba polyphaga mimivirus (APMV)	212035	709	82,186	1.14.13.70	sterol biosynthetic process [GO:0016126]	membrane [GO:0016020]	heme binding [GO:0020037]; iron ion binding [GO:0005506]; methyltransferase activity [GO:0008168]; sterol 14-demethylase activity [GO:0008398]	15486256; 19515774
+Q5UQB5	TOP1P_MIMIV	DNA topoisomerase 1 type prokaryotic (EC 5.99.1.2)	TOP1P MIMI_L221	Acanthamoeba polyphaga mimivirus (APMV)	212035	854	96,946	5.99.1.2	DNA topological change [GO:0006265]	virion [GO:0019012]	DNA binding [GO:0003677]; DNA topoisomerase type I activity [GO:0003917]; metal ion binding [GO:0046872]	15486256; 16971431
+Q7T6X2	YR826_MIMIV	Putative serine/threonine-protein kinase/receptor R826 (EC 2.7.11.1)	MIMI_R826	Acanthamoeba polyphaga mimivirus (APMV)	212035	1657	186,740	2.7.11.1	cyclic nucleotide biosynthetic process [GO:0009190]; intracellular signal transduction [GO:0035556]	integral component of membrane [GO:0016021]	ATP binding [GO:0005524]; phosphorus-oxygen lyase activity [GO:0016849]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q7T6Y2	YR831_MIMIV	Putative serine/threonine-protein kinase/receptor R831 (EC 2.7.11.1)	MIMI_R831	Acanthamoeba polyphaga mimivirus (APMV)	212035	1624	182,517	2.7.11.1	cyclic nucleotide biosynthetic process [GO:0009190]; intracellular signal transduction [GO:0035556]	integral component of membrane [GO:0016021]	ATP binding [GO:0005524]; phosphorus-oxygen lyase activity [GO:0016849]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UQG7	YR818_MIMIV	Putative serine/threonine-protein kinase/receptor R818 (EC 2.7.11.1)	MIMI_R818	Acanthamoeba polyphaga mimivirus (APMV)	212035	1651	184,362	2.7.11.1	cyclic nucleotide biosynthetic process [GO:0009190]; intracellular signal transduction [GO:0035556]	integral component of membrane [GO:0016021]	ATP binding [GO:0005524]; phosphorus-oxygen lyase activity [GO:0016849]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UP71	PPIL_MIMIV	Structural PPIase-like protein L605 (Mimicyp)	MIMI_L605	Acanthamoeba polyphaga mimivirus (APMV)	212035	234	26,539		protein folding [GO:0006457]	host cell cytoplasm [GO:0030430]; virion [GO:0019012]	peptidyl-prolyl cis-trans isomerase activity [GO:0003755]	15486256; 18342330
+Q5UQ88	UBC3_MIMIV	Probable ubiquitin-conjugating enzyme E2 R521 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme R521) (Ubiquitin carrier protein) (Ubiquitin-protein ligase)	MIMI_R521	Acanthamoeba polyphaga mimivirus (APMV)	212035	1441	165,046	2.3.2.23	DNA protection [GO:0042262]; protein ubiquitination [GO:0016567]	integral component of membrane [GO:0016021]	ATP binding [GO:0005524]; transferase activity [GO:0016740]	15486256
+Q5UQE1	ASNS_MIMIV	Probable asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) (Glutamine-dependent asparagine synthetase)	MIMI_R475	Acanthamoeba polyphaga mimivirus (APMV)	212035	550	63,335	6.3.5.4	glutamine metabolic process [GO:0006541]; L-asparagine biosynthetic process [GO:0070981]		asparagine synthase (glutamine-hydrolyzing) activity [GO:0004066]; ATP binding [GO:0005524]	15486256
+Q5UP57	P4H_MIMIV	Putative prolyl 4-hydroxylase (4-PH) (EC 1.14.11.2) (Procollagen-proline,2-oxoglutarate-4-dioxygenase)	MIMI_L593	Acanthamoeba polyphaga mimivirus (APMV)	212035	242	27,901	1.14.11.2		virion [GO:0019012]	iron ion binding [GO:0005506]; L-ascorbic acid binding [GO:0031418]; procollagen-proline 4-dioxygenase activity [GO:0004656]	15486256; 16971431
+Q5UR82	SYM_MIMIV	Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)	MARS MIMI_R639	Acanthamoeba polyphaga mimivirus (APMV)	212035	550	63,682	6.1.1.10	methionyl-tRNA aminoacylation [GO:0006431]	host cell cytoplasm [GO:0030430]	ATP binding [GO:0005524]; methionine-tRNA ligase activity [GO:0004825]; RNA binding [GO:0003723]	15486256; 17855524
+Q7T6Y9	RIR2_MIMIV	Ribonucleoside-diphosphate reductase small chain (EC 1.17.4.1) (Ribonucleotide reductase small subunit)	RNR2 MIMI_L312	Acanthamoeba polyphaga mimivirus (APMV)	212035	417	48,607	1.17.4.1	deoxyribonucleotide biosynthetic process [GO:0009263]; DNA replication [GO:0006260]		metal ion binding [GO:0046872]; ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor [GO:0004748]	15486256
+Q5UQ40	UBC4_MIMIV	Probable bifunctional E2/E3 enzyme R795 [Includes: E3 ubiquitin-protein ligase (EC 2.3.2.27) (RING-type E3 ubiquitin transferase); Ubiquitin-conjugating enzyme E2 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme)]	MIMI_R795	Acanthamoeba polyphaga mimivirus (APMV)	212035	1297	150,351	2.3.2.27; 2.3.2.23			ATP binding [GO:0005524]; ubiquitin-protein transferase activity [GO:0004842]; zinc ion binding [GO:0008270]	15486256
+Q5UQI4	DHCR7_MIMIV	Probable 7-dehydrocholesterol reductase (7-DHC reductase) (EC 1.3.1.21) (Sterol Delta(7)-reductase)	DHCR7 MIMI_R807	Acanthamoeba polyphaga mimivirus (APMV)	212035	447	51,692	1.3.1.21	cholesterol biosynthetic process [GO:0006695]	integral component of membrane [GO:0016021]	7-dehydrocholesterol reductase activity [GO:0047598]; NADP binding [GO:0050661]	15486256
+Q5UQ00	FPG_MIMIV	Probable formamidopyrimidine-DNA glycosylase (Fapy-DNA glycosylase) (EC 3.2.2.23) (DNA-(apurinic or apyrimidinic site) lyase) (AP lyase) (EC 4.2.99.18)	MIMI_L315	Acanthamoeba polyphaga mimivirus (APMV)	212035	287	33,463	3.2.2.23; 4.2.99.18	base-excision repair [GO:0006284]; nucleotide-excision repair [GO:0006289]		damaged DNA binding [GO:0003684]; DNA-(apurinic or apyrimidinic site) lyase activity [GO:0003906]; oxidized purine nucleobase lesion DNA N-glycosylase activity [GO:0008534]; zinc ion binding [GO:0008270]	15486256
+Q5UQ27	RABL_MIMIV	Probable Rab-related GTPase	MIMI_R214	Acanthamoeba polyphaga mimivirus (APMV)	212035	215	24,732		protein transport [GO:0015031]	host cell plasma membrane [GO:0020002]; membrane [GO:0016020]	GTPase activity [GO:0003924]; GTP binding [GO:0005525]	15486256
+Q5UPL2	YR135_MIMIV	Putative GMC-type oxidoreductase R135 (EC 1.-.-.-)	MIMI_R135	Acanthamoeba polyphaga mimivirus (APMV)	212035	702	76,947	1.-.-.-		host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]	flavin adenine dinucleotide binding [GO:0050660]; oxidoreductase activity, acting on CH-OH group of donors [GO:0016614]	15486256; 16971431
+Q5UQR0	DPOL_MIMIV	DNA polymerase (EC 2.7.7.7) [Cleaved into: Mimv polB intein]	POLB MIMI_R322	Acanthamoeba polyphaga mimivirus (APMV)	212035	1740	201,945	2.7.7.7	DNA replication [GO:0006260]; viral DNA genome replication [GO:0039693]		3'-5' exonuclease activity [GO:0008408]; DNA binding [GO:0003677]; DNA-directed DNA polymerase activity [GO:0003887]; endonuclease activity [GO:0004519]; nucleotide binding [GO:0000166]	15707490; 15486256
+Q7T6X7	RPO2_MIMIV	DNA-directed RNA polymerase subunit 2 (EC 2.7.7.6)	RPO2 MIMI_L244	Acanthamoeba polyphaga mimivirus (APMV)	212035	1196	136,048	2.7.7.6	transcription, DNA-templated [GO:0006351]	virion [GO:0019012]	DNA binding [GO:0003677]; DNA-directed 5'-3' RNA polymerase activity [GO:0003899]; metal ion binding [GO:0046872]; ribonucleoside binding [GO:0032549]	15486256; 16971431
+Q7T6X6	GFAT_MIMIV	Probable glutamine--fructose-6-phosphate aminotransferase [isomerizing] (GFAT) (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (Hexosephosphate aminotransferase)	MIMI_L619	Acanthamoeba polyphaga mimivirus (APMV)	212035	606	68,570	2.6.1.16	glutamine metabolic process [GO:0006541]; UDP-N-acetylglucosamine biosynthetic process [GO:0006048]		carbohydrate derivative binding [GO:0097367]; glutamine-fructose-6-phosphate transaminase (isomerizing) activity [GO:0004360]	15486256
+Q5UP25	KITH_MIMIV	Thymidine kinase (EC 2.7.1.21)	TK MIMI_L258	Acanthamoeba polyphaga mimivirus (APMV)	212035	225	25,909	2.7.1.21	DNA biosynthetic process [GO:0071897]		ATP binding [GO:0005524]; metal ion binding [GO:0046872]; thymidine kinase activity [GO:0004797]	15486256
+Q5UQ90	YL532_MIMIV	Cytochrome P450-like protein L532 (EC 1.14.14.-)	MIMI_L532	Acanthamoeba polyphaga mimivirus (APMV)	212035	468	54,115	1.14.14.-		host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]	heme binding [GO:0020037]; iron ion binding [GO:0005506]; monooxygenase activity [GO:0004497]; oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen [GO:0016705]	15486256; 16971431
+Q5UQC9	UBC1_MIMIV	Probable ubiquitin-conjugating enzyme E2 L460 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme L460) (Ubiquitin carrier protein) (Ubiquitin-protein ligase)	UBC MIMI_L460	Acanthamoeba polyphaga mimivirus (APMV)	212035	158	18,677	2.3.2.23	protein ubiquitination [GO:0016567]		ATP binding [GO:0005524]; transferase activity [GO:0016740]	15486256
+Q5UPV8	MCAR_MIMIV	Mitochondrial carrier-like protein L276 (VMC1) (Viral mitochondrial carrier)	MIMI_L276	Acanthamoeba polyphaga mimivirus (APMV)	212035	237	27,319		transport [GO:0006810]	host cell mitochondrial inner membrane [GO:0044192]; integral component of membrane [GO:0016021]		15486256; 17229695
+Q5UQJ6	YR400_MIMIV	Putative serine/threonine-protein kinase R400 (EC 2.7.11.1)	MIMI_R400	Acanthamoeba polyphaga mimivirus (APMV)	212035	467	54,371	2.7.11.1		virion [GO:0019012]	ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256; 16971431
+Q5UPZ2	YR301_MIMIV	Putative serine/threonine-protein kinase R301 (EC 2.7.11.1)	MIMI_R301	Acanthamoeba polyphaga mimivirus (APMV)	212035	397	47,356	2.7.11.1		virion [GO:0019012]	ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256; 16971431
+Q5UPW7	UBPL2_MIMIV	Putative ubiquitin carboxyl-terminal hydrolase L293 (EC 3.4.19.12) (Deubiquitinating enzyme L293) (Ubiquitin thioesterase L293) (Ubiquitin-specific-processing protease L293)	MIMI_L293	Acanthamoeba polyphaga mimivirus (APMV)	212035	445	50,458	3.4.19.12	protein deubiquitination [GO:0016579]	virion [GO:0019012]	thiol-dependent ubiquitinyl hydrolase activity [GO:0036459]	15486256; 16971431
+Q5UNT7	YR679_MIMIV	Putative serine/threonine-protein kinase R679 (EC 2.7.11.1)	MIMI_R679	Acanthamoeba polyphaga mimivirus (APMV)	212035	694	80,144	2.7.11.1		virion [GO:0019012]	ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256; 16971431
+Q7T6Y4	DPOLX_MIMIV	Probable DNA polymerase family X (EC 2.7.7.7)	MIMI_L318	Acanthamoeba polyphaga mimivirus (APMV)	212035	354	40,612	2.7.7.7	DNA repair [GO:0006281]; DNA replication [GO:0006260]	host cell nucleus [GO:0042025]; virion [GO:0019012]	DNA binding [GO:0003677]; DNA-directed DNA polymerase activity [GO:0003887]; lyase activity [GO:0016829]	15486256; 16971431
+Q5UQD1	YR458_MIMIV	Putative ATP-dependent RNA helicase R458 (EC 3.6.4.13)	MIMI_R458	Acanthamoeba polyphaga mimivirus (APMV)	212035	524	59,563	3.6.4.13			ATP binding [GO:0005524]; helicase activity [GO:0004386]; nucleic acid binding [GO:0003676]	15486256
+Q5UR02	CHLE_MIMIV	Probable cholinesterase (EC 3.1.1.8) (Acylcholine acylhydrolase)	MIMI_L906	Acanthamoeba polyphaga mimivirus (APMV)	212035	579	64,868	3.1.1.8			cholinesterase activity [GO:0004104]	15486256
+Q5UQ57	UBC2_MIMIV	Probable ubiquitin-conjugating enzyme E2 L709 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme L709) (Ubiquitin carrier protein) (Ubiquitin-protein ligase)	MIMI_L709	Acanthamoeba polyphaga mimivirus (APMV)	212035	388	42,724	2.3.2.23	protein ubiquitination [GO:0016567]		ATP binding [GO:0005524]; transferase activity [GO:0016740]	15486256
+Q5UQD2	PNKP_MIMIV	Putative bifunctional polynucleotide phosphatase/kinase (DNA 5'-kinase/3'-phosphatase) (Polynucleotide kinase-3'-phosphatase) [Includes: Polynucleotide 3'-phosphatase (EC 3.1.3.32) (2'(3')-polynucleotidase); Polynucleotide 5'-hydroxyl-kinase (EC 2.7.1.78)]	MIMI_L469	Acanthamoeba polyphaga mimivirus (APMV)	212035	421	49,258	3.1.3.32; 2.7.1.78			ATP binding [GO:0005524]; ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity [GO:0046404]; polynucleotide 3'-phosphatase activity [GO:0046403]	15486256
+Q5UQ96	YL540_MIMIV	Putative ATP-dependent RNA helicase L540 (EC 3.6.4.13)	MIMI_L540	Acanthamoeba polyphaga mimivirus (APMV)	212035	695	79,556	3.6.4.13		virion [GO:0019012]	ATP binding [GO:0005524]; helicase activity [GO:0004386]; nucleic acid binding [GO:0003676]	15486256; 16971431
+Q7T6X3	YR563_MIMIV	Putative ATP-dependent RNA helicase R563 (EC 3.6.4.13)	MIMI_R563	Acanthamoeba polyphaga mimivirus (APMV)	212035	573	66,973	3.6.4.13		virion [GO:0019012]	ATP binding [GO:0005524]; DNA binding [GO:0003677]; helicase activity [GO:0004386]	15486256; 16971431
+Q5UP36	SYC_MIMIV	Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS)	CARS MIMI_L164	Acanthamoeba polyphaga mimivirus (APMV)	212035	509	59,332	6.1.1.16	tRNA aminoacylation for protein translation [GO:0006418]		ATP binding [GO:0005524]; cysteine-tRNA ligase activity [GO:0004817]; metal ion binding [GO:0046872]	15486256
+Q5UQW0	YL377_MIMIV	Putative ATP-dependent RNA helicase L377 (EC 3.6.4.13)	MIMI_L377	Acanthamoeba polyphaga mimivirus (APMV)	212035	1147	133,977	3.6.4.13		virion [GO:0019012]	ATP binding [GO:0005524]; DNA binding [GO:0003677]; helicase activity [GO:0004386]	15486256; 16971431
+Q5UPY4	END4_MIMIV	Putative endonuclease 4 (EC 3.1.21.2) (Endodeoxyribonuclease IV) (Endonuclease IV)	MIMI_R296	Acanthamoeba polyphaga mimivirus (APMV)	212035	312	34,857	3.1.21.2	DNA repair [GO:0006281]		deoxyribonuclease IV (phage-T4-induced) activity [GO:0008833]; DNA binding [GO:0003677]; zinc ion binding [GO:0008270]	15486256
+Q5UPX0	YR290_MIMIV	Putative ATP-dependent RNA helicase R290 (EC 3.6.4.13)	MIMI_R290	Acanthamoeba polyphaga mimivirus (APMV)	212035	548	62,737	3.6.4.13	DNA recombination [GO:0006310]; DNA repair [GO:0006281]; DNA replication [GO:0006260]		ATP binding [GO:0005524]; ATP-dependent 3'-5' DNA helicase activity [GO:0043140]; nucleic acid binding [GO:0003676]	15486256
+Q5UQ78	YR517_MIMIV	Putative serine/threonine-protein kinase R517/R518 (EC 2.7.11.1)	MIMI_R517 MIMI_R518	Acanthamoeba polyphaga mimivirus (APMV)	212035	450	51,879	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256; 
+Q5UQC1	YL232_MIMIV	Putative serine/threonine-protein kinase L232 (EC 2.7.11.1)	MIMI_L232	Acanthamoeba polyphaga mimivirus (APMV)	212035	633	76,003	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UPZ9	GNA1_MIMIV	Probable glucosamine 6-phosphate N-acetyltransferase (EC 2.3.1.4) (Phosphoglucosamine acetylase) (Phosphoglucosamine transacetylase)	MIMI_L316	Acanthamoeba polyphaga mimivirus (APMV)	212035	148	17,017	2.3.1.4	UDP-N-acetylglucosamine biosynthetic process [GO:0006048]		glucosamine 6-phosphate N-acetyltransferase activity [GO:0004343]	15486256
+Q5UP78	YR001_MIMIV	Putative replication origin-binding protein (OBP) (EC 3.6.4.-)	MIMI_R1	Acanthamoeba polyphaga mimivirus (APMV)	212035	795	93,130	3.6.4.-	DNA replication [GO:0006260]		ATP binding [GO:0005524]; DNA replication origin binding [GO:0003688]; helicase activity [GO:0004386]	15486256
+Q5UQS6	PAP1_MIMIV	Putative poly(A) polymerase catalytic subunit (EC 2.7.7.19)	MIMI_R341	Acanthamoeba polyphaga mimivirus (APMV)	212035	584	68,247	2.7.7.19	mRNA processing [GO:0006397]; transcription, DNA-templated [GO:0006351]	virion [GO:0019012]	ATP binding [GO:0005524]; polynucleotide adenylyltransferase activity [GO:0004652]	15486256; 16971431
+Q5UQH3	53DR_MIMIV	Putative 5'(3')-deoxyribonucleotidase R824 (EC 3.1.3.-)	MIMI_R824	Acanthamoeba polyphaga mimivirus (APMV)	212035	221	25,469	3.1.3.-	deoxyribonucleotide catabolic process [GO:0009264]		5'-nucleotidase activity [GO:0008253]; metal ion binding [GO:0046872]; nucleotide binding [GO:0000166]	15486256
+Q5UPY1	RNH_MIMIV	Probable ribonuclease H (RNase H) (EC 3.1.26.4)	RNH1 MIMI_R299	Acanthamoeba polyphaga mimivirus (APMV)	212035	229	26,195	3.1.26.4			metal ion binding [GO:0046872]; nucleic acid binding [GO:0003676]; RNA-DNA hybrid ribonuclease activity [GO:0004523]	15486256
+Q5UQU2	YR350_MIMIV	Putative ATP-dependent RNA helicase R350 (EC 3.6.4.13)	MIMI_R350	Acanthamoeba polyphaga mimivirus (APMV)	212035	817	95,416	3.6.4.13		virion [GO:0019012]	ATP binding [GO:0005524]; helicase activity [GO:0004386]	15486256; 16971431
+Q7T6X5	RPO1_MIMIV	DNA-directed RNA polymerase subunit 1 (EC 2.7.7.6)	RPO1 MIMI_R501	Acanthamoeba polyphaga mimivirus (APMV)	212035	1495	169,839	2.7.7.6	transcription, DNA-templated [GO:0006351]	virion [GO:0019012]	DNA binding [GO:0003677]; DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	15486256; 16971431
+Q5UQR3	UBPL1_MIMIV	Probable ubiquitin carboxyl-terminal hydrolase R319 (EC 3.4.19.12) (Deubiquitinating enzyme R319) (Ubiquitin thioesterase R319) (Ubiquitin-specific-processing protease R319)	MIMI_R319	Acanthamoeba polyphaga mimivirus (APMV)	212035	468	54,760	3.4.19.12	protein deubiquitination [GO:0016579]; ubiquitin-dependent protein catabolic process [GO:0006511]		thiol-dependent ubiquitinyl hydrolase activity [GO:0036459]	15486256
+Q5UQ98	YL538_MIMIV	Putative ATP-dependent RNA helicase L538 (EC 3.6.4.13)	MIMI_L538	Acanthamoeba polyphaga mimivirus (APMV)	212035	445	51,580	3.6.4.13		virion [GO:0019012]	ATP binding [GO:0005524]; helicase activity [GO:0004386]	15486256; 16971431
+Q5UPQ7	YR771_MIMIV	Putative resolvase R771	MIMI_R771	Acanthamoeba polyphaga mimivirus (APMV)	212035	190	22,172		DNA integration [GO:0015074]; regulation of transcription, DNA-templated [GO:0006355]		DNA binding [GO:0003677]; recombinase activity [GO:0000150]	15486256
+Q5UNU9	MGMT_MIMIV	Probable methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63) (6-O-methylguanine-DNA methyltransferase) (MGMT) (O-6-methylguanine-DNA-alkyltransferase)	MGMT MIMI_R693	Acanthamoeba polyphaga mimivirus (APMV)	212035	149	16,851	2.1.1.63	DNA repair [GO:0006281]		methylated-DNA-[protein]-cysteine S-methyltransferase activity [GO:0003908]	15486256
+Q5UPF4	YR080_MIMIV	Putative resolvase R80	MIMI_R80	Acanthamoeba polyphaga mimivirus (APMV)	212035	190	22,060		DNA integration [GO:0015074]; regulation of transcription, DNA-templated [GO:0006355]		DNA binding [GO:0003677]; recombinase activity [GO:0000150]	15486256
+Q5UP54	YR596_MIMIV	Probable FAD-linked sulfhydryl oxidase R596 (EC 1.8.3.2)	MIMI_R596	Acanthamoeba polyphaga mimivirus (APMV)	212035	292	33,998	1.8.3.2		virion [GO:0019012]	thiol oxidase activity [GO:0016972]	15486256; 16971431
+Q5UQP2	YL446_MIMIV	Uncharacterized protein L446 (EC 3.1.1.-)	MIMI_L446	Acanthamoeba polyphaga mimivirus (APMV)	212035	332	37,991	3.1.1.-	lipid catabolic process [GO:0016042]	integral component of membrane [GO:0016021]	hydrolase activity [GO:0016787]	15486256
+Q5UR46	YR571_MIMIV	Uncharacterized protein R571 (EC 3.1.1.-)	MIMI_R571	Acanthamoeba polyphaga mimivirus (APMV)	212035	297	33,945	3.1.1.-	lipid catabolic process [GO:0016042]	integral component of membrane [GO:0016021]	hydrolase activity [GO:0016787]	15486256
+Q5UQN5	TR443_MIMIV	Thioredoxin domain-containing protein R443	MIMI_R443	Acanthamoeba polyphaga mimivirus (APMV)	212035	164	19,438		cell redox homeostasis [GO:0045454]	host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQ59	SYR_MIMIV	Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)	RARS MIMI_R663	Acanthamoeba polyphaga mimivirus (APMV)	212035	600	68,994	6.1.1.19	arginyl-tRNA aminoacylation [GO:0006420]		arginine-tRNA ligase activity [GO:0004814]; ATP binding [GO:0005524]	15486256
+Q5UQM6	YR429_MIMIV	Putative transcription factor R429	MIMI_R429	Acanthamoeba polyphaga mimivirus (APMV)	212035	431	50,428		regulation of transcription, DNA-templated [GO:0006355]; regulation of viral transcription [GO:0046782]; transcription, DNA-templated [GO:0006351]		metal ion binding [GO:0046872]	15486256; 16494962
+Q5UQT7	RNC_MIMIV	Probable ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	MIMI_R343	Acanthamoeba polyphaga mimivirus (APMV)	212035	538	63,058	3.1.26.3	RNA processing [GO:0006396]; rRNA catabolic process [GO:0016075]		ribonuclease III activity [GO:0004525]; RNA binding [GO:0003723]	15486256
+Q5UPU3	YL268_MIMIV	Putative serine/threonine-protein kinase L268 (EC 2.7.11.1)	MIMI_L268	Acanthamoeba polyphaga mimivirus (APMV)	212035	546	63,372	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UNT4	YL670_MIMIV	Putative serine/threonine-protein kinase L670 (EC 2.7.11.1)	MIMI_L670	Acanthamoeba polyphaga mimivirus (APMV)	212035	539	62,673	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UP58	YR592_MIMIV	Putative helicase R592 (EC 3.6.4.-)	MIMI_R592	Acanthamoeba polyphaga mimivirus (APMV)	212035	841	95,723	3.6.4.-			ATP binding [GO:0005524]; helicase activity [GO:0004386]; metal ion binding [GO:0046872]	15486256
+Q5UNT1	YL673_MIMIV	Putative serine/threonine-protein kinase L673 (EC 2.7.11.1)	MIMI_L673	Acanthamoeba polyphaga mimivirus (APMV)	212035	545	63,468	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UPX7	RPO5_MIMIV	DNA-directed RNA polymerase subunit 5 (EC 2.7.7.6)	MIMI_L235	Acanthamoeba polyphaga mimivirus (APMV)	212035	205	23,495	2.7.7.6	transcription, DNA-templated [GO:0006351]	virion [GO:0019012]	DNA binding [GO:0003677]; DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	15486256; 16971431
+Q5UQ24	YL205_MIMIV	Putative serine/threonine-protein kinase L205 (EC 2.7.11.1)	MIMI_L205	Acanthamoeba polyphaga mimivirus (APMV)	212035	542	63,472	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UR22	YL364_MIMIV	Putative ATP-dependent RNA helicase L364 (EC 3.6.4.13)	MIMI_L364	Acanthamoeba polyphaga mimivirus (APMV)	212035	536	61,776	3.6.4.13			ATP binding [GO:0005524]; DNA binding [GO:0003677]; helicase activity [GO:0004386]	15486256
+Q7T6Y1	YR436_MIMIV	Putative serine/threonine-protein kinase R436 (EC 2.7.11.1)	MIMI_R436	Acanthamoeba polyphaga mimivirus (APMV)	212035	276	32,628	2.7.11.1			ATP binding [GO:0005524]; protein serine/threonine kinase activity [GO:0004674]	15486256
+Q5UQG0	YR486_MIMIV	Putative PAN domain-containing protein R486	MIMI_R486	Acanthamoeba polyphaga mimivirus (APMV)	212035	223	24,425			extracellular region [GO:0005576]; virion [GO:0019012]		15486256; 16971431
+Q5UR80	CYB5L_MIMIV	Cytochrome b5-like protein	MIMI_L628	Acanthamoeba polyphaga mimivirus (APMV)	212035	124	14,602		oxidation-reduction process [GO:0055114]	integral component of membrane [GO:0016021]	heme binding [GO:0020037]; metal ion binding [GO:0046872]	15486256
+Q5UPI1	YL103_MIMIV	Putative resolvase L103	MIMI_L103	Acanthamoeba polyphaga mimivirus (APMV)	212035	191	22,618		DNA integration [GO:0015074]		DNA binding [GO:0003677]; recombinase activity [GO:0000150]	15486256
+Q5UQV6	YR368_MIMIV	Probable FAD-linked sulfhydryl oxidase R368 (EC 1.8.3.2)	MIMI_R368	Acanthamoeba polyphaga mimivirus (APMV)	212035	143	16,981	1.8.3.2		integral component of membrane [GO:0016021]	thiol oxidase activity [GO:0016972]	15486256
+Q5UR29	TR548_MIMIV	Thioredoxin-like protein R548	MIMI_R548	Acanthamoeba polyphaga mimivirus (APMV)	212035	137	15,204		cell redox homeostasis [GO:0045454]; glycerol ether metabolic process [GO:0006662]		protein disulfide oxidoreductase activity [GO:0015035]	15486256
+Q5UNW7	YL720_MIMIV	Endonuclease 8-like L720 (Endonuclease VIII-like L720)	MIMI_L720	Acanthamoeba polyphaga mimivirus (APMV)	212035	274	32,402		base-excision repair [GO:0006284]; nucleotide-excision repair [GO:0006289]		damaged DNA binding [GO:0003684]; DNA-(apurinic or apyrimidinic site) lyase activity [GO:0003906]; hydrolase activity, hydrolyzing N-glycosyl compounds [GO:0016799]; zinc ion binding [GO:0008270]	15486256
+Q5UR49	YR568_MIMIV	Putative ATP-dependent DNA helicase R568 (EC 3.6.4.12)	MIMI_R568	Acanthamoeba polyphaga mimivirus (APMV)	212035	695	81,912	3.6.4.12			ATP binding [GO:0005524]; ATP-dependent DNA helicase activity [GO:0004003]; DNA binding [GO:0003677]	15486256
+Q5UQZ1	YL894_MIMIV	Putative truncated GMC-type inactive oxidoreductase L894	MIMI_L894	Acanthamoeba polyphaga mimivirus (APMV)	212035	438	48,304			virion [GO:0019012]	flavin adenine dinucleotide binding [GO:0050660]; oxidoreductase activity, acting on CH-OH group of donors [GO:0016614]	15486256; 16971431
+Q5UPT1	TF2B_MIMIV	Putative transcription initiation factor IIB-like protein	MIMI_L250	Acanthamoeba polyphaga mimivirus (APMV)	212035	461	51,887		DNA-templated transcriptional preinitiation complex assembly [GO:0070897]; regulation of transcription, DNA-templated [GO:0006355]		metal ion binding [GO:0046872]; TBP-class protein binding [GO:0017025]	15486256
+Q5UPE0	YL065_MIMIV	Uncharacterized protein L65	MIMI_L65	Acanthamoeba polyphaga mimivirus (APMV)	212035	355	39,117			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UPT0	LONH_MIMIV	Lon protease homolog (EC 3.4.21.-)	MIMI_L251	Acanthamoeba polyphaga mimivirus (APMV)	212035	1023	116,827	3.4.21.-	protein catabolic process [GO:0030163]		ATP binding [GO:0005524]; ATP-dependent peptidase activity [GO:0004176]; serine-type endopeptidase activity [GO:0004252]	15486256
+Q5UR20	YR366_MIMIV	Putative ATP-dependent RNA helicase R366 (EC 3.6.4.13)	MIMI_R366	Acanthamoeba polyphaga mimivirus (APMV)	212035	1766	208,526	3.6.4.13			ATP binding [GO:0005524]; helicase activity [GO:0004386]	15486256
+Q5UQK1	YR407_MIMIV	Putative RNA methyltransferase R407 (EC 2.1.1.-)	MIMI_R407	Acanthamoeba polyphaga mimivirus (APMV)	212035	356	41,389	2.1.1.-	RNA processing [GO:0006396]	virion [GO:0019012]	RNA methyltransferase activity [GO:0008173]	15486256; 16971431
+Q5UQ46	YL396_MIMIV	Putative ATP-dependent RNA helicase L396 (EC 3.6.4.13)	MIMI_L396	Acanthamoeba polyphaga mimivirus (APMV)	212035	519	60,347	3.6.4.13			ATP binding [GO:0005524]; DNA binding [GO:0003677]; helicase activity [GO:0004386]	15486256
+Q5UNU2	UVE1H_MIMIV	Putative UV-damage endonuclease (EC 3.-.-.-)	MIMI_L687	Acanthamoeba polyphaga mimivirus (APMV)	212035	330	38,547	3.-.-.-	nucleotide-excision repair [GO:0006289]; response to UV [GO:0009411]	virion [GO:0019012]	endonuclease activity [GO:0004519]	15486256; 16971431
+Q5UQ14	GLRX_MIMIV	Probable glutaredoxin	MIMI_R195	Acanthamoeba polyphaga mimivirus (APMV)	212035	106	12,084		cell redox homeostasis [GO:0045454]	virion [GO:0019012]	electron carrier activity [GO:0009055]; protein disulfide oxidoreductase activity [GO:0015035]	15486256; 16971431
+Q5UQD9	YR470_MIMIV	Putative DNA directed RNA polymerase subunit R470 (EC 2.7.7.6)	MIMI_R470	Acanthamoeba polyphaga mimivirus (APMV)	212035	357	41,630	2.7.7.6	transcription, DNA-templated [GO:0006351]	virion [GO:0019012]	DNA-directed 5'-3' RNA polymerase activity [GO:0003899]; protein dimerization activity [GO:0046983]	15486256; 16971431
+Q5UQW7	YL386_MIMIV	Putative endonuclease L386 (EC 3.1.-.-)	MIMI_L386	Acanthamoeba polyphaga mimivirus (APMV)	212035	473	54,028	3.1.-.-	DNA repair [GO:0006281]		DNA binding [GO:0003677]; endonuclease activity [GO:0004519]; metal ion binding [GO:0046872]	15486256
+Q5UQU6	MUTSL_MIMIV	Putative DNA mismatch repair protein mutS homolog L359	MIMI_L359	Acanthamoeba polyphaga mimivirus (APMV)	212035	1124	130,330		mismatch repair [GO:0006298]		ATP binding [GO:0005524]; mismatched DNA binding [GO:0030983]	15486256
+Q5UP79	YR008_MIMIV	Uncharacterized putative helicase R8 (EC 3.6.4.-)	MIMI_R8	Acanthamoeba polyphaga mimivirus (APMV)	212035	1052	123,521	3.6.4.-	DNA replication [GO:0006260]		ATP binding [GO:0005524]; DNA replication origin binding [GO:0003688]; helicase activity [GO:0004386]	15486256
+Q5UR67	RIBX_MIMIV	N-glycosidase R617 (EC 3.2.2.-) (Riboflavin biosynthesis intermediates N-glycosidase)	MIMI_R617	Acanthamoeba polyphaga mimivirus (APMV)	212035	170	19,894	3.2.2.-	metabolic process [GO:0008152]		hydrolase activity, acting on glycosyl bonds [GO:0016798]	15486256
+Q5URA7	YR877_MIMIV	Putative lipocalin R877	MIMI_R877	Acanthamoeba polyphaga mimivirus (APMV)	212035	169	19,105			extracellular region [GO:0005576]; virion [GO:0019012]	transporter activity [GO:0005215]	15486256; 16971431
+Q5UQG2	YL498_MIMIV	Probable zinc-type alcohol dehydrogenase-like protein L498 (EC 1.-.-.-)	MIMI_L498	Acanthamoeba polyphaga mimivirus (APMV)	212035	422	47,285	1.-.-.-		host cell cytoplasm [GO:0030430]; virion [GO:0019012]	oxidoreductase activity [GO:0016491]; zinc ion binding [GO:0008270]	15486256; 16971431
+Q5UR69	YL615_MIMIV	Putative phosphatidylinositol kinase L615 (EC 2.7.1.-)	MIMI_L615	Acanthamoeba polyphaga mimivirus (APMV)	212035	701	82,069	2.7.1.-	phosphatidylinositol-mediated signaling [GO:0048015]; phosphatidylinositol phosphorylation [GO:0046854]		kinase activity [GO:0016301]; metal ion binding [GO:0046872]	15486256
+Q5UPK7	YL128_MIMIV	Putative GMC-type oxidoreductase L128 (EC 1.-.-.-)	MIMI_L128	Acanthamoeba polyphaga mimivirus (APMV)	212035	563	61,626	1.-.-.-			flavin adenine dinucleotide binding [GO:0050660]; oxidoreductase activity, acting on CH-OH group of donors [GO:0016614]	15486256
+Q5UR64	NMT_MIMIV	Putative glycylpeptide N-tetradecanoyltransferase (EC 2.3.1.97) (Myristoyl-CoA:protein N-myristoyltransferase) (NMT) (Peptide N-myristoyltransferase)	MIMI_L621	Acanthamoeba polyphaga mimivirus (APMV)	212035	358	41,997	2.3.1.97	N-terminal protein myristoylation [GO:0006499]		glycylpeptide N-tetradecanoyltransferase activity [GO:0004379]	15486256
+Q5UQW6	YR387_MIMIV	Uncharacterized protein R387	MIMI_R387	Acanthamoeba polyphaga mimivirus (APMV)	212035	265	30,067			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQ86	RHBDL_MIMIV	Putative rhomboid protein L523 (EC 3.4.21.-)	MIMI_L523	Acanthamoeba polyphaga mimivirus (APMV)	212035	171	19,294	3.4.21.-		integral component of membrane [GO:0016021]	serine-type endopeptidase activity [GO:0004252]	15486256
+Q5UPZ5	YL309_MIMIV	Uncharacterized protein L309	MIMI_L309	Acanthamoeba polyphaga mimivirus (APMV)	212035	325	37,174			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQW1	YL376_MIMIV	Putative DNA-directed RNA polymerase subunit L376 (EC 2.7.7.6)	MIMI_L376	Acanthamoeba polyphaga mimivirus (APMV)	212035	199	22,532	2.7.7.6	transcription, DNA-templated [GO:0006351]	virion [GO:0019012]	DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	15486256; 16971431
+Q5UQV0	YR355_MIMIV	Putative thiol protease R355 (EC 3.4.22.-)	MIMI_R355	Acanthamoeba polyphaga mimivirus (APMV)	212035	302	34,896	3.4.22.-	viral protein processing [GO:0019082]	virion [GO:0019012]	cysteine-type endopeptidase activity [GO:0004197]	15486256; 16971431
+Q5UQ50	COLL6_MIMIV	Collagen-like protein 6	MIMI_L668	Acanthamoeba polyphaga mimivirus (APMV)	212035	1387	141,188			virion [GO:0019012]		15486256
+Q5UP23	YR260_MIMIV	DnaJ-like protein R260	MIMI_R260	Acanthamoeba polyphaga mimivirus (APMV)	212035	398	45,201		protein folding [GO:0006457]		heat shock protein binding [GO:0031072]; metal ion binding [GO:0046872]; unfolded protein binding [GO:0051082]	15486256
+Q5UPT2	UNG_MIMIV	Probable uracil-DNA glycosylase (UDG) (EC 3.2.2.-)	UNG MIMI_L249	Acanthamoeba polyphaga mimivirus (APMV)	212035	370	42,218	3.2.2.-	base-excision repair [GO:0006284]		uracil DNA N-glycosylase activity [GO:0004844]	15486256
+Q5UR12	TGDS_MIMIV	Putative dTDP-D-glucose 4,6-dehydratase (EC 4.2.1.46)	MIMI_R141	Acanthamoeba polyphaga mimivirus (APMV)	212035	323	36,874	4.2.1.46			dTDP-glucose 4,6-dehydratase activity [GO:0008460]	15486256
+Q5UNZ1	YL733_MIMIV	Uncharacterized ABC transporter ATP-binding protein/permease L733	MIMI_L733	Acanthamoeba polyphaga mimivirus (APMV)	212035	532	61,042		transport [GO:0006810]	integral component of membrane [GO:0016021]	ATPase activity [GO:0016887]; ATP binding [GO:0005524]	15486256
+Q7T6Y0	PCNA_MIMIV	Probable DNA polymerase sliding clamp (Proliferating cell nuclear antigen homolog) (PCNA)	PCNA MIMI_R493	Acanthamoeba polyphaga mimivirus (APMV)	212035	464	52,303		DNA replication [GO:0006260]; regulation of DNA replication [GO:0006275]		DNA binding [GO:0003677]; DNA polymerase processivity factor activity [GO:0030337]	15486256
+Q5UQ32	RPO6_MIMIV	DNA-directed RNA polymerase subunit 6 (EC 2.7.7.6)	MIMI_R209	Acanthamoeba polyphaga mimivirus (APMV)	212035	396	44,206	2.7.7.6	transcription, DNA-templated [GO:0006351]		DNA binding [GO:0003677]; DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	15486256
+Q5UQM5	YR430_MIMIV	Putative transcription factor R430	MIMI_R430	Acanthamoeba polyphaga mimivirus (APMV)	212035	257	29,752		regulation of transcription, DNA-templated [GO:0006355]; regulation of viral transcription [GO:0046782]; transcription, DNA-templated [GO:0006351]			15486256; 16494962
+Q5UPX2	YL288_MIMIV	Putative B-type lectin protein L288	MIMI_L288	Acanthamoeba polyphaga mimivirus (APMV)	212035	204	22,170			integral component of membrane [GO:0016021]	carbohydrate binding [GO:0030246]	15486256
+Q5UQ72	RFCS4_MIMIV	Putative replication factor C small subunit L510 (RFC small subunit L510) (Clamp loader small subunit L510)	MIMI_R510	Acanthamoeba polyphaga mimivirus (APMV)	212035	363	41,602		DNA replication [GO:0006260]		ATP binding [GO:0005524]; DNA binding [GO:0003677]	15486256
+Q5UQ47	RFCS1_MIMIV	Putative replication factor C small subunit R395 (RFC small subunit R395) (Clamp loader small subunit R395)	MIMI_R395	Acanthamoeba polyphaga mimivirus (APMV)	212035	319	36,837		DNA replication [GO:0006260]		ATP binding [GO:0005524]; DNA binding [GO:0003677]	15486256
+Q5UQL7	CAPS1_MIMIV	Capsid protein 1 (Capsid protein D13L)	MIMI_L425	Acanthamoeba polyphaga mimivirus (APMV)	212035	593	67,260			viral capsid [GO:0019028]	structural molecule activity [GO:0005198]	15486256; 16971431; 19432951
+Q5UPY0	YL294_MIMIV	Uncharacterized protein L294	MIMI_L294	Acanthamoeba polyphaga mimivirus (APMV)	212035	2959	339,888		microtubule-based movement [GO:0007018]	virion [GO:0019012]	ATP binding [GO:0005524]; microtubule binding [GO:0008017]; microtubule motor activity [GO:0003777]	15486256; 16971431
+Q5UQW4	YL373_MIMIV	Uncharacterized glycosyltransferase L373 (EC 2.4.-.-)	MIMI_L373	Acanthamoeba polyphaga mimivirus (APMV)	212035	251	29,928	2.4.-.-		integral component of membrane [GO:0016021]	transferase activity, transferring glycosyl groups [GO:0016757]	15486256
+Q5UR65	YL620_MIMIV	Uncharacterized protein L620 (EC 3.1.1.-)	MIMI_L620	Acanthamoeba polyphaga mimivirus (APMV)	212035	372	42,958	3.1.1.-	lipid catabolic process [GO:0016042]		hydrolase activity [GO:0016787]	15486256
+Q5UQM3	YR419_MIMIV	Uncharacterized short-chain type dehydrogenase/reductase R419 (EC 1.-.-.-)	MIMI_R419	Acanthamoeba polyphaga mimivirus (APMV)	212035	342	37,872	1.-.-.-			oxidoreductase activity [GO:0016491]	15486256
+Q5UQ76	YR519_MIMIV	Putative zinc metalloproteinase R519 (EC 3.4.24.-)	MIMI_R519	Acanthamoeba polyphaga mimivirus (APMV)	212035	615	73,508	3.4.24.-			metal ion binding [GO:0046872]; metalloendopeptidase activity [GO:0004222]	15486256
+Q5UQQ9	YR854_MIMIV	Putative transposase R854	MIMI_R854	Acanthamoeba polyphaga mimivirus (APMV)	212035	527	61,036		DNA recombination [GO:0006310]; transposition [GO:0032196]		DNA binding [GO:0003677]; metal ion binding [GO:0046872]	15486256
+Q5UPF5	YL079_MIMIV	Putative transposase L79	MIMI_L79	Acanthamoeba polyphaga mimivirus (APMV)	212035	520	60,451		DNA recombination [GO:0006310]; transposition [GO:0032196]		DNA binding [GO:0003677]; metal ion binding [GO:0046872]	15486256
+Q5UQE4	YR472_MIMIV	Uncharacterized protein R472	MIMI_R472	Acanthamoeba polyphaga mimivirus (APMV)	212035	1700	199,851			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UPQ8	YL770_MIMIV	Putative transposase L770	MIMI_L770	Acanthamoeba polyphaga mimivirus (APMV)	212035	520	60,208		DNA recombination [GO:0006310]; transposition [GO:0032196]		DNA binding [GO:0003677]; metal ion binding [GO:0046872]	15486256
+Q5URB4	YR186_MIMIV	Putative transposase R186	MIMI_R186	Acanthamoeba polyphaga mimivirus (APMV)	212035	482	57,232		DNA recombination [GO:0006310]; transposition [GO:0032196]		DNA binding [GO:0003677]; metal ion binding [GO:0046872]	15486256
+Q5UQE8	RFCS2_MIMIV	Putative replication factor C small subunit L478 (RFC small subunit L478) (Clamp loader small subunit L478)	MIMI_L478	Acanthamoeba polyphaga mimivirus (APMV)	212035	370	43,148		DNA replication [GO:0006260]		ATP binding [GO:0005524]; DNA binding [GO:0003677]	15486256
+Q5UQK9	RFCL_MIMIV	Putative replication factor C large subunit (RFC large subunit) (Clamp loader large subunit)	MIMI_R411	Acanthamoeba polyphaga mimivirus (APMV)	212035	533	61,391		DNA replication [GO:0006260]		ATP binding [GO:0005524]; DNA clamp loader activity [GO:0003689]	15486256
+Q5UQH9	YR832_MIMIV	Putative truncated GMC-type inactive oxidoreductase R832	MIMI_R832	Acanthamoeba polyphaga mimivirus (APMV)	212035	414	45,735				flavin adenine dinucleotide binding [GO:0050660]; oxidoreductase activity, acting on CH-OH group of donors [GO:0016614]	15486256
+Q5UPR2	YL778_MIMIV	Uncharacterized protein L778	MIMI_L778	Acanthamoeba polyphaga mimivirus (APMV)	212035	257	28,790			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQS3	YL330_MIMIV	Uncharacterized protein L330	MIMI_L330	Acanthamoeba polyphaga mimivirus (APMV)	212035	265	30,622			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQ83	YR526_MIMIV	Putative alpha/beta hydrolase R526 (EC 3.-.-.-)	MIMI_R526	Acanthamoeba polyphaga mimivirus (APMV)	212035	346	39,212	3.-.-.-	metabolic process [GO:0008152]	virion [GO:0019012]	hydrolase activity [GO:0016787]	15486256; 16971431
+Q5UQ89	YL520_MIMIV	Putative BTB/POZ domain-containing protein L520	MIMI_L520	Acanthamoeba polyphaga mimivirus (APMV)	212035	824	96,215		protein homooligomerization [GO:0051260]	viral capsid [GO:0019028]	structural molecule activity [GO:0005198]	15486256
+Q5UR74	PTPH_MIMIV	Putative tyrosine-protein phosphatase R622 (EC 3.1.3.48)	MIMI_R622	Acanthamoeba polyphaga mimivirus (APMV)	212035	212	24,840	3.1.3.48			protein tyrosine/serine/threonine phosphatase activity [GO:0008138]; protein tyrosine phosphatase activity [GO:0004725]	15486256
+Q5UQK3	YR405_MIMIV	Putative RNA methyltransferase R405 (EC 2.1.1.-)	MIMI_R405	Acanthamoeba polyphaga mimivirus (APMV)	212035	389	44,942	2.1.1.-	RNA processing [GO:0006396]		RNA methyltransferase activity [GO:0008173]	15486256
+Q5UPX9	YL233_MIMIV	Putative zinc protease L233 (EC 3.4.24.-)	MIMI_L233	Acanthamoeba polyphaga mimivirus (APMV)	212035	440	50,644	3.4.24.-			metal ion binding [GO:0046872]; metallopeptidase activity [GO:0008237]	15486256
+Q5UPE4	COLL1_MIMIV	Collagen-like protein 1	MIMI_L71	Acanthamoeba polyphaga mimivirus (APMV)	212035	945	93,884			virion [GO:0019012]		15486256
+Q5UQ94	YR528_MIMIV	Putative 5'-3' exonuclease R528 (EC 3.1.11.-)	MIMI_R528	Acanthamoeba polyphaga mimivirus (APMV)	212035	621	74,127	3.1.11.-		virion [GO:0019012]	exonuclease activity [GO:0004527]; nucleic acid binding [GO:0003676]	15486256; 16971431
+Q5UPS6	COLL5_MIMIV	Collagen-like protein 5	MIMI_R241	Acanthamoeba polyphaga mimivirus (APMV)	212035	812	78,147			virion [GO:0019012]		15486256
+Q5UNS9	COLL7_MIMIV	Collagen-like protein 7	MIMI_L669	Acanthamoeba polyphaga mimivirus (APMV)	212035	1937	194,319			virion [GO:0019012]		15486256
+Q5UPS7	COLL4_MIMIV	Collagen-like protein 4	MIMI_R240	Acanthamoeba polyphaga mimivirus (APMV)	212035	817	79,512			virion [GO:0019012]		15486256
+Q5UQ13	COLL2_MIMIV	Collagen-like protein 2	MIMI_R196	Acanthamoeba polyphaga mimivirus (APMV)	212035	1595	158,703			virion [GO:0019012]		15486256
+Q5UPX3	COLL3_MIMIV	Collagen-like protein 3	MIMI_R239	Acanthamoeba polyphaga mimivirus (APMV)	212035	939	90,971			virion [GO:0019012]		15486256
+Q5UR44	GLNA_MIMIV	Putative glutamine synthetase (EC 6.3.1.2)	MIMI_R565	Acanthamoeba polyphaga mimivirus (APMV)	212035	353	40,079	6.3.1.2	glutamine biosynthetic process [GO:0006542]		ATP binding [GO:0005524]; glutamate-ammonia ligase activity [GO:0004356]	15486256
+Q5UP03	Y749_MIMIV	Putative homeobox protein R749	MIMI_R749	Acanthamoeba polyphaga mimivirus (APMV)	212035	224	25,722		regulation of transcription, DNA-templated [GO:0006355]; transcription, DNA-templated [GO:0006351]	host cell nucleus [GO:0042025]	DNA binding [GO:0003677]	15486256
+B4YNF0	V10_SPTNK	Putative integrase V10		Sputnik virophage	543939	226	26,136		DNA integration [GO:0015074]; DNA recombination [GO:0006310]; establishment of integrated proviral latency [GO:0075713]; viral entry into host cell [GO:0046718]; viral genome integration into host DNA [GO:0044826]		DNA binding [GO:0003677]	18690211
+Q5UNV4	UNAP_MIMIV	Probable UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase)	MIMI_R689	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	29,062	2.7.7.23	UDP-N-acetylglucosamine biosynthetic process [GO:0006048]		UDP-N-acetylglucosamine diphosphorylase activity [GO:0003977]	15486256
+Q5UQW3	YL374_MIMIV	Uncharacterized protein L374	MIMI_L374	Acanthamoeba polyphaga mimivirus (APMV)	212035	225	26,668			integral component of membrane [GO:0016021]		15486256
+Q5UP47	RFCS3_MIMIV	Putative replication factor C small subunit L499 (RFC small subunit L499) (Clamp loader small subunit L499)	MIMI_L499	Acanthamoeba polyphaga mimivirus (APMV)	212035	344	39,203		DNA replication [GO:0006260]		ATP binding [GO:0005524]	15486256
+Q5UQS8	TFS2_MIMIV	Transcription factor S-II-related protein	MIMI_R339	Acanthamoeba polyphaga mimivirus (APMV)	212035	173	20,747		transcription, DNA-templated [GO:0006351]		nucleic acid binding [GO:0003676]; zinc ion binding [GO:0008270]	15486256
+Q5UR72	YR624_MIMIV	Putative GTP-binding protein R624	MIMI_R624	Acanthamoeba polyphaga mimivirus (APMV)	212035	480	53,834				GTPase activity [GO:0003924]; GTP binding [GO:0005525]	15486256
+Q5UR16	YR659_MIMIV	Putative EGF-like domain-containing protein R659	MIMI_R659	Acanthamoeba polyphaga mimivirus (APMV)	212035	525	57,973			extracellular region [GO:0005576]		15486256
+Q5UQR8	YL323_MIMIV	Uncharacterized protein L323	MIMI_L323	Acanthamoeba polyphaga mimivirus (APMV)	212035	283	29,397			integral component of membrane [GO:0016021]		15486256
+Q5UPU0	HSP7L_MIMIV	Heat shock protein 70 homolog	MIMI_L254	Acanthamoeba polyphaga mimivirus (APMV)	212035	941	107,204				ATP binding [GO:0005524]	15486256
+Q5UR25	TR362_MIMIV	Thioredoxin domain-containing protein R362	MIMI_R362	Acanthamoeba polyphaga mimivirus (APMV)	212035	346	39,473		cell redox homeostasis [GO:0045454]	virion [GO:0019012]		15486256; 16971431
+Q5UR81	YL633_MIMIV	Putative lectin L633	MIMI_L633	Acanthamoeba polyphaga mimivirus (APMV)	212035	199	21,604			extracellular region [GO:0005576]	carbohydrate binding [GO:0030246]	15486256
+Q5UQG4	IF4EH_MIMIV	Eukaryotic translation initiation factor 4E homolog (eIF-4E) (eIF4E) (mRNA cap-binding protein)	MIMI_L496	Acanthamoeba polyphaga mimivirus (APMV)	212035	272	30,949		regulation of translation [GO:0006417]	host cell cytoplasm [GO:0030430]	translation initiation factor activity [GO:0003743]	15486256
+Q5UR52	YR584_MIMIV	Uncharacterized N-acetyltransferase R584 (EC 2.3.1.-)	MIMI_R584	Acanthamoeba polyphaga mimivirus (APMV)	212035	407	46,994	2.3.1.-		virion [GO:0019012]	N-acetyltransferase activity [GO:0008080]	15486256; 16971431
+Q5UQK4	YL404_MIMIV	Putative alpha/beta hydrolase L404 (EC 3.-.-.-)	MIMI_L404	Acanthamoeba polyphaga mimivirus (APMV)	212035	263	30,058	3.-.-.-			hydrolase activity [GO:0016787]	15486256
+Q5UNX8	YR722_MIMIV	Uncharacterized protein R722	MIMI_R722	Acanthamoeba polyphaga mimivirus (APMV)	212035	872	100,055			virion [GO:0019012]	metallopeptidase activity [GO:0008237]	15486256; 16971431
+Q5UQJ8	YR398_MIMIV	Uncharacterized protein R398	MIMI_R398	Acanthamoeba polyphaga mimivirus (APMV)	212035	252	28,833			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQ71	YL511_MIMIV	Uncharacterized protein L511 (EC 2.1.1.-)	MIMI_L511	Acanthamoeba polyphaga mimivirus (APMV)	212035	788	93,002	2.1.1.-			methyltransferase activity [GO:0008168]	15486256
+Q5UQZ2	YL893_MIMIV	Putative truncated GMC-type inactive oxidoreductase L893	MIMI_L893	Acanthamoeba polyphaga mimivirus (APMV)	212035	151	16,122			virion [GO:0019012]	oxidoreductase activity, acting on CH-OH group of donors [GO:0016614]	15486256; 16971431
+Q5UPI0	YR104_MIMIV	Putative transposase R104	MIMI_R104	Acanthamoeba polyphaga mimivirus (APMV)	212035	545	64,847		DNA recombination [GO:0006310]; transposition [GO:0032196]		DNA binding [GO:0003677]; metal ion binding [GO:0046872]	15486256
+Q5UP06	YR756_MIMIV	Uncharacterized protein R756	MIMI_R756	Acanthamoeba polyphaga mimivirus (APMV)	212035	298	34,843		rRNA processing [GO:0006364]	host cell cytoplasm [GO:0030430]	4 iron, 4 sulfur cluster binding [GO:0051539]; metal ion binding [GO:0046872]; RNA methyltransferase activity [GO:0008173]	15486256
+Q5UR31	YR557_MIMIV	Uncharacterized protein R557	MIMI_R557	Acanthamoeba polyphaga mimivirus (APMV)	212035	160	17,983			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UNV5	YL701_MIMIV	Uncharacterized protein L701	MIMI_L701	Acanthamoeba polyphaga mimivirus (APMV)	212035	203	22,204			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UNW0	YR695_MIMIV	Uncharacterized protein R695	MIMI_R695	Acanthamoeba polyphaga mimivirus (APMV)	212035	147	16,247			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q5UQ56	YR710_MIMIV	Uncharacterized protein R710	MIMI_R710	Acanthamoeba polyphaga mimivirus (APMV)	212035	194	21,939			host cell membrane [GO:0033644]; integral component of membrane [GO:0016021]; virion [GO:0019012]		15486256; 16971431
+Q7T6X8	YR700_MIMIV	Uncharacterized serpin-like protein R700	MIMI_R700	Acanthamoeba polyphaga mimivirus (APMV)	212035	401	46,710			extracellular space [GO:0005615]	serine-type endopeptidase inhibitor activity [GO:0004867]	15486256
+Q5UPD3	YR061_MIMIV	Putative BTB/POZ domain and WD-repeat protein R61	MIMI_R61	Acanthamoeba polyphaga mimivirus (APMV)	212035	496	57,581					15486256
+Q5UPJ4	YL115_MIMIV	Putative helicase L115 (EC 3.6.4.-)	MIMI_L115	Acanthamoeba polyphaga mimivirus (APMV)	212035	1246	143,267	3.6.4.-			ATP binding [GO:0005524]; helicase activity [GO:0004386]	15486256
+Q5UQB7	YR224_MIMIV	Putative BTB/POZ domain-containing protein R224	MIMI_R224	Acanthamoeba polyphaga mimivirus (APMV)	212035	540	62,603			integral component of membrane [GO:0016021]		15486256
+Q5UQ22	YL207_MIMIV	Putative helicase L207/L206 (EC 3.6.4.-)	MIMI_L206 MIMI_L207	Acanthamoeba polyphaga mimivirus (APMV)	212035	960	111,988	3.6.4.-			ATP binding [GO:0005524]; helicase activity [GO:0004386]	15486256; 
+Q5UPV0	YL272_MIMIV	Putative BTB/POZ domain-containing protein L272	MIMI_L272	Acanthamoeba polyphaga mimivirus (APMV)	212035	762	88,029					15486256
+Q5UPL9	YR151_MIMIV	Uncharacterized acetyltransferase R151 (EC 2.3.1.-)	MIMI_R151	Acanthamoeba polyphaga mimivirus (APMV)	212035	212	25,070	2.3.1.-	metabolic process [GO:0008152]		acetyltransferase activity [GO:0016407]	15486256
+Q5UPV4	YL280_MIMIV	Uncharacterized acetyltransferase L280 (EC 2.3.1.-)	MIMI_L280	Acanthamoeba polyphaga mimivirus (APMV)	212035	204	23,849	2.3.1.-	metabolic process [GO:0008152]		acetyltransferase activity [GO:0016407]	15486256
+Q5UQ70	DNMK_MIMIV	Putative deoxynucleotide monophosphate kinase (DNK) (dNMP kinase) (EC 2.7.4.13)	MIMI_R512	Acanthamoeba polyphaga mimivirus (APMV)	212035	193	22,106	2.7.4.13			(deoxy)nucleoside-phosphate kinase activity [GO:0047507]; ATP binding [GO:0005524]	15486256
+Q5UQP9	TBPL_MIMIV	TATA-box-binding protein-like (TATA-binding factor-like) (TATA-box factor-like) (TBP-like)	MIMI_R453	Acanthamoeba polyphaga mimivirus (APMV)	212035	367	42,487		DNA-templated transcription, initiation [GO:0006352]		DNA binding [GO:0003677]	15486256
+Q5UQR9	YL334_MIMIV	Uncharacterized protein L334	MIMI_L334	Acanthamoeba polyphaga mimivirus (APMV)	212035	187	22,422					15486256
+Q7T6X0	YR161_MIMIV	Uncharacterized protein R161	MIMI_R161	Acanthamoeba polyphaga mimivirus (APMV)	212035	433	50,902			virion [GO:0019012]		15486256; 16971431
+Q5UQ80	YL515_MIMIV	Uncharacterized protein L515	MIMI_L515	Acanthamoeba polyphaga mimivirus (APMV)	212035	729	86,710			virion [GO:0019012]		15486256; 16971431
+Q5UQF0	YL484_MIMIV	Putative ankyrin repeat protein L484	MIMI_L484	Acanthamoeba polyphaga mimivirus (APMV)	212035	1908	219,842			virion [GO:0019012]		15486256; 16971431
+Q5UQH4	YL823_MIMIV	Uncharacterized protein L823	MIMI_L823	Acanthamoeba polyphaga mimivirus (APMV)	212035	323	36,484		regulation of DNA replication [GO:0006275]		DNA binding [GO:0003677]; DNA polymerase processivity factor activity [GO:0030337]	15486256
+Q5UR40	YR559_MIMIV	Uncharacterized HTH-type transcriptional regulator R559	MIMI_R559	Acanthamoeba polyphaga mimivirus (APMV)	212035	226	26,345		regulation of transcription, DNA-templated [GO:0006355]; transcription, DNA-templated [GO:0006351]		sequence-specific DNA binding [GO:0043565]	15486256
+Q5UQ63	YR654_MIMIV	Putative fucosyltransferase R654 (EC 2.4.1.-)	MIMI_R654	Acanthamoeba polyphaga mimivirus (APMV)	212035	600	70,731	2.4.1.-	protein glycosylation [GO:0006486]	membrane [GO:0016020]	fucosyltransferase activity [GO:0008417]	15486256
+Q5UPR5	YL775_MIMIV	Putative PAN domain-containing protein L775	MIMI_L775	Acanthamoeba polyphaga mimivirus (APMV)	212035	203	22,760					15486256
+Q5UQY3	YL887_MIMIV	Putative JmjC domain-containing protein L887	MIMI_L887	Acanthamoeba polyphaga mimivirus (APMV)	212035	604	70,945			integral component of membrane [GO:0016021]		15486256
+Q5UPU7	YL264_MIMIV	Uncharacterized WD repeat-containing protein L264	MIMI_L264	Acanthamoeba polyphaga mimivirus (APMV)	212035	1389	152,316			virion [GO:0019012]		15486256; 16971431
+P02599	CALM_DICDI	Calmodulin (CaM)	calA camA DDB_G0279407	Dictyostelium discoideum (Slime mold)	44689	152	17,151		establishment of protein localization to vacuole [GO:0072666]; mitotic cytokinesis [GO:0000281]; negative regulation of asexual reproduction [GO:1903665]; negative regulation of proteolysis [GO:0045861]; positive regulation of ATPase activity [GO:0032781]; positive regulation of cyclic-nucleotide phosphodiesterase activity [GO:0051343]; positive regulation of positive chemotaxis to cAMP [GO:0061122]; regulation of kinase activity [GO:0043549]	contractile vacuole [GO:0000331]; cytoplasm [GO:0005737]; extracellular matrix [GO:0031012]; extracellular space [GO:0005615]; intracellular [GO:0005622]; nucleus [GO:0005634]	calcium ion binding [GO:0005509]; cell adhesion molecule binding [GO:0050839]; kinase binding [GO:0019900]; protein kinase binding [GO:0019901]; troponin I binding [GO:0031013]	1493336; 15875012; 6087882; 3785182; 6243626; 1629238; 11923193; 11919178; 12912885; 15363631; 14595117; 15883042; 16777069; 16782229
+P36010	NDK_YEAST	Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6)	YNK1 NDK1 YNK YKL067W YKL333	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	559292	153	17,167	2.7.4.6	cellular response to DNA damage stimulus [GO:0006974]; CTP biosynthetic process [GO:0006241]; DNA repair [GO:0006281]; GTP biosynthetic process [GO:0006183]; nucleoside diphosphate phosphorylation [GO:0006165]; nucleoside triphosphate biosynthetic process [GO:0009142]; UTP biosynthetic process [GO:0006228]	cytosol [GO:0005829]; mitochondrial intermembrane space [GO:0005758]	ATP binding [GO:0005524]; identical protein binding [GO:0042802]; metal ion binding [GO:0046872]; nucleoside diphosphate kinase activity [GO:0004550]	8392963; 8091863; 8196765; 24374639; 17322287; 4576138; 1659321; 12472466; 14562106; 16957983; 18407956; 18983998; 18607079
+Q5UQP7	YR455_MIMIV	Uncharacterized protein R455	MIMI_R455	Acanthamoeba polyphaga mimivirus (APMV)	212035	230	27,181			integral component of membrane [GO:0016021]		15486256
+Q5UQF7	YR489_MIMIV	Uncharacterized protein R489	MIMI_R489	Acanthamoeba polyphaga mimivirus (APMV)	212035	221	25,475			virion [GO:0019012]		15486256; 16971431
+Q5UNV0	YR692_MIMIV	Uncharacterized protein R692	MIMI_R692	Acanthamoeba polyphaga mimivirus (APMV)	212035	354	39,948			virion [GO:0019012]		15486256; 16971431
+Q5UNU7	YL682_MIMIV	Uncharacterized protein L682	MIMI_L682	Acanthamoeba polyphaga mimivirus (APMV)	212035	114	12,851			integral component of membrane [GO:0016021]		15486256
+Q5UQD3	YR468_MIMIV	Uncharacterized protein R468	MIMI_R468	Acanthamoeba polyphaga mimivirus (APMV)	212035	240	27,950			integral component of membrane [GO:0016021]		15486256
+Q5URB6	YR843_MIMIV	Uncharacterized hydrolase R843 (EC 3.-.-.-)	MIMI_R843	Acanthamoeba polyphaga mimivirus (APMV)	212035	312	36,132	3.-.-.-			hydrolase activity [GO:0016787]	15486256
+Q5UPZ7	YR307_MIMIV	PP2C-like domain-containing protein R307	MIMI_R307	Acanthamoeba polyphaga mimivirus (APMV)	212035	179	20,751			virion [GO:0019012]	protein serine/threonine phosphatase activity [GO:0004722]	15486256; 16971431
+Q5UNT8	YL678_MIMIV	Putative SET domain-containing protein L678 (EC 2.1.1.-)	MIMI_L678	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	29,817	2.1.1.-			methyltransferase activity [GO:0008168]	15486256
+Q5UR88	PEBPH_MIMIV	Phosphatidylethanolamine-binding protein homolog R644	MIMI_R644	Acanthamoeba polyphaga mimivirus (APMV)	212035	143	16,882			virion [GO:0019012]	lipid binding [GO:0008289]	15486256; 16971431
+Q5UR19	YR656_MIMIV	Uncharacterized protein R656	MIMI_R656	Acanthamoeba polyphaga mimivirus (APMV)	212035	492	54,291			extracellular region [GO:0005576]	oxidoreductase activity [GO:0016491]	15486256
+Q5UQB9	YL222_MIMIV	Putative SET domain-containing protein L222 (EC 2.1.1.-)	MIMI_L222	Acanthamoeba polyphaga mimivirus (APMV)	212035	314	35,777	2.1.1.-			methyltransferase activity [GO:0008168]	15486256
+Q5UQ49	HSP70_MIMIV	Heat shock 70 kDa protein homolog	HSP70 MIMI_L393	Acanthamoeba polyphaga mimivirus (APMV)	212035	634	70,514				ATP binding [GO:0005524]	15486256
+Q5UQM4	YR431_MIMIV	Putative 3'-5' exonuclease R431 (EC 3.1.11.-)	MIMI_R431	Acanthamoeba polyphaga mimivirus (APMV)	212035	399	46,309	3.1.11.-			3'-5' exonuclease activity [GO:0008408]; nucleic acid binding [GO:0003676]	15486256
+Q5UNZ2	YR739_MIMIV	Putative BTB/POZ domain and WD-repeat protein R739	MIMI_R739	Acanthamoeba polyphaga mimivirus (APMV)	212035	490	56,621					15486256
+Q5UNX1	YL716_MIMIV	Putative glutamine amidotransferase-like protein L716	MIMI_L716	Acanthamoeba polyphaga mimivirus (APMV)	212035	205	23,676		glutamine metabolic process [GO:0006541]		transferase activity [GO:0016740]	15486256
+Q5UQD7	SUI1_MIMIV	Protein translation factor SUI1 homolog	MIMI_R464	Acanthamoeba polyphaga mimivirus (APMV)	212035	106	12,541		regulation of translation [GO:0006417]		translation initiation factor activity [GO:0003743]	15486256
+Q5UPR9	YL786_MIMIV	Putative BTB/POZ domain and WD-repeat protein R786	MIMI_L786	Acanthamoeba polyphaga mimivirus (APMV)	212035	492	56,601					15486256
+Q5UNY1	YR731_MIMIV	Putative BTB/POZ domain and WD-repeat protein R731	MIMI_R731	Acanthamoeba polyphaga mimivirus (APMV)	212035	518	59,980					15486256
+Q5UQI0	YR830_MIMIV	Putative BTB/POZ domain-containing protein R830	MIMI_R830	Acanthamoeba polyphaga mimivirus (APMV)	212035	477	56,048					15486256
+Q5UPH2	YL098_MIMIV	Putative BTB/POZ domain-containing protein L98	MIMI_L98	Acanthamoeba polyphaga mimivirus (APMV)	212035	495	57,550					15486256
+Q5UPL6	YR154_MIMIV	Putative BTB/POZ domain and WD-repeat protein R154	MIMI_R154	Acanthamoeba polyphaga mimivirus (APMV)	212035	468	54,628					15486256
+Q5URB7	YR842_MIMIV	Putative BTB/POZ domain-containing protein R842	MIMI_R842	Acanthamoeba polyphaga mimivirus (APMV)	212035	504	59,320					15486256
+Q5UR45	YL572_MIMIV	Putative AAA family ATPase L572	MIMI_L572	Acanthamoeba polyphaga mimivirus (APMV)	212035	196	22,163		mitochondrial respiratory chain complex III assembly [GO:0034551]		ATP binding [GO:0005524]	15486256
+Q5UPS2	YL783_MIMIV	Putative BTB/POZ domain and WD-repeat protein R783	MIMI_L783	Acanthamoeba polyphaga mimivirus (APMV)	212035	527	61,293					15486256
+Q5UR48	YR569_MIMIV	Uncharacterized exonuclease R569 (EC 3.1.-.-)	MIMI_R569	Acanthamoeba polyphaga mimivirus (APMV)	212035	321	37,292	3.1.-.-			exonuclease activity [GO:0004527]; nucleic acid binding [GO:0003676]	15486256
+Q5UPB5	YL035_MIMIV	Putative BTB/POZ domain-containing protein L35	MIMI_L35	Acanthamoeba polyphaga mimivirus (APMV)	212035	493	58,213					15486256
+Q5UQA0	YL536_MIMIV	Uncharacterized protein L536	MIMI_L536	Acanthamoeba polyphaga mimivirus (APMV)	212035	169	19,930			integral component of membrane [GO:0016021]		15486256
+Q5UP86	YL012_MIMIV	Uncharacterized protein L12	MIMI_L12	Acanthamoeba polyphaga mimivirus (APMV)	212035	487	57,085					15486256
+Q5UNU6	YL683_MIMIV	Uncharacterized protein L683	MIMI_L683	Acanthamoeba polyphaga mimivirus (APMV)	212035	222	26,445					15486256
+Q5UQM9	YL426_MIMIV	Uncharacterized protein L426	MIMI_L426	Acanthamoeba polyphaga mimivirus (APMV)	212035	227	27,672					15486256
+Q5UP33	YR827_MIMIV	Uncharacterized protein R827	MIMI_R827	Acanthamoeba polyphaga mimivirus (APMV)	212035	297	33,849					15486256
+Q5UNV3	YL690_MIMIV	Uncharacterized protein L690	MIMI_L690	Acanthamoeba polyphaga mimivirus (APMV)	212035	374	40,921			virion [GO:0019012]		15486256; 16971431
+Q5UP93	YL017_MIMIV	Uncharacterized protein L17	MIMI_L17	Acanthamoeba polyphaga mimivirus (APMV)	212035	356	41,600					15486256
+Q5UQH6	YR821_MIMIV	Uncharacterized protein R821	MIMI_R821	Acanthamoeba polyphaga mimivirus (APMV)	212035	556	64,414					15486256
+Q5UPE7	YL068_MIMIV	Uncharacterized protein L68	MIMI_L68	Acanthamoeba polyphaga mimivirus (APMV)	212035	241	28,496			integral component of membrane [GO:0016021]		15486256
+Q5UQI2	YR809_MIMIV	Uncharacterized protein R809	MIMI_R809	Acanthamoeba polyphaga mimivirus (APMV)	212035	229	27,318			integral component of membrane [GO:0016021]		15486256
+Q5UR09	YR648_MIMIV	Uncharacterized protein R648	MIMI_R648	Acanthamoeba polyphaga mimivirus (APMV)	212035	400	43,404			virion [GO:0019012]		15486256; 16971431
+Q5UP55	YR595_MIMIV	Uncharacterized protein R595	MIMI_R595	Acanthamoeba polyphaga mimivirus (APMV)	212035	294	34,159			integral component of membrane [GO:0016021]		15486256
+Q5UQD0	YR459_MIMIV	Uncharacterized protein R459	MIMI_R459	Acanthamoeba polyphaga mimivirus (APMV)	212035	194	21,802			virion [GO:0019012]		15486256; 16971431
+Q5UQP5	YR457_MIMIV	Uncharacterized protein R457	MIMI_R457	Acanthamoeba polyphaga mimivirus (APMV)	212035	189	21,376			virion [GO:0019012]		15486256; 16971431
+Q5UNW2	YR706_MIMIV	Uncharacterized protein R706	MIMI_R706	Acanthamoeba polyphaga mimivirus (APMV)	212035	420	49,938			virion [GO:0019012]		15486256; 16971431
+Q5UQ52	YR708_MIMIV	Uncharacterized phosphoglycerate mutase family protein R708	MIMI_R708	Acanthamoeba polyphaga mimivirus (APMV)	212035	204	24,090					15486256
+Q5UQ74	YR508_MIMIV	Putative SWIB domain-containing protein R508	MIMI_R508	Acanthamoeba polyphaga mimivirus (APMV)	212035	335	38,296					15486256
+Q5UQ79	YL516_MIMIV	Uncharacterized protein L516	MIMI_L516	Acanthamoeba polyphaga mimivirus (APMV)	212035	650	77,005			virion [GO:0019012]		15486256; 16971431
+Q5UQZ3	YL899_MIMIV	Uncharacterized protein L899	MIMI_L899	Acanthamoeba polyphaga mimivirus (APMV)	212035	161	18,382			virion [GO:0019012]		15486256; 16971431
+Q5UPM2	YR160_MIMIV	Uncharacterized protein R160	MIMI_R160	Acanthamoeba polyphaga mimivirus (APMV)	212035	433	51,080			virion [GO:0019012]		15486256; 16971431
+Q5UQN8	YL438_MIMIV	Putative TLC domain-containing protein L438	MIMI_L438	Acanthamoeba polyphaga mimivirus (APMV)	212035	200	24,078			integral component of membrane [GO:0016021]		15486256
+Q5UPL7	YL153_MIMIV	Uncharacterized protein L153	MIMI_L153	Acanthamoeba polyphaga mimivirus (APMV)	212035	152	17,611			integral component of membrane [GO:0016021]		15486256
+Q5UP09	YR753_MIMIV	Putative F-box/LRR-repeat protein R753	MIMI_R753	Acanthamoeba polyphaga mimivirus (APMV)	212035	751	87,301					15486256
+Q5UNZ6	YL742_MIMIV	Putative BTB/POZ domain-containing protein L742	MIMI_L742	Acanthamoeba polyphaga mimivirus (APMV)	212035	449	52,236		protein homooligomerization [GO:0051260]			15486256
+Q5UQA8	YR541_MIMIV	Putative BTB/POZ domain-containing protein R541	MIMI_R541	Acanthamoeba polyphaga mimivirus (APMV)	212035	459	54,813		protein homooligomerization [GO:0051260]			15486256
+Q5UPV9	YL275_MIMIV	Putative BTB/POZ domain-containing protein L275	MIMI_L275	Acanthamoeba polyphaga mimivirus (APMV)	212035	435	51,177		protein homooligomerization [GO:0051260]			15486256
+Q5UQF8	YL488_MIMIV	Uncharacterized protein L488	MIMI_L488	Acanthamoeba polyphaga mimivirus (APMV)	212035	559	63,172			virion [GO:0019012]		15486256; 16971431
+Q5UR50	YL567_MIMIV	Uncharacterized protein L567	MIMI_L567	Acanthamoeba polyphaga mimivirus (APMV)	212035	320	37,169			virion [GO:0019012]		15486256; 16971431
+Q5UQL0	YL410_MIMIV	Putative core protein L410	MIMI_L410	Acanthamoeba polyphaga mimivirus (APMV)	212035	661	75,338			virion [GO:0019012]		15486256; 16971431
+Q5UP70	YL606_MIMIV	Uncharacterized protein L606	MIMI_L606	Acanthamoeba polyphaga mimivirus (APMV)	212035	186	22,214			integral component of membrane [GO:0016021]		15486256
+B4YNE7	V7_SPTNK	Uncharacterized protein V7	ORF7	Sputnik virophage	543939	236	24,032					18690211
+B4YNF1	V11_SPTNK	Uncharacterized protein V11		Sputnik virophage	543939	162	19,445					18690211
+B4YNF4	V14_SPTNK	Uncharacterized protein V14		Sputnik virophage	543939	114	13,960					18690211
+B4YNF3	V13_SPTNK	Putative helicase V13 (EC 3.6.4.-)		Sputnik virophage	543939	779	91,136	3.6.4.-	DNA replication [GO:0006260]		ATP binding [GO:0005524]; hydrolase activity [GO:0016787]	18690211
+B4YNF9	V19_SPTNK	Structural protein V19	ORF19	Sputnik virophage	543939	218	24,859			virion [GO:0019012]		18690211
+B4YNE5	V5_SPTNK	Uncharacterized protein V5	ORF5	Sputnik virophage	543939	119	14,580					18690211
+B4YNE9	V9_SPTNK	Uncharacterized protein V9		Sputnik virophage	543939	175	21,099					18690211
+B4YNE3	V3_SPTNK	Uncharacterized protein V3	ORF3	Sputnik virophage	543939	245	28,094					18690211
+B4YNF6	V16_SPTNK	Uncharacterized protein V16	ORF16	Sputnik virophage	543939	130	15,477					18690211
+B4YNE4	V4_SPTNK	Uncharacterized protein V4	ORF4	Sputnik virophage	543939	139	16,053					18690211
+B4YNE6	V6_SPTNK	Collagen-like protein V6	ORF6	Sputnik virophage	543939	310	30,899					18690211
+B4YNF5	V15_SPTNK	Uncharacterized protein V15	ORF15	Sputnik virophage	543939	109	12,831			integral component of membrane [GO:0016021]		18690211
+B4YNE1	V1_SPTNK	Uncharacterized protein V1	ORF1	Sputnik virophage	543939	144	15,306					18690211
+B4YNF7	V17_SPTNK	Uncharacterized protein V17	ORF17	Sputnik virophage	543939	88	10,604					18690211
+B4YNF8	V18_SPTNK	Uncharacterized protein V18	ORF18	Sputnik virophage	543939	167	18,741					18690211
+B4YNE8	V8_SPTNK	Structural protein V8		Sputnik virophage	543939	184	19,765			virion [GO:0019012]		18690211
+B4YNG1	V21_SPTNK	Uncharacterized protein V21	ORF21	Sputnik virophage	543939	442	51,603					18690211
+B4YNE2	V2_SPTNK	Uncharacterized protein V2	ORF2	Sputnik virophage	543939	114	13,463					18690211
+Q5UR26	VF546_MIMIV	Uncharacterized protein R546	MIMI_R546	Acanthamoeba polyphaga mimivirus (APMV)	212035	213	23,850					15486256
+B4YNF2	VF546_SPTNK	Uncharacterized protein V12		Sputnik virophage	543939	152	17,783					18690211
+Q5UP77	YL002_MIMIV	Uncharacterized Bro-N domain-containing protein L2	MIMI_L2	Acanthamoeba polyphaga mimivirus (APMV)	212035	246	28,889					15486256
+Q5UP94	YL016_MIMIV	Uncharacterized protein L16	MIMI_L16	Acanthamoeba polyphaga mimivirus (APMV)	212035	269	32,402					15486256
+Q5UP91	YL019_MIMIV	Uncharacterized protein L19	MIMI_L19	Acanthamoeba polyphaga mimivirus (APMV)	212035	123	14,540					15486256
+Q5UPA7	YL030_MIMIV	Uncharacterized protein L30	MIMI_L30	Acanthamoeba polyphaga mimivirus (APMV)	212035	152	17,939					15486256
+Q5UPB6	YL045_MIMIV	Putative ankyrin repeat protein L45	MIMI_L45	Acanthamoeba polyphaga mimivirus (APMV)	212035	227	26,145					15486256
+Q5UPC4	YL048_MIMIV	Uncharacterized protein L48	MIMI_L48	Acanthamoeba polyphaga mimivirus (APMV)	212035	120	14,578			virion [GO:0019012]		15486256; 16971431
+Q5UPD1	YL051_MIMIV	Uncharacterized protein L51	MIMI_L51	Acanthamoeba polyphaga mimivirus (APMV)	212035	159	18,547					15486256
+Q5UPJ0	YL108_MIMIV	Uncharacterized protein L108	MIMI_L108	Acanthamoeba polyphaga mimivirus (APMV)	212035	273	31,777					15486256
+Q5UPI7	YL111_MIMIV	Uncharacterized protein L111	MIMI_L111	Acanthamoeba polyphaga mimivirus (APMV)	212035	374	43,804					15486256
+Q5UPI6	YL112_MIMIV	Putative ankyrin repeat protein L112	MIMI_L112	Acanthamoeba polyphaga mimivirus (APMV)	212035	457	51,942					15486256
+Q5URA4	YL144_MIMIV	Uncharacterized protein L144	MIMI_L144	Acanthamoeba polyphaga mimivirus (APMV)	212035	233	27,523					15486256
+Q5UQE7	YL479_MIMIV	Uncharacterized protein L479	MIMI_L479	Acanthamoeba polyphaga mimivirus (APMV)	212035	251	28,817					15486256
+Q5UP88	YR010_MIMIV	Uncharacterized protein R10	MIMI_R10	Acanthamoeba polyphaga mimivirus (APMV)	212035	376	44,433					15486256
+Q5UPA8	YR029_MIMIV	Uncharacterized protein R29	MIMI_R29	Acanthamoeba polyphaga mimivirus (APMV)	212035	108	12,673					15486256
+Q5UPB7	YR044_MIMIV	Uncharacterized protein R44	MIMI_R44	Acanthamoeba polyphaga mimivirus (APMV)	212035	215	25,787					15486256
+Q5UPF0	YR073_MIMIV	Uncharacterized protein R73	MIMI_R73	Acanthamoeba polyphaga mimivirus (APMV)	212035	232	27,261					15486256
+Q5UPH4	YR096_MIMIV	Putative ankyrin repeat protein R96	MIMI_R96	Acanthamoeba polyphaga mimivirus (APMV)	212035	1015	118,433					15486256
+Q5UPH8	YR106_MIMIV	Uncharacterized protein R106	MIMI_R106	Acanthamoeba polyphaga mimivirus (APMV)	212035	421	49,472					15486256
+Q5UPJ5	YR119_MIMIV	Uncharacterized protein R119	MIMI_R119	Acanthamoeba polyphaga mimivirus (APMV)	212035	165	19,609			integral component of membrane [GO:0016021]		15486256
+Q5UPK5	YR130_MIMIV	Uncharacterized protein R130	MIMI_R130	Acanthamoeba polyphaga mimivirus (APMV)	212035	237	28,309					15486256
+Q5UPL4	YR133_MIMIV	Uncharacterized protein R133	MIMI_R133	Acanthamoeba polyphaga mimivirus (APMV)	212035	127	15,223					15486256
+Q5URB2	YR188_MIMIV	Uncharacterized protein R188	MIMI_R188	Acanthamoeba polyphaga mimivirus (APMV)	212035	509	57,006			virion [GO:0019012]	oxidoreductase activity [GO:0016491]	15486256; 16971431
+Q5UPY7	YR306_MIMIV	Uncharacterized protein R306	MIMI_R306	Acanthamoeba polyphaga mimivirus (APMV)	212035	111	12,879				catalytic activity [GO:0003824]	15486256
+Q5UPZ8	YR317_MIMIV	Uncharacterized protein R317	MIMI_R317	Acanthamoeba polyphaga mimivirus (APMV)	212035	230	26,899					15486256
+Q5UQR5	YR326_MIMIV	Uncharacterized protein R326	MIMI_R326	Acanthamoeba polyphaga mimivirus (APMV)	212035	442	52,744			virion [GO:0019012]		15486256; 16971431
+Q5UQS4	YR329_MIMIV	Uncharacterized protein R329	MIMI_R329	Acanthamoeba polyphaga mimivirus (APMV)	212035	177	20,898					15486256
+Q5UQT0	YR337_MIMIV	Uncharacterized cullin-like protein R337	MIMI_R337	Acanthamoeba polyphaga mimivirus (APMV)	212035	281	31,628		ubiquitin-dependent protein catabolic process [GO:0006511]		ubiquitin protein ligase binding [GO:0031625]	15486256
+Q5UQT5	YR345_MIMIV	Uncharacterized protein R345	MIMI_R345	Acanthamoeba polyphaga mimivirus (APMV)	212035	984	107,451			virion [GO:0019012]		15486256; 16971431
+Q5UQU3	YR349_MIMIV	Uncharacterized protein R349	MIMI_R349	Acanthamoeba polyphaga mimivirus (APMV)	212035	964	111,213				ubiquitin-protein transferase activity [GO:0004842]	15486256
+Q5UQU1	YR351_MIMIV	Uncharacterized protein R351	MIMI_R351	Acanthamoeba polyphaga mimivirus (APMV)	212035	385	44,390					15486256
+Q5UR21	YR365_MIMIV	Uncharacterized protein R365	MIMI_R365	Acanthamoeba polyphaga mimivirus (APMV)	212035	264	31,309					15486256
+Q5UQV5	YR369_MIMIV	Uncharacterized protein R369	MIMI_R369	Acanthamoeba polyphaga mimivirus (APMV)	212035	445	51,427					15486256
+Q5UQV8	YR379_MIMIV	Uncharacterized protein R379	MIMI_R379	Acanthamoeba polyphaga mimivirus (APMV)	212035	304	35,748					15486256
+Q5UQX0	YR383_MIMIV	Uncharacterized protein R383	MIMI_R383	Acanthamoeba polyphaga mimivirus (APMV)	212035	348	40,346			virion [GO:0019012]		15486256; 16971431
+Q5UQJ5	YR401_MIMIV	Uncharacterized protein R401	MIMI_R401	Acanthamoeba polyphaga mimivirus (APMV)	212035	226	26,580			integral component of membrane [GO:0016021]		15486256
+Q5UQL1	YR409_MIMIV	Uncharacterized protein R409	MIMI_R409	Acanthamoeba polyphaga mimivirus (APMV)	212035	185	20,862					15486256
+Q5UQL9	YR423_MIMIV	Uncharacterized protein R423	MIMI_R423	Acanthamoeba polyphaga mimivirus (APMV)	212035	530	62,410					15486256
+Q5UQN1	YR435_MIMIV	Uncharacterized protein R435	MIMI_R435	Acanthamoeba polyphaga mimivirus (APMV)	212035	407	47,400					15486256
+Q5UQ67	YR506_MIMIV	Uncharacterized protein R506	MIMI_R506	Acanthamoeba polyphaga mimivirus (APMV)	212035	320	36,644					15486256
+Q5UQ82	YR513_MIMIV	Uncharacterized protein R513	MIMI_R513	Acanthamoeba polyphaga mimivirus (APMV)	212035	168	18,141			integral component of membrane [GO:0016021]		15486256
+Q5UQ87	YR522_MIMIV	Uncharacterized protein R522	MIMI_R522	Acanthamoeba polyphaga mimivirus (APMV)	212035	264	31,002					15486256
+Q5UQA1	YR535_MIMIV	Uncharacterized protein R535	MIMI_R535	Acanthamoeba polyphaga mimivirus (APMV)	212035	356	41,693					15486256
+Q5UR35	YR553_MIMIV	Uncharacterized protein R553	MIMI_R553	Acanthamoeba polyphaga mimivirus (APMV)	212035	518	56,724			virion [GO:0019012]		15486256; 16971431
+Q5UR32	YR556_MIMIV	Uncharacterized protein R556	MIMI_R556	Acanthamoeba polyphaga mimivirus (APMV)	212035	293	34,745					15486256
+Q5UR41	YR561_MIMIV	Uncharacterized protein R561	MIMI_R561	Acanthamoeba polyphaga mimivirus (APMV)	212035	256	29,212					15486256
+Q5UR42	YR564_MIMIV	Uncharacterized protein R564	MIMI_R564	Acanthamoeba polyphaga mimivirus (APMV)	212035	137	15,985					15486256
+Q5UR47	YR570_MIMIV	Uncharacterized protein R570	MIMI_R570	Acanthamoeba polyphaga mimivirus (APMV)	212035	247	28,603					15486256
+Q5UR93	YR579_MIMIV	Putative ankyrin repeat protein R579	MIMI_R579	Acanthamoeba polyphaga mimivirus (APMV)	212035	463	53,811					15486256
+Q5UP61	YR602_MIMIV	Putative ankyrin repeat protein R602	MIMI_R602	Acanthamoeba polyphaga mimivirus (APMV)	212035	304	34,697					15486256
+Q5UP69	YR607_MIMIV	Uncharacterized protein R607	MIMI_R607	Acanthamoeba polyphaga mimivirus (APMV)	212035	298	35,079					15486256
+Q7T6X1	YR610_MIMIV	Uncharacterized protein R610	MIMI_R610	Acanthamoeba polyphaga mimivirus (APMV)	212035	332	37,372			virion [GO:0019012]		15486256; 16971431
+Q5UR70	YR626_MIMIV	Uncharacterized protein R626	MIMI_R626	Acanthamoeba polyphaga mimivirus (APMV)	212035	599	69,418					15486256
+Q5UQ64	YR653_MIMIV	Uncharacterized protein R653	MIMI_R653	Acanthamoeba polyphaga mimivirus (APMV)	212035	227	26,425			virion [GO:0019012]		15486256; 16971431
+Q5UR15	YR660_MIMIV	Uncharacterized protein R660	MIMI_R660	Acanthamoeba polyphaga mimivirus (APMV)	212035	206	24,341			integral component of membrane [GO:0016021]		15486256
+Q5UNV1	YR691_MIMIV	Uncharacterized protein R691	MIMI_R691	Acanthamoeba polyphaga mimivirus (APMV)	212035	275	32,381			virion [GO:0019012]		15486256; 16971431
+Q5UNW4	YR704_MIMIV	Uncharacterized protein R704	MIMI_R704	Acanthamoeba polyphaga mimivirus (APMV)	212035	565	66,737					15486256
+Q5UPR7	YR773_MIMIV	Putative BTB/POZ domain-containing protein R773	MIMI_R773	Acanthamoeba polyphaga mimivirus (APMV)	212035	489	56,386					15486256
+Q5UR97	YL575_MIMIV	Uncharacterized protein L575	MIMI_L575	Acanthamoeba polyphaga mimivirus (APMV)	212035	277	32,730					15486256
+Q5UR78	YL630_MIMIV	Uncharacterized protein L630	MIMI_L630	Acanthamoeba polyphaga mimivirus (APMV)	212035	200	24,046			integral component of membrane [GO:0016021]		15486256
+Q5UP44	YL645_MIMIV	Uncharacterized protein L645	MIMI_L645	Acanthamoeba polyphaga mimivirus (APMV)	212035	407	47,441					15486256
+Q5UR08	YL649_MIMIV	Uncharacterized protein L649	MIMI_L649	Acanthamoeba polyphaga mimivirus (APMV)	212035	281	32,384					15486256
+Q5UNT9	YL677_MIMIV	Putative ankyrin repeat protein L677	MIMI_L677	Acanthamoeba polyphaga mimivirus (APMV)	212035	104	11,875					15486256
+Q5UNV8	YL697_MIMIV	Uncharacterized protein L697	MIMI_L697	Acanthamoeba polyphaga mimivirus (APMV)	212035	375	44,683					15486256
+Q5UQ55	YL711_MIMIV	Uncharacterized protein L711	MIMI_L711	Acanthamoeba polyphaga mimivirus (APMV)	212035	374	43,727					15486256
+Q5UNX2	YL715_MIMIV	Putative ankyrin repeat protein L715	MIMI_L715	Acanthamoeba polyphaga mimivirus (APMV)	212035	275	31,454					15486256
+Q5UNX5	YL725_MIMIV	Uncharacterized protein L725	MIMI_L725	Acanthamoeba polyphaga mimivirus (APMV)	212035	224	26,538			virion [GO:0019012]		15486256; 16971431
+Q5UNY0	YL732_MIMIV	Uncharacterized protein L732	MIMI_L732	Acanthamoeba polyphaga mimivirus (APMV)	212035	188	22,326					15486256
+Q5UNY7	YL737_MIMIV	Uncharacterized protein L737	MIMI_L737	Acanthamoeba polyphaga mimivirus (APMV)	212035	248	28,147					15486256
+Q5UPS4	YL781_MIMIV	Uncharacterized protein L781	MIMI_L781	Acanthamoeba polyphaga mimivirus (APMV)	212035	151	17,672					15486256
+Q5UR57	YL805_MIMIV	Uncharacterized protein L805	MIMI_L805	Acanthamoeba polyphaga mimivirus (APMV)	212035	192	22,148					15486256
+Q5UQ33	YL813_MIMIV	Uncharacterized protein L813	MIMI_L813	Acanthamoeba polyphaga mimivirus (APMV)	212035	102	11,833			integral component of membrane [GO:0016021]		15486256
+Q5UQJ1	YL834_MIMIV	Putative BTB/POZ domain-containing protein L834	MIMI_L834	Acanthamoeba polyphaga mimivirus (APMV)	212035	262	31,036					15486256
+Q5UQJ3	YL862_MIMIV	Uncharacterized protein L862	MIMI_L862	Acanthamoeba polyphaga mimivirus (APMV)	212035	319	37,119					15486256
+Q5UQY2	YL888_MIMIV	Uncharacterized protein L888	MIMI_L888	Acanthamoeba polyphaga mimivirus (APMV)	212035	271	31,418		peptidyl-amino acid modification [GO:0018193]			15486256
+Q5UQY8	YL897_MIMIV	Putative ankyrin repeat protein L897	MIMI_L897	Acanthamoeba polyphaga mimivirus (APMV)	212035	322	38,328					15486256
+Q5UPA1	YR024_MIMIV	Uncharacterized protein R24	MIMI_R24	Acanthamoeba polyphaga mimivirus (APMV)	212035	171	20,226					15486256
+Q5UPC5	YR047_MIMIV	Uncharacterized protein R47	MIMI_R47	Acanthamoeba polyphaga mimivirus (APMV)	212035	201	23,474					15486256
+Q5UPE6	YR069_MIMIV	Uncharacterized protein R69	MIMI_R69	Acanthamoeba polyphaga mimivirus (APMV)	212035	312	37,008					15486256
+Q5UPH3	YR097_MIMIV	Uncharacterized protein R97	MIMI_R97	Acanthamoeba polyphaga mimivirus (APMV)	212035	279	32,656					15486256
+Q5UPJ1	YR118_MIMIV	Uncharacterized protein R118	MIMI_R118	Acanthamoeba polyphaga mimivirus (APMV)	212035	356	40,596					15486256
+Q5UPJ6	YR125_MIMIV	Uncharacterized Bro-N domain-containing protein R125	MIMI_R125	Acanthamoeba polyphaga mimivirus (APMV)	212035	196	23,256					15486256
+Q5UQP1	YR447_MIMIV	Uncharacterized protein R447	MIMI_R447	Acanthamoeba polyphaga mimivirus (APMV)	212035	123	14,520					15486256
+Q5UQD8	YR463_MIMIV	Uncharacterized protein R463	MIMI_R463	Acanthamoeba polyphaga mimivirus (APMV)	212035	293	34,208			virion [GO:0019012]		15486256; 16971431
+Q5UQ68	YR505_MIMIV	Uncharacterized protein R505	MIMI_R505	Acanthamoeba polyphaga mimivirus (APMV)	212035	405	46,027					15486256
+Q5UQA4	YR545_MIMIV	HMG box-containing protein R545	MIMI_R545	Acanthamoeba polyphaga mimivirus (APMV)	212035	282	29,882				DNA binding [GO:0003677]	15486256
+Q5UR34	YR554_MIMIV	Uncharacterized protein R554	MIMI_R554	Acanthamoeba polyphaga mimivirus (APMV)	212035	406	45,755					15486256
+Q5UP66	YR597_MIMIV	Putative ankyrin repeat protein R597	MIMI_R597	Acanthamoeba polyphaga mimivirus (APMV)	212035	274	32,179					15486256
+Q5UP68	YR608_MIMIV	Uncharacterized protein R608	MIMI_R608	Acanthamoeba polyphaga mimivirus (APMV)	212035	246	28,134					15486256
+Q5UR68	YR616_MIMIV	Uncharacterized protein R616	MIMI_R616	Acanthamoeba polyphaga mimivirus (APMV)	212035	353	39,779					15486256
+Q5UR76	YR632_MIMIV	Uncharacterized protein R632	MIMI_R632	Acanthamoeba polyphaga mimivirus (APMV)	212035	321	37,231		lipid metabolic process [GO:0006629]			15486256
+Q5UR86	YR635_MIMIV	Uncharacterized protein R635	MIMI_R635	Acanthamoeba polyphaga mimivirus (APMV)	212035	408	47,490					15486256
+Q5UR83	YR638_MIMIV	Putative F-box protein R638	MIMI_R638	Acanthamoeba polyphaga mimivirus (APMV)	212035	134	16,276					15486256
+Q5UR89	YR643_MIMIV	Uncharacterized protein R643	MIMI_R643	Acanthamoeba polyphaga mimivirus (APMV)	212035	361	35,641					15486256
+Q5UR07	YR650_MIMIV	Uncharacterized protein R650	MIMI_R650	Acanthamoeba polyphaga mimivirus (APMV)	212035	422	50,326					15486256
+Q5UNU8	YR694_MIMIV	Uncharacterized protein R694	MIMI_R694	Acanthamoeba polyphaga mimivirus (APMV)	212035	111	12,427			integral component of membrane [GO:0016021]		15486256
+Q5UNW3	YR705_MIMIV	Uncharacterized protein R705	MIMI_R705	Acanthamoeba polyphaga mimivirus (APMV)	212035	313	34,452			virion [GO:0019012]		15486256; 16971431
+Q5UNX9	YR721_MIMIV	Uncharacterized protein R721	MIMI_R721	Acanthamoeba polyphaga mimivirus (APMV)	212035	270	31,169			virion [GO:0019012]		15486256; 16971431
+Q5UPP9	YR758_MIMIV	Uncharacterized protein R758	MIMI_R758	Acanthamoeba polyphaga mimivirus (APMV)	212035	183	21,353		deoxyribonucleotide catabolic process [GO:0009264]		5'-nucleotidase activity [GO:0008253]	15486256
+Q5UPR3	YR777_MIMIV	Putative ankyrin repeat protein R777	MIMI_R777	Acanthamoeba polyphaga mimivirus (APMV)	212035	305	34,638					15486256
+Q5UQ08	YR787_MIMIV	Putative ankyrin repeat protein R787	MIMI_R787	Acanthamoeba polyphaga mimivirus (APMV)	212035	437	49,402					15486256
+Q5UQ38	YR797_MIMIV	Putative ankyrin repeat protein L797	MIMI_R797	Acanthamoeba polyphaga mimivirus (APMV)	212035	445	52,636					15486256
+Q5UR60	YR802_MIMIV	Uncharacterized protein R802	MIMI_R802	Acanthamoeba polyphaga mimivirus (APMV)	212035	247	27,570		nucleoside metabolic process [GO:0009116]		catalytic activity [GO:0003824]	15486256
+Q5UQ36	YR810_MIMIV	Putative ankyrin repeat protein R810	MIMI_R810	Acanthamoeba polyphaga mimivirus (APMV)	212035	211	24,157					15486256
+Q5UQH1	YR814_MIMIV	Uncharacterized protein R814	MIMI_R814	Acanthamoeba polyphaga mimivirus (APMV)	212035	305	36,074					15486256
+Q5UQG9	YR816_MIMIV	Uncharacterized protein R816	MIMI_R816	Acanthamoeba polyphaga mimivirus (APMV)	212035	202	23,276					15486256
+Q5UQH2	YR819_MIMIV	Uncharacterized protein R819	MIMI_R819	Acanthamoeba polyphaga mimivirus (APMV)	212035	438	51,895					15486256
+Q5UQH5	YR822_MIMIV	Uncharacterized protein R822	MIMI_R822	Acanthamoeba polyphaga mimivirus (APMV)	212035	581	68,713					15486256
+Q5UQI9	YR836_MIMIV	Uncharacterized protein R836	MIMI_R836	Acanthamoeba polyphaga mimivirus (APMV)	212035	148	16,663			integral component of membrane [GO:0016021]		15486256
+Q5UQI7	YR838_MIMIV	Putative ankyrin repeat protein R838	MIMI_R838	Acanthamoeba polyphaga mimivirus (APMV)	212035	276	31,444					15486256
+Q5URB8	YR841_MIMIV	Putative ankyrin repeat protein R841	MIMI_R841	Acanthamoeba polyphaga mimivirus (APMV)	212035	601	69,324					15486256
+Q5UP15	YR844_MIMIV	Putative ankyrin repeat protein R844	MIMI_R844	Acanthamoeba polyphaga mimivirus (APMV)	212035	214	24,395					15486256
+Q5UP12	YR847_MIMIV	Putative ankyrin repeat protein R847 (Fragment)	MIMI_R847	Acanthamoeba polyphaga mimivirus (APMV)	212035	147	16,561					15486256
+Q5UP31	YR850_MIMIV	Putative sel1-like repeat-containing protein R850	MIMI_R850	Acanthamoeba polyphaga mimivirus (APMV)	212035	516	60,925					15486256
+Q5UP27	YR868_MIMIV	Putative ankyrin repeat protein R868	MIMI_R868	Acanthamoeba polyphaga mimivirus (APMV)	212035	201	23,709					15486256
+Q5URB0	YR874_MIMIV	Uncharacterized protein R874	MIMI_R874	Acanthamoeba polyphaga mimivirus (APMV)	212035	178	20,898					15486256
+Q5UQX6	YR882_MIMIV	Uncharacterized protein R882	MIMI_R882	Acanthamoeba polyphaga mimivirus (APMV)	212035	307	35,939					15486256
+Q5UQY6	YR892_MIMIV	Uncharacterized protein R892	MIMI_R892	Acanthamoeba polyphaga mimivirus (APMV)	212035	269	31,460					15486256
+Q5UQZ7	YR901_MIMIV	Putative ankyrin repeat protein R901	MIMI_R901	Acanthamoeba polyphaga mimivirus (APMV)	212035	361	39,742					15486256
+Q5UQZ5	YR903_MIMIV	Putative ankyrin repeat protein R903	MIMI_R903	Acanthamoeba polyphaga mimivirus (APMV)	212035	365	43,145					15486256
+Q5UPA0	YL025_MIMIV	Putative ankyrin repeat protein L25	MIMI_L25	Acanthamoeba polyphaga mimivirus (APMV)	212035	326	36,817					15486256
+Q5UPC3	YL049_MIMIV	Uncharacterized protein L49	MIMI_L49	Acanthamoeba polyphaga mimivirus (APMV)	212035	186	21,985					15486256
+Q5UPC7	YL055_MIMIV	Putative BTB/POZ domain-containing protein L55	MIMI_L55	Acanthamoeba polyphaga mimivirus (APMV)	212035	513	59,869					15486256
+Q5UPE1	YL064_MIMIV	Uncharacterized protein L64	MIMI_L64	Acanthamoeba polyphaga mimivirus (APMV)	212035	565	67,172				metal ion binding [GO:0046872]; oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen [GO:0016702]	15486256
+Q5UPD9	YL066_MIMIV	Putative ankyrin repeat protein L66	MIMI_L66	Acanthamoeba polyphaga mimivirus (APMV)	212035	587	67,470					15486256
+Q5UPG2	YL084_MIMIV	Uncharacterized WD repeat-containing protein L84	MIMI_L84	Acanthamoeba polyphaga mimivirus (APMV)	212035	132	15,170					15486256
+Q5UPG0	YL086_MIMIV	Putative ankyrin repeat protein L86	MIMI_L86	Acanthamoeba polyphaga mimivirus (APMV)	212035	576	66,137					15486256
+Q5UPG9	YL089_MIMIV	Putative BTB/POZ domain-containing protein L89	MIMI_L89	Acanthamoeba polyphaga mimivirus (APMV)	212035	502	58,301					15486256
+Q5UPG7	YL091_MIMIV	Putative ankyrin repeat protein L91	MIMI_L91	Acanthamoeba polyphaga mimivirus (APMV)	212035	642	73,000					15486256
+Q5UPH6	YL094_MIMIV	Uncharacterized protein L94	MIMI_L94	Acanthamoeba polyphaga mimivirus (APMV)	212035	133	15,059					15486256
+Q5UPH0	YL100_MIMIV	Putative ankyrin repeat protein L100	MIMI_L100	Acanthamoeba polyphaga mimivirus (APMV)	212035	602	68,515					15486256
+Q5UPH9	YL105_MIMIV	Uncharacterized protein L105	MIMI_L105	Acanthamoeba polyphaga mimivirus (APMV)	212035	134	15,689					15486256
+Q5UPI5	YL113_MIMIV	Uncharacterized protein L113	MIMI_L113	Acanthamoeba polyphaga mimivirus (APMV)	212035	183	21,967					15486256
+Q5UPJ3	YL116_MIMIV	Uncharacterized protein L116	MIMI_L116	Acanthamoeba polyphaga mimivirus (APMV)	212035	563	66,608					15486256
+Q5UPK1	YL120_MIMIV	Putative ankyrin repeat protein L120	MIMI_L120	Acanthamoeba polyphaga mimivirus (APMV)	212035	339	39,184					15486256
+Q5UPJ8	YL123_MIMIV	Uncharacterized protein L123	MIMI_L123	Acanthamoeba polyphaga mimivirus (APMV)	212035	101	11,207					15486256
+Q5UPL0	YL137_MIMIV	Uncharacterized protein L137	MIMI_L137	Acanthamoeba polyphaga mimivirus (APMV)	212035	732	85,621					15486256
+Q5URA2	YL146_MIMIV	Uncharacterized protein L146	MIMI_L146	Acanthamoeba polyphaga mimivirus (APMV)	212035	346	40,341					15486256
+Q5URA0	YL148_MIMIV	Putative ankyrin repeat protein L148	MIMI_L148	Acanthamoeba polyphaga mimivirus (APMV)	212035	229	26,222					15486256
+Q5UPN3	YL167_MIMIV	Uncharacterized protein L167	MIMI_L167	Acanthamoeba polyphaga mimivirus (APMV)	212035	304	35,862					15486256
+Q5UPM9	YL171_MIMIV	Uncharacterized protein L171	MIMI_L171	Acanthamoeba polyphaga mimivirus (APMV)	212035	146	17,394					15486256
+Q5UPM8	YL172_MIMIV	Uncharacterized protein L172	MIMI_L172	Acanthamoeba polyphaga mimivirus (APMV)	212035	391	46,128					15486256
+Q5UPP0	YL175_MIMIV	Uncharacterized protein L175	MIMI_L175	Acanthamoeba polyphaga mimivirus (APMV)	212035	385	45,800					15486256
+Q5UPN6	YL179_MIMIV	Uncharacterized protein L179	MIMI_L179	Acanthamoeba polyphaga mimivirus (APMV)	212035	367	43,599					15486256
+Q5UPN5	YL180_MIMIV	Uncharacterized protein L180	MIMI_L180	Acanthamoeba polyphaga mimivirus (APMV)	212035	375	44,538					15486256
+Q5UQ16	YL201_MIMIV	Uncharacterized protein L201	MIMI_L201	Acanthamoeba polyphaga mimivirus (APMV)	212035	344	38,050					15486256
+Q5UQ15	YL202_MIMIV	Uncharacterized protein L202	MIMI_L202	Acanthamoeba polyphaga mimivirus (APMV)	212035	151	17,588					15486256
+Q5UQB8	YL223_MIMIV	Uncharacterized protein L223	MIMI_L223	Acanthamoeba polyphaga mimivirus (APMV)	212035	156	18,051					15486256
+Q5UPT5	YL246_MIMIV	Uncharacterized protein L246	MIMI_L246	Acanthamoeba polyphaga mimivirus (APMV)	212035	226	27,505					15486256
+Q5UPT3	YL248_MIMIV	Uncharacterized protein L248	MIMI_L248	Acanthamoeba polyphaga mimivirus (APMV)	212035	406	46,458			integral component of membrane [GO:0016021]		15486256
+Q5UPV1	YL271_MIMIV	Putative ankyrin repeat protein L271	MIMI_L271	Acanthamoeba polyphaga mimivirus (APMV)	212035	728	83,052					15486256
+Q5UQR7	YL324_MIMIV	Uncharacterized protein L324	MIMI_L324	Acanthamoeba polyphaga mimivirus (APMV)	212035	195	22,154					15486256
+Q5UQS0	YL333_MIMIV	Uncharacterized protein L333	MIMI_L333	Acanthamoeba polyphaga mimivirus (APMV)	212035	203	23,775					15486256
+Q5UQS7	YL340_MIMIV	Uncharacterized protein L340	MIMI_L340	Acanthamoeba polyphaga mimivirus (APMV)	212035	339	40,043					15486256
+Q5UQN2	YL434_MIMIV	Uncharacterized protein L434	MIMI_L434	Acanthamoeba polyphaga mimivirus (APMV)	212035	159	17,244			integral component of membrane [GO:0016021]		15486256
+Q5UQN6	YL442_MIMIV	Uncharacterized protein L442	MIMI_L442	Acanthamoeba polyphaga mimivirus (APMV)	212035	1259	139,334			virion [GO:0019012]		15486256; 16971431
+Q5UQP6	YL456_MIMIV	Uncharacterized protein L456	MIMI_L456	Acanthamoeba polyphaga mimivirus (APMV)	212035	175	20,972					15486256
+Q5UQC8	YL461_MIMIV	Uncharacterized protein L461	MIMI_L461	Acanthamoeba polyphaga mimivirus (APMV)	212035	209	24,362					15486256
+Q5UQ75	YL507_MIMIV	Uncharacterized protein L507	MIMI_L507	Acanthamoeba polyphaga mimivirus (APMV)	212035	259	30,494					15486256
+Q5UQ85	YL524_MIMIV	Uncharacterized protein L524	MIMI_L524	Acanthamoeba polyphaga mimivirus (APMV)	212035	379	44,738					15486256
+Q5UR95	YL577_MIMIV	Uncharacterized protein L577	MIMI_L577	Acanthamoeba polyphaga mimivirus (APMV)	212035	299	35,156					15486256
+Q5UR53	YL583_MIMIV	Uncharacterized protein L583	MIMI_L583	Acanthamoeba polyphaga mimivirus (APMV)	212035	104	12,395					15486256
+Q5UP52	YL586_MIMIV	Uncharacterized protein L586	MIMI_L586	Acanthamoeba polyphaga mimivirus (APMV)	212035	103	11,670					15486256
+Q5UP49	YL589_MIMIV	Putative ankyrin repeat protein L589	MIMI_L589	Acanthamoeba polyphaga mimivirus (APMV)	212035	274	31,677					15486256
+Q5UP59	YL591_MIMIV	Uncharacterized protein L591	MIMI_L591	Acanthamoeba polyphaga mimivirus (APMV)	212035	259	29,447			virion [GO:0019012]		15486256; 16971431
+Q5UQ60	YL662_MIMIV	Uncharacterized protein L662	MIMI_L662	Acanthamoeba polyphaga mimivirus (APMV)	212035	462	53,786					15486256
+Q5UNS7	YL666_MIMIV	Uncharacterized protein L666	MIMI_L666	Acanthamoeba polyphaga mimivirus (APMV)	212035	251	29,855					15486256
+Q5UNU1	YL675_MIMIV	Putative ankyrin repeat protein L675	MIMI_L675	Acanthamoeba polyphaga mimivirus (APMV)	212035	472	53,960					15486256
+Q5UNV9	YL696_MIMIV	Uncharacterized protein L696	MIMI_L696	Acanthamoeba polyphaga mimivirus (APMV)	212035	313	36,850					15486256
+Q5UQ39	YL796_MIMIV	Uncharacterized protein L796	MIMI_L796	Acanthamoeba polyphaga mimivirus (APMV)	212035	142	16,223					15486256
+Q5UR59	YL803_MIMIV	Uncharacterized protein L803	MIMI_L803	Acanthamoeba polyphaga mimivirus (APMV)	212035	243	28,230					15486256
+Q5UQG8	YL817_MIMIV	Uncharacterized protein L817	MIMI_L817	Acanthamoeba polyphaga mimivirus (APMV)	212035	142	16,245			integral component of membrane [GO:0016021]		15486256
+Q5UP30	YL851_MIMIV	Uncharacterized protein L851	MIMI_L851	Acanthamoeba polyphaga mimivirus (APMV)	212035	100	11,505			virion [GO:0019012]		15486256; 16971431
+Q5UQX7	YL881_MIMIV	Uncharacterized protein L881	MIMI_L881	Acanthamoeba polyphaga mimivirus (APMV)	212035	195	22,426					15486256
+Q5UP87	YR011_MIMIV	Uncharacterized protein R11	MIMI_R11	Acanthamoeba polyphaga mimivirus (APMV)	212035	267	31,450					15486256
+Q5UPM6	YR156_MIMIV	Uncharacterized protein R156	MIMI_R156	Acanthamoeba polyphaga mimivirus (APMV)	212035	253	29,315					15486256
+Q5UP82	YL005_MIMIV	Uncharacterized protein L5	MIMI_L5	Acanthamoeba polyphaga mimivirus (APMV)	212035	461	53,604					15486256
+Q5UP95	YL015_MIMIV	Uncharacterized protein L15	MIMI_L15	Acanthamoeba polyphaga mimivirus (APMV)	212035	116	13,667					15486256
+Q5UPJ2	YL117_MIMIV	Uncharacterized protein L117	MIMI_L117	Acanthamoeba polyphaga mimivirus (APMV)	212035	112	13,756					15486256
+Q5UPJ9	YL122_MIMIV	Putative ankyrin repeat protein L122	MIMI_L122	Acanthamoeba polyphaga mimivirus (APMV)	212035	627	71,885					15486256
+Q5UR13	YL140_MIMIV	Uncharacterized protein L140	MIMI_L140	Acanthamoeba polyphaga mimivirus (APMV)	212035	304	36,387					15486256
+Q5URA3	YL145_MIMIV	Uncharacterized protein L145	MIMI_L145	Acanthamoeba polyphaga mimivirus (APMV)	212035	274	32,244					15486256
+Q5UPM1	YL149_MIMIV	Uncharacterized protein L149	MIMI_L149	Acanthamoeba polyphaga mimivirus (APMV)	212035	173	20,399					15486256
+Q5UQC6	YL227_MIMIV	Uncharacterized protein L227	MIMI_L227	Acanthamoeba polyphaga mimivirus (APMV)	212035	170	20,012					15486256
+Q5UPS8	YL243_MIMIV	Uncharacterized protein L243	MIMI_L243	Acanthamoeba polyphaga mimivirus (APMV)	212035	157	18,530					15486256
+Q5UPW6	YL281_MIMIV	Putative FNIP repeat-containing protein L281	MIMI_L281	Acanthamoeba polyphaga mimivirus (APMV)	212035	292	33,858					15486256
+Q5UPW3	YL284_MIMIV	Putative ankyrin repeat protein L284	MIMI_L284	Acanthamoeba polyphaga mimivirus (APMV)	212035	354	40,380					15486256
+Q5UPW9	YL291_MIMIV	Uncharacterized protein L291	MIMI_L291	Acanthamoeba polyphaga mimivirus (APMV)	212035	595	67,056					15486256
+Q5UPZ4	YL310_MIMIV	Uncharacterized protein L310	MIMI_L310	Acanthamoeba polyphaga mimivirus (APMV)	212035	164	19,414			integral component of membrane [GO:0016021]		15486256
+Q5UQR2	YL320_MIMIV	Uncharacterized protein L320	MIMI_L320	Acanthamoeba polyphaga mimivirus (APMV)	212035	256	30,283		7-methylguanosine RNA capping [GO:0009452]; RNA methylation [GO:0001510]		methyltransferase activity [GO:0008168]; nucleic acid binding [GO:0003676]	15486256
+Q5UQU0	YL352_MIMIV	Uncharacterized protein L352	MIMI_L352	Acanthamoeba polyphaga mimivirus (APMV)	212035	292	33,827			virion [GO:0019012]		15486256; 16971431
+Q5UQW8	YL385_MIMIV	Uncharacterized protein L385	MIMI_L385	Acanthamoeba polyphaga mimivirus (APMV)	212035	141	16,593					15486256
+Q5UQW5	YL388_MIMIV	Uncharacterized protein L388	MIMI_L388	Acanthamoeba polyphaga mimivirus (APMV)	212035	268	31,616					15486256
+Q5UQL4	YL417_MIMIV	Uncharacterized protein L417	MIMI_L417	Acanthamoeba polyphaga mimivirus (APMV)	212035	491	56,133			virion [GO:0019012]		15486256; 16971431
+Q5UQP0	YL448_MIMIV	Uncharacterized protein L448	MIMI_L448	Acanthamoeba polyphaga mimivirus (APMV)	212035	222	25,271			integral component of membrane [GO:0016021]		15486256
+Q5UQQ1	YL451_MIMIV	Uncharacterized protein L451	MIMI_L451	Acanthamoeba polyphaga mimivirus (APMV)	212035	415	48,759				nucleic acid binding [GO:0003676]	15486256
+Q5UQP8	YL454_MIMIV	Uncharacterized protein L454	MIMI_L454	Acanthamoeba polyphaga mimivirus (APMV)	212035	1257	142,303			virion [GO:0019012]		15486256; 16971431
+Q5UQF1	YL483_MIMIV	Putative ankyrin repeat protein L483	MIMI_L483	Acanthamoeba polyphaga mimivirus (APMV)	212035	408	45,762					15486256
+Q5UQG6	YL494_MIMIV	Uncharacterized protein L494	MIMI_L494	Acanthamoeba polyphaga mimivirus (APMV)	212035	273	31,616					15486256
+Q5UQC5	YL228_MIMIV	Uncharacterized protein L228	MIMI_L228	Acanthamoeba polyphaga mimivirus (APMV)	212035	633	74,983					15486256
+Q5UQV3	YL371_MIMIV	Putative ankyrin repeat protein L371	MIMI_L371	Acanthamoeba polyphaga mimivirus (APMV)	212035	765	90,161					15486256
+Q5UQJ9	YL397_MIMIV	Uncharacterized protein L397	MIMI_L397	Acanthamoeba polyphaga mimivirus (APMV)	212035	585	66,690					15486256
+Q5UQL5	YL416_MIMIV	Uncharacterized protein L416	MIMI_L416	Acanthamoeba polyphaga mimivirus (APMV)	212035	105	12,078			integral component of membrane [GO:0016021]		15486256
+Q5UQN4	YL432_MIMIV	Uncharacterized protein L432	MIMI_L432	Acanthamoeba polyphaga mimivirus (APMV)	212035	219	25,660				hydrolase activity [GO:0016787]	15486256
+Q5UQF9	YL487_MIMIV	Uncharacterized protein L487	MIMI_L487	Acanthamoeba polyphaga mimivirus (APMV)	212035	330	37,712			integral component of membrane [GO:0016021]		15486256
+Q5UQ69	YL504_MIMIV	Uncharacterized protein L504	MIMI_L504	Acanthamoeba polyphaga mimivirus (APMV)	212035	406	47,265					15486256
+Q5UQ91	YL531_MIMIV	Uncharacterized protein L531	MIMI_L531	Acanthamoeba polyphaga mimivirus (APMV)	212035	304	35,481					15486256
+Q5UQ97	YL539_MIMIV	Uncharacterized protein L539	MIMI_L539	Acanthamoeba polyphaga mimivirus (APMV)	212035	275	32,361					15486256
+Q5UQA5	YL544_MIMIV	Uncharacterized protein L544	MIMI_L544	Acanthamoeba polyphaga mimivirus (APMV)	212035	387	45,873			virion [GO:0019012]		15486256; 16971431
+Q5UR55	YL581_MIMIV	Uncharacterized protein L581	MIMI_L581	Acanthamoeba polyphaga mimivirus (APMV)	212035	742	86,627					15486256
+Q5UP53	YL585_MIMIV	Uncharacterized protein L585	MIMI_L585	Acanthamoeba polyphaga mimivirus (APMV)	212035	107	11,789			virion [GO:0019012]		15486256; 16971431
+Q5UP48	YL590_MIMIV	Uncharacterized protein L590	MIMI_L590	Acanthamoeba polyphaga mimivirus (APMV)	212035	197	22,940					15486256
+Q5UR77	YL631_MIMIV	Uncharacterized protein L631	MIMI_L631	Acanthamoeba polyphaga mimivirus (APMV)	212035	219	24,476			integral component of membrane [GO:0016021]		15486256
+Q5UNT0	YL674_MIMIV	Putative BTB/POZ domain-containing protein L674	MIMI_L674	Acanthamoeba polyphaga mimivirus (APMV)	212035	488	57,842					15486256
+Q5UNU0	YL676_MIMIV	Uncharacterized protein L676	MIMI_L676	Acanthamoeba polyphaga mimivirus (APMV)	212035	165	19,658					15486256
+Q5UQ54	YL712_MIMIV	Uncharacterized protein L712	MIMI_L712	Acanthamoeba polyphaga mimivirus (APMV)	212035	530	61,664				ATP binding [GO:0005524]	15486256
+Q5UNW8	YL719_MIMIV	Uncharacterized protein L719	MIMI_L719	Acanthamoeba polyphaga mimivirus (APMV)	212035	343	37,719					15486256
+Q5UNX7	YL723_MIMIV	Uncharacterized protein L723	MIMI_L723	Acanthamoeba polyphaga mimivirus (APMV)	212035	222	25,836					15486256
+Q5UNY3	YL729_MIMIV	Uncharacterized protein L729	MIMI_L729	Acanthamoeba polyphaga mimivirus (APMV)	212035	212	24,562					15486256
+Q5UNZ5	YL743_MIMIV	Uncharacterized protein L743	MIMI_L743	Acanthamoeba polyphaga mimivirus (APMV)	212035	151	17,899					15486256
+Q5UPS5	YL780_MIMIV	Uncharacterized protein L780	MIMI_L780	Acanthamoeba polyphaga mimivirus (APMV)	212035	289	32,906					15486256
+Q5UQ03	YL792_MIMIV	Uncharacterized protein L792	MIMI_L792	Acanthamoeba polyphaga mimivirus (APMV)	212035	228	26,890					15486256
+Q5UQI5	YL806_MIMIV	Uncharacterized protein L806	MIMI_L806	Acanthamoeba polyphaga mimivirus (APMV)	212035	108	12,567					15486256
+Q5UQI1	YL829_MIMIV	Uncharacterized protein L829	MIMI_L829	Acanthamoeba polyphaga mimivirus (APMV)	212035	433	49,229			virion [GO:0019012]		15486256; 16971431
+Q5URA8	YL876_MIMIV	Uncharacterized protein L876	MIMI_L876	Acanthamoeba polyphaga mimivirus (APMV)	212035	413	49,283					15486256
+Q5UP96	YL014_MIMIV	Putative ankyrin repeat protein L14 (Fragment)	MIMI_L14	Acanthamoeba polyphaga mimivirus (APMV)	212035	107	11,774					15486256
+Q5UPA5	YL032_MIMIV	Putative KilA-N domain-containing protein L32	MIMI_L32	Acanthamoeba polyphaga mimivirus (APMV)	212035	372	43,124				DNA binding [GO:0003677]	15486256
+Q5UPB4	YL036_MIMIV	Putative ankyrin repeat protein L36	MIMI_L36	Acanthamoeba polyphaga mimivirus (APMV)	212035	222	25,259					15486256
+Q5UPB8	YL043_MIMIV	Uncharacterized protein L43	MIMI_L43	Acanthamoeba polyphaga mimivirus (APMV)	212035	212	25,300					15486256
+Q5UPC6	YL046_MIMIV	Uncharacterized protein L46	MIMI_L46	Acanthamoeba polyphaga mimivirus (APMV)	212035	164	19,333					15486256
+Q5UPC9	YL053_MIMIV	Uncharacterized protein L53	MIMI_L53	Acanthamoeba polyphaga mimivirus (APMV)	212035	100	11,038					15486256
+Q5UPE9	YL074_MIMIV	Uncharacterized protein L74	MIMI_L74	Acanthamoeba polyphaga mimivirus (APMV)	212035	238	27,847					15486256
+Q5UP83	YL004_MIMIV	Putative KilA-N domain-containing protein L4	MIMI_L4	Acanthamoeba polyphaga mimivirus (APMV)	212035	454	52,568				DNA binding [GO:0003677]	15486256
+Q5UPN9	YL176_MIMIV	Uncharacterized protein L176	MIMI_L176	Acanthamoeba polyphaga mimivirus (APMV)	212035	378	44,329					15486256
+Q5UPN8	YL177_MIMIV	Uncharacterized protein L177	MIMI_L177	Acanthamoeba polyphaga mimivirus (APMV)	212035	379	45,346					15486256
+Q5UPP4	YL182_MIMIV	Uncharacterized protein L182	MIMI_L182	Acanthamoeba polyphaga mimivirus (APMV)	212035	389	46,092					15486256
+Q5UPP2	YL184_MIMIV	Uncharacterized protein L184	MIMI_L184	Acanthamoeba polyphaga mimivirus (APMV)	212035	382	45,288					15486256
+Q5UQ11	YL191_MIMIV	Uncharacterized protein L191	MIMI_L191	Acanthamoeba polyphaga mimivirus (APMV)	212035	276	32,656					15486256
+Q5UQ09	YL193_MIMIV	Uncharacterized glycosyltransferase L193 (EC 2.4.-.-)	MIMI_L193	Acanthamoeba polyphaga mimivirus (APMV)	212035	601	70,776	2.4.-.-			transferase activity, transferring glycosyl groups [GO:0016757]	15486256
+Q5UQ30	YL211_MIMIV	Uncharacterized protein L211	MIMI_L211	Acanthamoeba polyphaga mimivirus (APMV)	212035	262	31,081			integral component of membrane [GO:0016021]		15486256
+Q5UQB3	YL216_MIMIV	Uncharacterized protein L216	MIMI_L216	Acanthamoeba polyphaga mimivirus (APMV)	212035	110	12,936					15486256
+Q5UQB1	YL218_MIMIV	Uncharacterized protein L218	MIMI_L218	Acanthamoeba polyphaga mimivirus (APMV)	212035	242	27,850					15486256
+Q5UQC2	YL231_MIMIV	Uncharacterized protein L231	MIMI_L231	Acanthamoeba polyphaga mimivirus (APMV)	212035	191	22,431					15486256
+Q5UPX5	YL237_MIMIV	Uncharacterized protein L237	MIMI_L237	Acanthamoeba polyphaga mimivirus (APMV)	212035	289	33,799					15486256
+Q5UQU8	YL357_MIMIV	Uncharacterized protein L357	MIMI_L357	Acanthamoeba polyphaga mimivirus (APMV)	212035	496	56,815					15486256
+Q5UQL6	YL415_MIMIV	Putative FNIP repeat-containing protein L415	MIMI_L415	Acanthamoeba polyphaga mimivirus (APMV)	212035	415	48,384					15486256
+Q5UQM1	YL421_MIMIV	Uncharacterized protein L421	MIMI_L421	Acanthamoeba polyphaga mimivirus (APMV)	212035	209	24,101					15486256
+Q5UQC7	YL462_MIMIV	Uncharacterized protein L462	MIMI_L462	Acanthamoeba polyphaga mimivirus (APMV)	212035	200	23,521					15486256
+Q5UQF4	YL485_MIMIV	Uncharacterized protein L485	MIMI_L485	Acanthamoeba polyphaga mimivirus (APMV)	212035	170	19,345			virion [GO:0019012]		15486256; 16971431
+Q5UQ93	YL529_MIMIV	Uncharacterized protein L529	MIMI_L529	Acanthamoeba polyphaga mimivirus (APMV)	212035	164	19,129					15486256
+Q5UQA2	YL534_MIMIV	Uncharacterized protein L534	MIMI_L534	Acanthamoeba polyphaga mimivirus (APMV)	212035	308	36,586				hydrolase activity [GO:0016787]	15486256
+Q5UQ99	YL537_MIMIV	Uncharacterized protein L537	MIMI_L537	Acanthamoeba polyphaga mimivirus (APMV)	212035	470	55,342					15486256
+Q5UP56	YL594_MIMIV	Uncharacterized protein L594	MIMI_L594	Acanthamoeba polyphaga mimivirus (APMV)	212035	390	46,160					15486256
+Q5UP76	YL611_MIMIV	Uncharacterized protein L611	MIMI_L611	Acanthamoeba polyphaga mimivirus (APMV)	212035	956	107,817					15486256
+Q5UNU3	YL686_MIMIV	Uncharacterized protein L686	MIMI_L686	Acanthamoeba polyphaga mimivirus (APMV)	212035	219	24,130					15486256
+Q5UNY4	YL728_MIMIV	Uncharacterized protein L728	MIMI_L728	Acanthamoeba polyphaga mimivirus (APMV)	212035	572	64,749					15486256
+Q5UP02	YL750_MIMIV	Uncharacterized protein L750	MIMI_L750	Acanthamoeba polyphaga mimivirus (APMV)	212035	338	38,886					15486256
+Q5UPP8	YL759_MIMIV	Uncharacterized protein L759	MIMI_L759	Acanthamoeba polyphaga mimivirus (APMV)	212035	216	25,541		base-excision repair [GO:0006284]		alkylbase DNA N-glycosylase activity [GO:0003905]; DNA binding [GO:0003677]	15486256
+Q5UPS3	YL782_MIMIV	Uncharacterized protein L782	MIMI_L782	Acanthamoeba polyphaga mimivirus (APMV)	212035	117	13,972					15486256
+Q5UQ07	YL788_MIMIV	Putative BTB/POZ domain-containing protein L788	MIMI_L788	Acanthamoeba polyphaga mimivirus (APMV)	212035	498	58,020					15486256
+Q5UR61	YL801_MIMIV	Uncharacterized protein L801	MIMI_L801	Acanthamoeba polyphaga mimivirus (APMV)	212035	131	15,473			integral component of membrane [GO:0016021]		15486256
+Q5UQ34	YL812_MIMIV	Uncharacterized protein L812	MIMI_L812	Acanthamoeba polyphaga mimivirus (APMV)	212035	158	18,590					15486256
+Q5UQY5	YL885_MIMIV	Uncharacterized protein L885	MIMI_L885	Acanthamoeba polyphaga mimivirus (APMV)	212035	144	16,899					15486256
+Q5UQX9	YL891_MIMIV	Uncharacterized protein L891	MIMI_L891	Acanthamoeba polyphaga mimivirus (APMV)	212035	104	10,987			integral component of membrane [GO:0016021]		15486256
+Q5UPI9	YL109_MIMIV	Putative ankyrin repeat protein L109	MIMI_L109	Acanthamoeba polyphaga mimivirus (APMV)	212035	394	46,843					15486256
+Q5URA5	YL143_MIMIV	Uncharacterized protein L143	MIMI_L143	Acanthamoeba polyphaga mimivirus (APMV)	212035	287	33,121					15486256
+Q5UQL2	YL414_MIMIV	Putative F-box and FNIP repeat-containing protein L414	MIMI_L414	Acanthamoeba polyphaga mimivirus (APMV)	212035	516	59,625					15486256
+Q5UQE9	YL477_MIMIV	Uncharacterized peptidase C1-like protein L477	MIMI_L477	Acanthamoeba polyphaga mimivirus (APMV)	212035	311	35,342				cysteine-type peptidase activity [GO:0008234]	15486256
+Q5UQF2	YL482_MIMIV	Putative ankyrin repeat protein L482 (Fragment)	MIMI_L482	Acanthamoeba polyphaga mimivirus (APMV)	212035	109	11,863					15486256
+Q5UQF6	YL490_MIMIV	Uncharacterized protein L490	MIMI_L490	Acanthamoeba polyphaga mimivirus (APMV)	212035	511	59,971					15486256
+Q5UR98	YL574_MIMIV	Uncharacterized protein L574	MIMI_L574	Acanthamoeba polyphaga mimivirus (APMV)	212035	281	33,208					15486256
+Q5UR96	YL576_MIMIV	Uncharacterized protein L576	MIMI_L576	Acanthamoeba polyphaga mimivirus (APMV)	212035	274	32,687					15486256
+Q5UR54	YL582_MIMIV	Uncharacterized protein L582	MIMI_L582	Acanthamoeba polyphaga mimivirus (APMV)	212035	179	20,600					15486256
+Q5UP74	YL613_MIMIV	Uncharacterized protein L613	MIMI_L613	Acanthamoeba polyphaga mimivirus (APMV)	212035	386	45,349					15486256
+Q5UR79	YL629_MIMIV	Uncharacterized protein L629	MIMI_L629	Acanthamoeba polyphaga mimivirus (APMV)	212035	322	36,625					15486256
+Q5UR10	YL647_MIMIV	Uncharacterized protein L647	MIMI_L647	Acanthamoeba polyphaga mimivirus (APMV)	212035	184	19,647			virion [GO:0019012]		15486256; 16971431
+Q5UNT2	YL672_MIMIV	Uncharacterized protein L672	MIMI_L672	Acanthamoeba polyphaga mimivirus (APMV)	212035	111	12,969					15486256
+Q5UNV2	YL688_MIMIV	Uncharacterized protein L688	MIMI_L688	Acanthamoeba polyphaga mimivirus (APMV)	212035	236	25,119			virion [GO:0019012]		15486256; 16971431
+Q5UNV7	YL698_MIMIV	Uncharacterized protein L698	MIMI_L698	Acanthamoeba polyphaga mimivirus (APMV)	212035	300	34,738					15486256
+Q5UNW6	YL702_MIMIV	Uncharacterized protein L702	MIMI_L702	Acanthamoeba polyphaga mimivirus (APMV)	212035	764	89,151					15486256
+Q5UNX0	YL717_MIMIV	Uncharacterized protein L717	MIMI_L717	Acanthamoeba polyphaga mimivirus (APMV)	212035	206	23,793					15486256
+Q5UNX6	YL724_MIMIV	Uncharacterized protein L724	MIMI_L724	Acanthamoeba polyphaga mimivirus (APMV)	212035	218	24,033			virion [GO:0019012]		15486256; 16971431
+Q5UP07	YL755_MIMIV	Uncharacterized protein L755	MIMI_L755	Acanthamoeba polyphaga mimivirus (APMV)	212035	130	15,559					15486256
+Q5UPP6	YL761_MIMIV	Uncharacterized protein L761	MIMI_L761	Acanthamoeba polyphaga mimivirus (APMV)	212035	159	18,988					15486256
+Q5UPQ2	YL766_MIMIV	Putative ankyrin repeat protein L766	MIMI_L766	Acanthamoeba polyphaga mimivirus (APMV)	212035	636	75,566					15486256
+Q5UPR0	YL768_MIMIV	Putative ankyrin repeat protein L768	MIMI_L768	Acanthamoeba polyphaga mimivirus (APMV)	212035	626	74,076					15486256
+Q5UPR8	YL772_MIMIV	Uncharacterized protein L772	MIMI_L772	Acanthamoeba polyphaga mimivirus (APMV)	212035	295	34,844					15486256
+Q5UPR1	YL779_MIMIV	Uncharacterized protein L779	MIMI_L779	Acanthamoeba polyphaga mimivirus (APMV)	212035	103	11,976					15486256
+Q5UQ41	YL794_MIMIV	Uncharacterized protein L794	MIMI_L794	Acanthamoeba polyphaga mimivirus (APMV)	212035	364	42,776					15486256
+Q5UQ37	YL798_MIMIV	Uncharacterized protein L798	MIMI_L798	Acanthamoeba polyphaga mimivirus (APMV)	212035	261	29,263			extracellular region [GO:0005576]		15486256
+Q5UQQ4	YL859_MIMIV	Uncharacterized protein L859	MIMI_L859	Acanthamoeba polyphaga mimivirus (APMV)	212035	315	36,689					15486256
+Q5UP42	YL870_MIMIV	Uncharacterized protein L870	MIMI_L870	Acanthamoeba polyphaga mimivirus (APMV)	212035	353	41,823					15486256
+Q5UP40	YL872_MIMIV	Uncharacterized protein L872	MIMI_L872	Acanthamoeba polyphaga mimivirus (APMV)	212035	340	39,440			virion [GO:0019012]		15486256; 16971431
+Q5UQX4	YL884_MIMIV	Putative CDC123-like protein L884	MIMI_L884	Acanthamoeba polyphaga mimivirus (APMV)	212035	323	38,398		cell cycle [GO:0007049]			15486256
+Q5UR00	YL908_MIMIV	Uncharacterized protein L908	MIMI_L908	Acanthamoeba polyphaga mimivirus (APMV)	212035	132	15,639			integral component of membrane [GO:0016021]		15486256
+Q5UQQ2	YR450_MIMIV	Uncharacterized protein R450	MIMI_R450	Acanthamoeba polyphaga mimivirus (APMV)	212035	355	40,908					15486256
+Q5UQD5	YR466_MIMIV	Uncharacterized protein R466	MIMI_R466	Acanthamoeba polyphaga mimivirus (APMV)	212035	395	44,733					15486256
+Q5UQF3	YR481_MIMIV	Uncharacterized protein R481	MIMI_R481	Acanthamoeba polyphaga mimivirus (APMV)	212035	902	103,945					15486256
+Q5UQA7	YR542_MIMIV	Putative F-box/LRR-repeat protein R542	MIMI_R542	Acanthamoeba polyphaga mimivirus (APMV)	212035	558	64,198					15486256
+Q5UR38	YR558_MIMIV	Uncharacterized protein R558	MIMI_R558	Acanthamoeba polyphaga mimivirus (APMV)	212035	465	53,574					15486256
+Q5UR43	YR562_MIMIV	Uncharacterized protein R562	MIMI_R562	Acanthamoeba polyphaga mimivirus (APMV)	212035	321	37,561					15486256
+Q5UR94	YR578_MIMIV	Putative ankyrin repeat protein R578	MIMI_R578	Acanthamoeba polyphaga mimivirus (APMV)	212035	433	49,858					15486256
+Q5UR56	YR580_MIMIV	Putative ankyrin repeat protein R580	MIMI_R580	Acanthamoeba polyphaga mimivirus (APMV)	212035	468	54,052					15486256
+Q5UP51	YR587_MIMIV	Uncharacterized protein R587	MIMI_R587	Acanthamoeba polyphaga mimivirus (APMV)	212035	190	21,703					15486256
+Q5UP64	YR599_MIMIV	Putative ankyrin repeat protein R599	MIMI_R599	Acanthamoeba polyphaga mimivirus (APMV)	212035	356	41,016					15486256
+Q5UP62	YR601_MIMIV	Putative ankyrin repeat protein R601	MIMI_R601	Acanthamoeba polyphaga mimivirus (APMV)	212035	303	34,564					15486256
+Q5UP60	YR603_MIMIV	Putative ankyrin repeat protein R603	MIMI_R603	Acanthamoeba polyphaga mimivirus (APMV)	212035	309	35,279					15486256
+Q5UP73	YR614_MIMIV	Putative band 7 family protein R614	MIMI_R614	Acanthamoeba polyphaga mimivirus (APMV)	212035	303	33,771			membrane [GO:0016020]		15486256
+Q5UR75	YR627_MIMIV	Uncharacterized protein R627	MIMI_R627	Acanthamoeba polyphaga mimivirus (APMV)	212035	644	71,982					15486256
+Q5UR85	YR636_MIMIV	Putative FNIP repeat-containing protein R636	MIMI_R636	Acanthamoeba polyphaga mimivirus (APMV)	212035	394	46,621					15486256
+Q5UR91	YR641_MIMIV	Uncharacterized protein R641	MIMI_R641	Acanthamoeba polyphaga mimivirus (APMV)	212035	263	31,108					15486256
+Q5UR06	YR651_MIMIV	Uncharacterized protein R651	MIMI_R651	Acanthamoeba polyphaga mimivirus (APMV)	212035	493	57,892					15486256
+Q5UR17	YR658_MIMIV	Uncharacterized protein R658	MIMI_R658	Acanthamoeba polyphaga mimivirus (APMV)	212035	541	62,887			virion [GO:0019012]		15486256; 16971431
+Q5UQ58	YR664_MIMIV	Putative ankyrin repeat protein R664	MIMI_R664	Acanthamoeba polyphaga mimivirus (APMV)	212035	162	18,664					15486256
+Q5UNT6	YR680_MIMIV	Uncharacterized protein R680	MIMI_R680	Acanthamoeba polyphaga mimivirus (APMV)	212035	111	13,152					15486256
+Q5UNY6	YR738_MIMIV	Putative BTB/POZ domain-containing protein R738	MIMI_R738	Acanthamoeba polyphaga mimivirus (APMV)	212035	497	58,658					15486256
+Q5UNZ8	YR740_MIMIV	Uncharacterized protein R740	MIMI_R740	Acanthamoeba polyphaga mimivirus (APMV)	212035	187	21,524					15486256
+Q5UNZ7	YR741_MIMIV	Uncharacterized protein R741	MIMI_R741	Acanthamoeba polyphaga mimivirus (APMV)	212035	182	22,594					15486256
+Q5UP97	YL021_MIMIV	Putative sel1-like repeat-containing protein L21	MIMI_L21	Acanthamoeba polyphaga mimivirus (APMV)	212035	533	63,345					15486256
+Q5UPA3	YL022_MIMIV	Putative ankyrin repeat protein L22	MIMI_L22	Acanthamoeba polyphaga mimivirus (APMV)	212035	122	13,537					15486256
+Q5UPA2	YL023_MIMIV	Putative ankyrin repeat protein L23	MIMI_L23	Acanthamoeba polyphaga mimivirus (APMV)	212035	269	30,742					15486256
+Q5UP99	YL026_MIMIV	Uncharacterized protein L26	MIMI_L26	Acanthamoeba polyphaga mimivirus (APMV)	212035	104	12,319					15486256
+Q5UPA9	YL028_MIMIV	Uncharacterized protein L28	MIMI_L28	Acanthamoeba polyphaga mimivirus (APMV)	212035	104	12,138					15486256
+Q5UPA6	YL031_MIMIV	Uncharacterized protein L31	MIMI_L31	Acanthamoeba polyphaga mimivirus (APMV)	212035	225	27,444					15486256
+Q5UPB1	YL039_MIMIV	Uncharacterized protein L39	MIMI_L39	Acanthamoeba polyphaga mimivirus (APMV)	212035	174	20,727					15486256
+Q5UPE8	YL075_MIMIV	Uncharacterized protein L75	MIMI_L75	Acanthamoeba polyphaga mimivirus (APMV)	212035	310	37,115					15486256
+Q5UPF6	YL078_MIMIV	Uncharacterized protein L78	MIMI_L78	Acanthamoeba polyphaga mimivirus (APMV)	212035	103	12,391					15486256
+Q5UPF3	YL081_MIMIV	Putative ankyrin repeat protein L81	MIMI_L81	Acanthamoeba polyphaga mimivirus (APMV)	212035	277	32,315					15486256
+Q5UPG1	YL085_MIMIV	Putative BTB/POZ domain-containing protein L85	MIMI_L85	Acanthamoeba polyphaga mimivirus (APMV)	212035	419	49,290					15486256
+Q5UPG8	YL090_MIMIV	Uncharacterized protein L90	MIMI_L90	Acanthamoeba polyphaga mimivirus (APMV)	212035	120	14,012					15486256
+Q5UPG5	YL093_MIMIV	Putative ankyrin repeat protein L93	MIMI_L93	Acanthamoeba polyphaga mimivirus (APMV)	212035	421	46,760					15486256
+Q5UPH1	YL099_MIMIV	Putative ankyrin repeat protein L99	MIMI_L99	Acanthamoeba polyphaga mimivirus (APMV)	212035	261	29,463					15486256
+Q5UPI4	YL114_MIMIV	Uncharacterized protein L114	MIMI_L114	Acanthamoeba polyphaga mimivirus (APMV)	212035	194	21,804					15486256
+Q5UPM7	YL166_MIMIV	Putative F-box protein L166	MIMI_L166	Acanthamoeba polyphaga mimivirus (APMV)	212035	251	30,360					15486256
+Q5UPN2	YL168_MIMIV	Putative F-box protein L168	MIMI_L168	Acanthamoeba polyphaga mimivirus (APMV)	212035	204	24,586					15486256
+Q5UPN0	YL170_MIMIV	Putative FNIP repeat-containing protein L170	MIMI_L170	Acanthamoeba polyphaga mimivirus (APMV)	212035	442	51,382					15486256
+Q5UPN4	YL173_MIMIV	Uncharacterized protein L173	MIMI_L173	Acanthamoeba polyphaga mimivirus (APMV)	212035	205	24,258					15486256
+Q5UPP1	YL174_MIMIV	Uncharacterized protein L174	MIMI_L174	Acanthamoeba polyphaga mimivirus (APMV)	212035	332	38,916					15486256
+Q5UPP5	YL181_MIMIV	Uncharacterized protein L181	MIMI_L181	Acanthamoeba polyphaga mimivirus (APMV)	212035	376	45,109					15486256
+Q5UPP3	YL183_MIMIV	Uncharacterized protein L183	MIMI_L183	Acanthamoeba polyphaga mimivirus (APMV)	212035	386	45,834					15486256
+Q5URB5	YL185_MIMIV	Uncharacterized protein L185	MIMI_L185	Acanthamoeba polyphaga mimivirus (APMV)	212035	392	46,253					15486256
+Q5UQ18	YL199_MIMIV	Uncharacterized protein L199	MIMI_L199	Acanthamoeba polyphaga mimivirus (APMV)	212035	234	26,995					15486256
+Q5UQC0	YL226_MIMIV	Uncharacterized protein L226	MIMI_L226	Acanthamoeba polyphaga mimivirus (APMV)	212035	690	80,453					15486256
+Q5UPX8	YL234_MIMIV	Uncharacterized protein L234	MIMI_L234	Acanthamoeba polyphaga mimivirus (APMV)	212035	288	33,787					15486256
+Q5UPX6	YL236_MIMIV	Uncharacterized protein L236	MIMI_L236	Acanthamoeba polyphaga mimivirus (APMV)	212035	148	17,764					15486256
+Q5UPT4	YL247_MIMIV	Uncharacterized HNH endonuclease L247 (EC 3.1.-.-)	MIMI_L247	Acanthamoeba polyphaga mimivirus (APMV)	212035	398	44,486	3.1.-.-			endonuclease activity [GO:0004519]	15486256
+Q5UPU6	YL265_MIMIV	Uncharacterized protein L265	MIMI_L265	Acanthamoeba polyphaga mimivirus (APMV)	212035	325	38,722					15486256
+Q5UPU8	YL274_MIMIV	Uncharacterized protein L274	MIMI_L274	Acanthamoeba polyphaga mimivirus (APMV)	212035	212	23,506			virion [GO:0019012]		15486256; 16971431
+Q5UPW4	YL283_MIMIV	Putative ankyrin repeat protein L283	MIMI_L283	Acanthamoeba polyphaga mimivirus (APMV)	212035	555	64,802					15486256
+Q5UPX1	YL289_MIMIV	Putative ankyrin repeat protein L289	MIMI_L289	Acanthamoeba polyphaga mimivirus (APMV)	212035	544	62,337					15486256
+Q5UPZ6	YL308_MIMIV	Uncharacterized protein L308	MIMI_L308	Acanthamoeba polyphaga mimivirus (APMV)	212035	322	38,509					15486256
+Q5UQS1	YL332_MIMIV	Uncharacterized protein L332	MIMI_L332	Acanthamoeba polyphaga mimivirus (APMV)	212035	116	13,815					15486256
+Q5UQT6	YL344_MIMIV	Uncharacterized WD repeat-containing protein L344	MIMI_L344	Acanthamoeba polyphaga mimivirus (APMV)	212035	526	60,488					15486256
+Q5UQU5	YL360_MIMIV	Uncharacterized protein L360	MIMI_L360	Acanthamoeba polyphaga mimivirus (APMV)	212035	177	21,290					15486256
+Q5UQX2	YL381_MIMIV	Uncharacterized protein L381	MIMI_L381	Acanthamoeba polyphaga mimivirus (APMV)	212035	280	32,320					15486256
+Q5UQK8	YL412_MIMIV	Uncharacterized protein L412	MIMI_L412	Acanthamoeba polyphaga mimivirus (APMV)	212035	284	32,982				metal ion binding [GO:0046872]	15486256
+Q5UQQ0	YL452_MIMIV	Uncharacterized protein L452	MIMI_L452	Acanthamoeba polyphaga mimivirus (APMV)	212035	502	54,715			virion [GO:0019012]		15486256; 16971431
+Q5UQE5	YL471_MIMIV	Uncharacterized protein L471	MIMI_L471	Acanthamoeba polyphaga mimivirus (APMV)	212035	401	47,411					15486256
+Q5UQG1	YL492_MIMIV	Uncharacterized protein L492	MIMI_L492	Acanthamoeba polyphaga mimivirus (APMV)	212035	179	20,432			virion [GO:0019012]		15486256; 16971431
+Q5UR27	YL550_MIMIV	Uncharacterized protein L550	MIMI_L550	Acanthamoeba polyphaga mimivirus (APMV)	212035	167	16,640			virion [GO:0019012]		15486256; 16971431
+Q5UR99	YL573_MIMIV	Uncharacterized protein L573	MIMI_L573	Acanthamoeba polyphaga mimivirus (APMV)	212035	244	28,929			integral component of membrane [GO:0016021]		15486256
+Q5UP75	YL612_MIMIV	Uncharacterized protein L612	MIMI_L612	Acanthamoeba polyphaga mimivirus (APMV)	212035	160	18,499			virion [GO:0019012]		15486256; 16971431
+Q5UNT3	YL671_MIMIV	Uncharacterized protein L671	MIMI_L671	Acanthamoeba polyphaga mimivirus (APMV)	212035	152	17,171					15486256
+Q5UNU4	YL685_MIMIV	Uncharacterized protein L685	MIMI_L685	Acanthamoeba polyphaga mimivirus (APMV)	212035	337	39,396					15486256
+Q5UP08	YL754_MIMIV	Uncharacterized protein L754	MIMI_L754	Acanthamoeba polyphaga mimivirus (APMV)	212035	377	44,634					15486256
+Q5UPQ5	YL763_MIMIV	Uncharacterized protein L763	MIMI_L763	Acanthamoeba polyphaga mimivirus (APMV)	212035	262	31,137					15486256
+Q5UPQ4	YL764_MIMIV	Putative ankyrin repeat protein L764	MIMI_L764	Acanthamoeba polyphaga mimivirus (APMV)	212035	647	75,982					15486256
+Q5UPQ6	YL767_MIMIV	Putative ankyrin repeat protein L767	MIMI_L767	Acanthamoeba polyphaga mimivirus (APMV)	212035	632	75,306					15486256
+Q5UPQ9	YL769_MIMIV	Putative ankyrin repeat protein L769	MIMI_L769	Acanthamoeba polyphaga mimivirus (APMV)	212035	628	74,574					15486256
+Q5UPR6	YL774_MIMIV	Putative ankyrin repeat protein L774	MIMI_L774	Acanthamoeba polyphaga mimivirus (APMV)	212035	633	74,919					15486256
+Q5UR03	YL905_MIMIV	Uncharacterized protein L905	MIMI_L905	Acanthamoeba polyphaga mimivirus (APMV)	212035	210	25,243				oxidoreductase activity [GO:0016491]	15486256
+Q5UR05	YL910_MIMIV	Uncharacterized protein L910	MIMI_L910	Acanthamoeba polyphaga mimivirus (APMV)	212035	210	25,013					15486256
+Q5UP89	YR009_MIMIV	Uncharacterized protein R9	MIMI_R9	Acanthamoeba polyphaga mimivirus (APMV)	212035	376	44,816					15486256
+Q5URB3	YR187_MIMIV	Uncharacterized protein R187	MIMI_R187	Acanthamoeba polyphaga mimivirus (APMV)	212035	246	29,164					15486256
+Q5UQ20	YR197_MIMIV	Uncharacterized protein R197	MIMI_R197	Acanthamoeba polyphaga mimivirus (APMV)	212035	187	21,744				catalytic activity [GO:0003824]	15486256
+Q5UPT9	YR255_MIMIV	Uncharacterized protein R255	MIMI_R255	Acanthamoeba polyphaga mimivirus (APMV)	212035	312	35,959					15486256
+Q5UP22	YR261_MIMIV	Uncharacterized protein R261	MIMI_R261	Acanthamoeba polyphaga mimivirus (APMV)	212035	181	20,612					15486256
+Q5UPU4	YR267_MIMIV	Putative ankyrin repeat protein R267	MIMI_R267	Acanthamoeba polyphaga mimivirus (APMV)	212035	433	50,223					15486256
+Q5UPW0	YR287_MIMIV	Uncharacterized protein R287	MIMI_R287	Acanthamoeba polyphaga mimivirus (APMV)	212035	242	27,952			integral component of membrane [GO:0016021]		15486256
+Q5UPY3	YR297_MIMIV	Uncharacterized protein R297	MIMI_R297	Acanthamoeba polyphaga mimivirus (APMV)	212035	168	20,007					15486256
+Q5UQ01	YR314_MIMIV	Uncharacterized protein R314	MIMI_R314	Acanthamoeba polyphaga mimivirus (APMV)	212035	138	14,769					15486256
+Q5UQM7	YR428_MIMIV	Uncharacterized protein R428	MIMI_R428	Acanthamoeba polyphaga mimivirus (APMV)	212035	194	22,450					15486256
+Q5UPP7	YR760_MIMIV	Putative ankyrin repeat protein R760	MIMI_R760	Acanthamoeba polyphaga mimivirus (APMV)	212035	501	57,453					15486256
+Q5UQ06	YR789_MIMIV	Putative ankyrin repeat protein R789	MIMI_R789	Acanthamoeba polyphaga mimivirus (APMV)	212035	422	48,084					15486256
+Q5UQ02	YR793_MIMIV	Uncharacterized protein R793	MIMI_R793	Acanthamoeba polyphaga mimivirus (APMV)	212035	224	26,115					15486256
+Q5UQH0	YR815_MIMIV	Putative sel1-like repeat-containing protein R815	MIMI_R815	Acanthamoeba polyphaga mimivirus (APMV)	212035	540	63,256					15486256
+Q5UQH7	YR820_MIMIV	Uncharacterized protein R820	MIMI_R820	Acanthamoeba polyphaga mimivirus (APMV)	212035	120	13,868					15486256
+Q5UQQ3	YR860_MIMIV	Uncharacterized protein R860	MIMI_R860	Acanthamoeba polyphaga mimivirus (APMV)	212035	106	12,142					15486256
+Q5UP17	YR866_MIMIV	Uncharacterized protein R866	MIMI_R866	Acanthamoeba polyphaga mimivirus (APMV)	212035	431	50,724		protein homooligomerization [GO:0051260]			15486256
+Q5UP41	YR871_MIMIV	Uncharacterized protein R871	MIMI_R871	Acanthamoeba polyphaga mimivirus (APMV)	212035	561	65,520					15486256
+Q5URA9	YR875_MIMIV	Putative ankyrin repeat protein R875	MIMI_R875	Acanthamoeba polyphaga mimivirus (APMV)	212035	197	22,555					15486256
+Q5URA6	YR878_MIMIV	Putative KilA-N domain-containing protein R878	MIMI_R878	Acanthamoeba polyphaga mimivirus (APMV)	212035	356	41,218					15486256
+Q5UQX5	YR883_MIMIV	Uncharacterized protein R883	MIMI_R883	Acanthamoeba polyphaga mimivirus (APMV)	212035	452	52,653					15486256
+Q5UQY0	YR890_MIMIV	Uncharacterized protein R890	MIMI_R890	Acanthamoeba polyphaga mimivirus (APMV)	212035	180	20,931					15486256
+Q5UQY9	YR896_MIMIV	Putative ankyrin repeat protein R896	MIMI_R896	Acanthamoeba polyphaga mimivirus (APMV)	212035	332	37,566					15486256
+Q5UQZ6	YR902_MIMIV	Uncharacterized protein R902	MIMI_R902	Acanthamoeba polyphaga mimivirus (APMV)	212035	213	25,064					15486256
+Q5UQZ4	YR904_MIMIV	Putative KilA-N domain-containing protein R904	MIMI_R904	Acanthamoeba polyphaga mimivirus (APMV)	212035	343	39,960					15486256
+Q5UP84	YL003_MIMIV	Uncharacterized protein L3	MIMI_L3	Acanthamoeba polyphaga mimivirus (APMV)	212035	666	78,307					15486256
+Q5UP81	YL006_MIMIV	Uncharacterized protein L6	MIMI_L6	Acanthamoeba polyphaga mimivirus (APMV)	212035	218	26,510					15486256
+Q5UP92	YL018_MIMIV	Putative sel1-like repeat-containing protein L18	MIMI_L18	Acanthamoeba polyphaga mimivirus (APMV)	212035	584	68,350					15486256
+Q5UP90	YL020_MIMIV	Uncharacterized protein L20	MIMI_L20	Acanthamoeba polyphaga mimivirus (APMV)	212035	118	13,803			integral component of membrane [GO:0016021]		15486256
+Q5UPA4	YL033_MIMIV	Putative KilA-N domain-containing protein L33	MIMI_L33	Acanthamoeba polyphaga mimivirus (APMV)	212035	246	28,927				DNA binding [GO:0003677]	15486256
+Q5UPB3	YL037_MIMIV	Putative KilA-N domain-containing protein L37	MIMI_L37	Acanthamoeba polyphaga mimivirus (APMV)	212035	487	55,751					15486256
+Q5UPB2	YL038_MIMIV	Putative ankyrin repeat protein L38	MIMI_L38	Acanthamoeba polyphaga mimivirus (APMV)	212035	189	22,390					15486256
+Q5UPC0	YL041_MIMIV	Uncharacterized protein L41	MIMI_L41	Acanthamoeba polyphaga mimivirus (APMV)	212035	478	56,822					15486256
+Q5UPB9	YL042_MIMIV	Putative ankyrin repeat protein L42	MIMI_L42	Acanthamoeba polyphaga mimivirus (APMV)	212035	357	41,227					15486256
+Q5UPD2	YL056_MIMIV	Putative ankyrin repeat protein L56	MIMI_L56	Acanthamoeba polyphaga mimivirus (APMV)	212035	604	70,782					15486256
+Q5UPD5	YL059_MIMIV	Putative ankyrin repeat protein L59	MIMI_L59	Acanthamoeba polyphaga mimivirus (APMV)	212035	307	35,252					15486256
+Q5UPD4	YL060_MIMIV	Putative F-box and FNIP repeat-containing protein L60	MIMI_L60	Acanthamoeba polyphaga mimivirus (APMV)	212035	621	71,050					15486256
+Q5UPE3	YL062_MIMIV	Putative ankyrin repeat protein L62	MIMI_L62	Acanthamoeba polyphaga mimivirus (APMV)	212035	252	28,421					15486256
+Q5UPE2	YL063_MIMIV	Putative ankyrin repeat protein L63	MIMI_L63	Acanthamoeba polyphaga mimivirus (APMV)	212035	580	65,285					15486256
+Q5UPD8	YL067_MIMIV	Putative BTB/POZ domain-containing protein L67	MIMI_L67	Acanthamoeba polyphaga mimivirus (APMV)	212035	498	58,845					15486256
+Q5UPF2	YL076_MIMIV	Putative BTB/POZ domain-containing protein L76	MIMI_L76	Acanthamoeba polyphaga mimivirus (APMV)	212035	551	64,685					15486256
+Q5UPG4	YL082_MIMIV	Uncharacterized protein L82	MIMI_L82	Acanthamoeba polyphaga mimivirus (APMV)	212035	181	21,178					15486256
+Q5UPI8	YL110_MIMIV	Uncharacterized protein L110	MIMI_L110	Acanthamoeba polyphaga mimivirus (APMV)	212035	155	18,233					15486256
+Q5UPK2	YL126_MIMIV	Putative F-box protein L126	MIMI_L126	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	30,040					15486256
+Q5UPK8	YL127_MIMIV	Putative F-box protein L127	MIMI_L127	Acanthamoeba polyphaga mimivirus (APMV)	212035	269	32,148					15486256
+Q5UPL3	YL134_MIMIV	Uncharacterized protein L134	MIMI_L134	Acanthamoeba polyphaga mimivirus (APMV)	212035	163	19,548					15486256
+Q5UPL1	YL136_MIMIV	Uncharacterized protein L136	MIMI_L136	Acanthamoeba polyphaga mimivirus (APMV)	212035	352	39,935				catalytic activity [GO:0003824]	15486256
+Q5UPL8	YL152_MIMIV	Uncharacterized protein L152	MIMI_L152	Acanthamoeba polyphaga mimivirus (APMV)	212035	566	65,439					15486256
+Q5UP21	YL262_MIMIV	Uncharacterized protein L262	MIMI_L262	Acanthamoeba polyphaga mimivirus (APMV)	212035	216	26,075					15486256
+Q5UPV3	YL269_MIMIV	Uncharacterized protein L269	MIMI_L269	Acanthamoeba polyphaga mimivirus (APMV)	212035	264	31,291					15486256
+Q5UPY5	YL295_MIMIV	Uncharacterized protein L295	MIMI_L295	Acanthamoeba polyphaga mimivirus (APMV)	212035	197	23,138					15486256
+Q5UPY6	YL300_MIMIV	Uncharacterized protein L300	MIMI_L300	Acanthamoeba polyphaga mimivirus (APMV)	212035	166	19,869					15486256
+Q5UQU9	YL356_MIMIV	Uncharacterized protein L356	MIMI_L356	Acanthamoeba polyphaga mimivirus (APMV)	212035	621	71,575					15486256
+Q5UR23	YL361_MIMIV	Uncharacterized protein L361	MIMI_L361	Acanthamoeba polyphaga mimivirus (APMV)	212035	262	30,954					15486256
+Q5UQW9	YL384_MIMIV	Uncharacterized protein L384	MIMI_L384	Acanthamoeba polyphaga mimivirus (APMV)	212035	132	15,539					15486256
+Q5UQ45	YL389_MIMIV	Uncharacterized protein L389	MIMI_L389	Acanthamoeba polyphaga mimivirus (APMV)	212035	1083	127,331			virion [GO:0019012]		15486256; 16971431
+Q5UQF5	YL491_MIMIV	Uncharacterized protein L491	MIMI_L491	Acanthamoeba polyphaga mimivirus (APMV)	212035	261	30,740					15486256
+Q5UR39	YL560_MIMIV	Uncharacterized HNH endonuclease L560 (EC 3.1.-.-)	MIMI_L560	Acanthamoeba polyphaga mimivirus (APMV)	212035	187	21,366	3.1.-.-			endonuclease activity [GO:0004519]	15486256
+Q5UQ26	YR203_MIMIV	Uncharacterized protein R203	MIMI_R203	Acanthamoeba polyphaga mimivirus (APMV)	212035	337	38,944					15486256
+Q5UQB0	YR219_MIMIV	Putative ankyrin repeat protein R219	MIMI_R219	Acanthamoeba polyphaga mimivirus (APMV)	212035	663	78,084					15486256
+Q5UPU2	YR252_MIMIV	Uncharacterized protein R252	MIMI_R252	Acanthamoeba polyphaga mimivirus (APMV)	212035	278	29,801		DNA protection [GO:0042262]			15486256
+Q5UPT7	YR257_MIMIV	Uncharacterized protein R257	MIMI_R257	Acanthamoeba polyphaga mimivirus (APMV)	212035	335	38,659					15486256
+Q5UPU5	YR266_MIMIV	Putative J domain-containing protein R266	MIMI_R266	Acanthamoeba polyphaga mimivirus (APMV)	212035	181	21,623					15486256
+Q5UPV7	YR277_MIMIV	Uncharacterized protein R277	MIMI_R277	Acanthamoeba polyphaga mimivirus (APMV)	212035	138	16,172				ATP binding [GO:0005524]	15486256
+Q5UPW1	YR286_MIMIV	Putative F-box and FNIP repeat-containing protein R286	MIMI_R286	Acanthamoeba polyphaga mimivirus (APMV)	212035	298	34,595					15486256
+Q5UPW8	YR292_MIMIV	Uncharacterized protein R292	MIMI_R292	Acanthamoeba polyphaga mimivirus (APMV)	212035	191	22,180					15486256
+Q5UPZ1	YR302_MIMIV	Uncharacterized protein R302	MIMI_R302	Acanthamoeba polyphaga mimivirus (APMV)	212035	143	16,642			integral component of membrane [GO:0016021]		15486256
+Q5UQT1	YR336_MIMIV	Uncharacterized protein R336	MIMI_R336	Acanthamoeba polyphaga mimivirus (APMV)	212035	291	33,583					15486256
+Q5UQS9	YR338_MIMIV	Uncharacterized protein R338	MIMI_R338	Acanthamoeba polyphaga mimivirus (APMV)	212035	895	104,711					15486256
+Q5UQT4	YR346_MIMIV	Uncharacterized protein R346	MIMI_R346	Acanthamoeba polyphaga mimivirus (APMV)	212035	195	21,766					15486256
+Q5UQV1	YR354_MIMIV	Uncharacterized protein R354	MIMI_R354	Acanthamoeba polyphaga mimivirus (APMV)	212035	549	64,644				DNA binding [GO:0003677]; nuclease activity [GO:0004518]	15486256
+Q5UQ42	YR392_MIMIV	Uncharacterized protein R392	MIMI_R392	Acanthamoeba polyphaga mimivirus (APMV)	212035	400	47,235					15486256
+Q5UQK0	YR408_MIMIV	Uncharacterized protein R408	MIMI_R408	Acanthamoeba polyphaga mimivirus (APMV)	212035	223	26,207					15486256
+Q5UQM8	YR427_MIMIV	Uncharacterized protein R427	MIMI_R427	Acanthamoeba polyphaga mimivirus (APMV)	212035	120	13,897					15486256
+Q5UQD6	YR465_MIMIV	Uncharacterized protein R465	MIMI_R465	Acanthamoeba polyphaga mimivirus (APMV)	212035	180	21,176					15486256
+Q5UQE2	YR474_MIMIV	Uncharacterized protein R474	MIMI_R474	Acanthamoeba polyphaga mimivirus (APMV)	212035	413	47,189			integral component of membrane [GO:0016021]		15486256
+Q5UP46	YR500_MIMIV	Uncharacterized protein R500	MIMI_R500	Acanthamoeba polyphaga mimivirus (APMV)	212035	185	22,010					15486256
+Q5UR30	YR547_MIMIV	Uncharacterized protein R547	MIMI_R547	Acanthamoeba polyphaga mimivirus (APMV)	212035	129	14,998					15486256
+Q5UNW1	YR707_MIMIV	Uncharacterized protein R707	MIMI_R707	Acanthamoeba polyphaga mimivirus (APMV)	212035	281	33,489			integral component of membrane [GO:0016021]	transferase activity, transferring glycosyl groups [GO:0016757]	15486256
+Q5UNX3	YR714_MIMIV	Uncharacterized protein R714	MIMI_R714	Acanthamoeba polyphaga mimivirus (APMV)	212035	115	13,377					15486256
+Q5UNX4	YR726_MIMIV	Uncharacterized protein R726	MIMI_R726	Acanthamoeba polyphaga mimivirus (APMV)	212035	162	18,828					15486256
+Q5UNZ0	YR734_MIMIV	Putative ankyrin repeat protein R734	MIMI_R734	Acanthamoeba polyphaga mimivirus (APMV)	212035	652	76,459					15486256
+Q5UNZ4	YR744_MIMIV	Uncharacterized protein R744	MIMI_R744	Acanthamoeba polyphaga mimivirus (APMV)	212035	181	21,727					15486256
+Q5UNZ9	YR746_MIMIV	Uncharacterized protein R746	MIMI_R746	Acanthamoeba polyphaga mimivirus (APMV)	212035	215	25,516					15486256
+Q5UPR4	YR776_MIMIV	Uncharacterized protein R776	MIMI_R776	Acanthamoeba polyphaga mimivirus (APMV)	212035	314	35,791				ATP binding [GO:0005524]	15486256
+Q5UR58	YR804_MIMIV	Uncharacterized protein R804	MIMI_R804	Acanthamoeba polyphaga mimivirus (APMV)	212035	186	21,747					15486256
+Q5UP32	YR828_MIMIV	Uncharacterized protein R828	MIMI_R828	Acanthamoeba polyphaga mimivirus (APMV)	212035	124	14,425					15486256
+Q5UQH8	YR833_MIMIV	Putative truncated GMC-type inactive oxidoreductase R833	MIMI_R833	Acanthamoeba polyphaga mimivirus (APMV)	212035	81	8,906				oxidoreductase activity, acting on CH-OH group of donors [GO:0016614]	15486256
+Q5UP29	YR852_MIMIV	Uncharacterized protein R852	MIMI_R852	Acanthamoeba polyphaga mimivirus (APMV)	212035	196	23,416					15486256
+Q5UQQ8	YR855_MIMIV	Uncharacterized protein R855	MIMI_R855	Acanthamoeba polyphaga mimivirus (APMV)	212035	123	14,865					15486256
+Q5UQJ4	YR861_MIMIV	Uncharacterized protein R861	MIMI_R861	Acanthamoeba polyphaga mimivirus (APMV)	212035	212	25,268					15486256
+Q5UQJ2	YR863_MIMIV	Putative ankyrin repeat protein R863	MIMI_L863	Acanthamoeba polyphaga mimivirus (APMV)	212035	514	57,428					15486256
+Q5UP19	YR864_MIMIV	Putative ankyrin repeat protein R864	MIMI_L864	Acanthamoeba polyphaga mimivirus (APMV)	212035	299	33,293					15486256
+Q5UP26	YR869_MIMIV	Uncharacterized protein R869	MIMI_R869	Acanthamoeba polyphaga mimivirus (APMV)	212035	138	16,248					15486256
+Q5UQX8	YR880_MIMIV	Putative ankyrin repeat protein R880	MIMI_R880	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	30,094					15486256
+Q5UQZ0	YR895_MIMIV	Uncharacterized protein R895	MIMI_R895	Acanthamoeba polyphaga mimivirus (APMV)	212035	690	79,157					15486256
+Q5UQZ8	YR900_MIMIV	Uncharacterized protein R900	MIMI_R900	Acanthamoeba polyphaga mimivirus (APMV)	212035	101	11,760			integral component of membrane [GO:0016021]		15486256
+Q5UR01	YR907_MIMIV	Uncharacterized protein R907	MIMI_R907	Acanthamoeba polyphaga mimivirus (APMV)	212035	196	23,894					15486256
+Q5UR04	YR911_MIMIV	Putative ankyrin repeat protein R911	MIMI_R911	Acanthamoeba polyphaga mimivirus (APMV)	212035	467	52,124					15486256
+Q5UQP3	YR445_MIMIV	Putative J domain-containing protein R445	MIMI_R445	Acanthamoeba polyphaga mimivirus (APMV)	212035	368	42,221					15486256
+Q5UP80	YL007_MIMIV	Uncharacterized protein L7	MIMI_L7	Acanthamoeba polyphaga mimivirus (APMV)	212035	155	18,374					15486256
+Q5UP98	YL027_MIMIV	Uncharacterized protein L27	MIMI_L27	Acanthamoeba polyphaga mimivirus (APMV)	212035	146	17,401					15486256
+Q5UPD0	YL052_MIMIV	Uncharacterized protein L52	MIMI_L52	Acanthamoeba polyphaga mimivirus (APMV)	212035	140	16,248					15486256
+Q5UPC8	YL054_MIMIV	Uncharacterized protein L54	MIMI_L54	Acanthamoeba polyphaga mimivirus (APMV)	212035	182	20,884					15486256
+Q5UPD7	YL057_MIMIV	Uncharacterized protein L57	MIMI_L57	Acanthamoeba polyphaga mimivirus (APMV)	212035	182	21,415					15486256
+Q5UPF1	YL072_MIMIV	Putative ankyrin repeat protein L72	MIMI_L72	Acanthamoeba polyphaga mimivirus (APMV)	212035	384	44,275					15486256
+Q5UPF7	YL077_MIMIV	Uncharacterized protein L77	MIMI_L77	Acanthamoeba polyphaga mimivirus (APMV)	212035	242	28,899					15486256
+Q5UPF9	YL087_MIMIV	Uncharacterized protein L87	MIMI_L87	Acanthamoeba polyphaga mimivirus (APMV)	212035	171	20,055					15486256
+Q5UPF8	YL088_MIMIV	Putative ankyrin repeat protein L88	MIMI_L88	Acanthamoeba polyphaga mimivirus (APMV)	212035	879	99,032					15486256
+Q5UPG6	YL092_MIMIV	Putative ankyrin repeat protein L92	MIMI_L92	Acanthamoeba polyphaga mimivirus (APMV)	212035	413	47,187					15486256
+Q5UPH5	YL095_MIMIV	Uncharacterized protein L95	MIMI_L95	Acanthamoeba polyphaga mimivirus (APMV)	212035	107	12,221					15486256
+Q5UPI3	YL101_MIMIV	Uncharacterized protein L101	MIMI_L101	Acanthamoeba polyphaga mimivirus (APMV)	212035	344	39,486					15486256
+Q5UPI2	YL102_MIMIV	Uncharacterized protein L102	MIMI_L102	Acanthamoeba polyphaga mimivirus (APMV)	212035	237	28,353					15486256
+Q5UPH7	YL107_MIMIV	Putative BTB/POZ domain-containing protein L107	MIMI_L107	Acanthamoeba polyphaga mimivirus (APMV)	212035	501	58,860					15486256
+Q5UPK0	YL121_MIMIV	Putative ankyrin repeat protein L121	MIMI_L121	Acanthamoeba polyphaga mimivirus (APMV)	212035	330	38,679					15486256
+Q5UPK9	YL138_MIMIV	Uncharacterized protein L138	MIMI_L138	Acanthamoeba polyphaga mimivirus (APMV)	212035	883	103,174					15486256
+Q5UR11	YL142_MIMIV	Uncharacterized protein L142	MIMI_L142	Acanthamoeba polyphaga mimivirus (APMV)	212035	490	55,998					15486256
+Q5URA1	YL147_MIMIV	Uncharacterized protein L147	MIMI_L147	Acanthamoeba polyphaga mimivirus (APMV)	212035	279	32,849					15486256
+Q5UPM5	YL157_MIMIV	Uncharacterized protein L157	MIMI_L157	Acanthamoeba polyphaga mimivirus (APMV)	212035	501	57,690					15486256
+Q5UP38	YL162_MIMIV	Putative FNIP repeat-containing protein L162	MIMI_L162	Acanthamoeba polyphaga mimivirus (APMV)	212035	521	61,245					15486256
+Q5UP37	YL163_MIMIV	Uncharacterized protein L163	MIMI_L163	Acanthamoeba polyphaga mimivirus (APMV)	212035	136	16,472					15486256
+Q5UP35	YL165_MIMIV	Putative F-box protein L165	MIMI_L165	Acanthamoeba polyphaga mimivirus (APMV)	212035	271	31,897					15486256
+Q5UPN1	YL169_MIMIV	Uncharacterized protein L169	MIMI_L169	Acanthamoeba polyphaga mimivirus (APMV)	212035	140	16,399					15486256
+Q5UPN7	YL178_MIMIV	Uncharacterized protein L178	MIMI_L178	Acanthamoeba polyphaga mimivirus (APMV)	212035	367	43,632					15486256
+Q5URB1	YL189_MIMIV	Uncharacterized protein L189	MIMI_L189	Acanthamoeba polyphaga mimivirus (APMV)	212035	120	14,113					15486256
+Q5UQ10	YL192_MIMIV	Uncharacterized protein L192	MIMI_L192	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	29,389					15486256
+Q5UQ17	YL200_MIMIV	Uncharacterized protein L200	MIMI_L200	Acanthamoeba polyphaga mimivirus (APMV)	212035	158	18,566					15486256
+Q5UQ25	YL204_MIMIV	Uncharacterized protein L204	MIMI_L204	Acanthamoeba polyphaga mimivirus (APMV)	212035	446	52,307					15486256
+Q5UQ21	YL208_MIMIV	Uncharacterized protein L208	MIMI_L208	Acanthamoeba polyphaga mimivirus (APMV)	212035	192	22,289			virion [GO:0019012]		15486256; 16971431
+Q5UQB4	YL215_MIMIV	Putative ankyrin repeat protein L215	MIMI_L215	Acanthamoeba polyphaga mimivirus (APMV)	212035	121	14,544					15486256
+Q5UPS9	YL242_MIMIV	Uncharacterized protein L242	MIMI_L242	Acanthamoeba polyphaga mimivirus (APMV)	212035	163	19,528					15486256
+Q5UPT6	YL245_MIMIV	Uncharacterized HNH endonuclease L245 (EC 3.1.-.-)	MIMI_L245	Acanthamoeba polyphaga mimivirus (APMV)	212035	330	38,242	3.1.-.-			endonuclease activity [GO:0004519]	15486256
+Q5UPT8	YL256_MIMIV	Uncharacterized protein L256	MIMI_L256	Acanthamoeba polyphaga mimivirus (APMV)	212035	213	25,235					15486256
+Q5UP20	YL263_MIMIV	Uncharacterized protein L263	MIMI_L263	Acanthamoeba polyphaga mimivirus (APMV)	212035	583	67,954					15486256
+Q5UPV2	YL270_MIMIV	Uncharacterized protein L270	MIMI_L270	Acanthamoeba polyphaga mimivirus (APMV)	212035	112	12,859					15486256
+Q5UPU9	YL273_MIMIV	Putative ankyrin repeat protein L273	MIMI_L273	Acanthamoeba polyphaga mimivirus (APMV)	212035	446	51,593					15486256
+Q5UPV6	YL278_MIMIV	Uncharacterized protein L278	MIMI_L278	Acanthamoeba polyphaga mimivirus (APMV)	212035	126	14,835					15486256
+Q5UPV5	YL279_MIMIV	Putative ankyrin repeat protein L279	MIMI_L279	Acanthamoeba polyphaga mimivirus (APMV)	212035	470	54,711					15486256
+Q5UPW5	YL282_MIMIV	Uncharacterized protein L282	MIMI_L282	Acanthamoeba polyphaga mimivirus (APMV)	212035	152	17,670			integral component of membrane [GO:0016021]		15486256
+Q5UPW2	YL285_MIMIV	Uncharacterized protein L285	MIMI_L285	Acanthamoeba polyphaga mimivirus (APMV)	212035	215	24,475					15486256
+Q5UQ48	YL394_MIMIV	Putative HD domain-containing protein L394	MIMI_L394	Acanthamoeba polyphaga mimivirus (APMV)	212035	457	53,476					15486256
+Q5UQJ7	YL399_MIMIV	Uncharacterized protein L399	MIMI_L399	Acanthamoeba polyphaga mimivirus (APMV)	212035	352	39,401			virion [GO:0019012]		15486256; 16971431
+Q5UQN0	YL437_MIMIV	Uncharacterized protein L437	MIMI_L437	Acanthamoeba polyphaga mimivirus (APMV)	212035	284	33,842					15486256
+Q5UQ73	YL509_MIMIV	Uncharacterized protein L509	MIMI_L509	Acanthamoeba polyphaga mimivirus (APMV)	212035	280	32,740				hydrolase activity [GO:0016787]	15486256
+Q5UQA3	YL533_MIMIV	Uncharacterized protein L533	MIMI_L533	Acanthamoeba polyphaga mimivirus (APMV)	212035	508	59,806			virion [GO:0019012]	nucleic acid binding [GO:0003676]	15486256; 16971431
+Q5UR36	YL552_MIMIV	Uncharacterized protein L552	MIMI_L552	Acanthamoeba polyphaga mimivirus (APMV)	212035	308	35,587					15486256
+Q5UP67	YL609_MIMIV	Uncharacterized protein L609	MIMI_L609	Acanthamoeba polyphaga mimivirus (APMV)	212035	314	36,903					15486256
+Q5UR18	YL657_MIMIV	Putative t-SNARE coiled-coil homology domain-containing protein L657	MIMI_L657	Acanthamoeba polyphaga mimivirus (APMV)	212035	204	23,411					15486256
+Q5UNU5	YL684_MIMIV	Uncharacterized protein L684	MIMI_L684	Acanthamoeba polyphaga mimivirus (APMV)	212035	498	58,026					15486256
+Q5UQZ9	YL909_MIMIV	Uncharacterized protein L909	MIMI_L909	Acanthamoeba polyphaga mimivirus (APMV)	212035	431	50,579					15486256
+Q5UPB0	YR034_MIMIV	Uncharacterized protein R34	MIMI_R34	Acanthamoeba polyphaga mimivirus (APMV)	212035	409	48,243					15486256
+Q5UPC1	YR040_MIMIV	Uncharacterized protein R40	MIMI_R40	Acanthamoeba polyphaga mimivirus (APMV)	212035	101	11,278			integral component of membrane [GO:0016021]		15486256
+Q5UPD6	YR058_MIMIV	Uncharacterized protein R58	MIMI_R58	Acanthamoeba polyphaga mimivirus (APMV)	212035	131	15,565					15486256
+Q5UPE5	YR070_MIMIV	Uncharacterized protein R70	MIMI_R70	Acanthamoeba polyphaga mimivirus (APMV)	212035	174	17,937					15486256
+Q5UPG3	YR083_MIMIV	Uncharacterized protein R83	MIMI_R83	Acanthamoeba polyphaga mimivirus (APMV)	212035	133	15,490					15486256
+Q5UPK4	YR131_MIMIV	Uncharacterized protein R131	MIMI_R131	Acanthamoeba polyphaga mimivirus (APMV)	212035	178	20,563					15486256
+Q5UR14	YR139_MIMIV	Uncharacterized glycosyltransferase R139 (EC 2.4.-.-)	MIMI_R139	Acanthamoeba polyphaga mimivirus (APMV)	212035	248	28,930	2.4.-.-			transferase activity, transferring glycosyl groups [GO:0016757]	15486256
+Q5UPM3	YR159_MIMIV	Uncharacterized protein R159	MIMI_R159	Acanthamoeba polyphaga mimivirus (APMV)	212035	138	15,610					15486256
+Q5UQ29	YR212_MIMIV	Uncharacterized protein R212	MIMI_R212	Acanthamoeba polyphaga mimivirus (APMV)	212035	262	30,602					15486256
+Q5UQB2	YR217_MIMIV	Uncharacterized protein R217	MIMI_R217	Acanthamoeba polyphaga mimivirus (APMV)	212035	732	87,559		pathogenesis [GO:0009405]	extracellular region [GO:0005576]		15486256
+Q5UQB6	YR225_MIMIV	Putative BTB/POZ domain-containing protein R225	MIMI_R225	Acanthamoeba polyphaga mimivirus (APMV)	212035	527	61,782					15486256
+Q5UP24	YR259_MIMIV	Uncharacterized protein R259	MIMI_R259	Acanthamoeba polyphaga mimivirus (APMV)	212035	292	34,518		tRNA modification [GO:0006400]		magnesium ion binding [GO:0000287]; tRNA guanylyltransferase activity [GO:0008193]	15486256
+Q5UPY2	YR298_MIMIV	Uncharacterized protein R298	MIMI_R298	Acanthamoeba polyphaga mimivirus (APMV)	212035	122	13,854					15486256
+Q5UPY9	YR304_MIMIV	Uncharacterized protein R304	MIMI_R304	Acanthamoeba polyphaga mimivirus (APMV)	212035	273	32,963					15486256
+Q5UQR1	YR321_MIMIV	Uncharacterized protein R321	MIMI_R321	Acanthamoeba polyphaga mimivirus (APMV)	212035	203	24,154					15486256
+Q5UQR4	YR327_MIMIV	Uncharacterized protein R327	MIMI_R327	Acanthamoeba polyphaga mimivirus (APMV)	212035	1588	188,191			virion [GO:0019012]		15486256; 16971431
+Q5UQS2	YR331_MIMIV	Putative zinc finger MYND domain-containing protein R331	MIMI_R331	Acanthamoeba polyphaga mimivirus (APMV)	212035	374	44,643				DNA binding [GO:0003677]; metal ion binding [GO:0046872]	15486256
+Q5UQT8	YR342_MIMIV	Uncharacterized protein R342	MIMI_R342	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	30,222			integral component of membrane [GO:0016021]		15486256
+Q5UQU4	YR348_MIMIV	Uncharacterized protein R348	MIMI_R348	Acanthamoeba polyphaga mimivirus (APMV)	212035	705	82,624					15486256
+Q5UQU7	YR358_MIMIV	Uncharacterized protein R358	MIMI_R358	Acanthamoeba polyphaga mimivirus (APMV)	212035	280	32,966					15486256
+Q5UQV9	YR378_MIMIV	Uncharacterized protein R378	MIMI_R378	Acanthamoeba polyphaga mimivirus (APMV)	212035	195	23,024					15486256
+Q5UQX3	YR380_MIMIV	Putative leucine-rich repeat protein R380	MIMI_R380	Acanthamoeba polyphaga mimivirus (APMV)	212035	421	49,655					15486256
+Q5UQ44	YR390_MIMIV	Uncharacterized protein R390	MIMI_R390	Acanthamoeba polyphaga mimivirus (APMV)	212035	763	89,576			integral component of membrane [GO:0016021]		15486256
+Q5UQK6	YR402_MIMIV	Uncharacterized protein R402	MIMI_R402	Acanthamoeba polyphaga mimivirus (APMV)	212035	798	90,162			virion [GO:0019012]		15486256; 16971431
+Q5UQK2	YR406_MIMIV	Uncharacterized protein R406	MIMI_R406	Acanthamoeba polyphaga mimivirus (APMV)	212035	191	21,877				oxidoreductase activity [GO:0016491]	15486256
+Q5UQN9	YR449_MIMIV	Uncharacterized protein R449	MIMI_R449	Acanthamoeba polyphaga mimivirus (APMV)	212035	661	74,185					15486256
+Q5UQD4	YR467_MIMIV	Uncharacterized protein R467	MIMI_R467	Acanthamoeba polyphaga mimivirus (APMV)	212035	321	36,985					15486256
+Q5UQG5	YR495_MIMIV	Uncharacterized protein R495	MIMI_R495	Acanthamoeba polyphaga mimivirus (APMV)	212035	140	16,174			integral component of membrane [GO:0016021]		15486256
+Q5UQ66	YR503_MIMIV	Uncharacterized protein R503	MIMI_R503	Acanthamoeba polyphaga mimivirus (APMV)	212035	232	27,021					15486256
+Q5UQ81	YR514_MIMIV	Uncharacterized protein R514	MIMI_R514	Acanthamoeba polyphaga mimivirus (APMV)	212035	209	23,352					15486256
+Q5UQ84	YR525_MIMIV	Uncharacterized protein R525	MIMI_R525	Acanthamoeba polyphaga mimivirus (APMV)	212035	544	62,517					15486256
+Q5UQ92	YR530_MIMIV	Uncharacterized protein R530	MIMI_R530	Acanthamoeba polyphaga mimivirus (APMV)	212035	494	58,138					15486256
+Q5UR28	YR549_MIMIV	Uncharacterized protein R549	MIMI_R549	Acanthamoeba polyphaga mimivirus (APMV)	212035	342	39,841					15486256
+Q5UP65	YR598_MIMIV	Putative ankyrin repeat protein R598	MIMI_R598	Acanthamoeba polyphaga mimivirus (APMV)	212035	304	34,526					15486256
+Q5UR73	YR623_MIMIV	Uncharacterized protein R623	MIMI_R623	Acanthamoeba polyphaga mimivirus (APMV)	212035	269	28,906					15486256
+Q5UR71	YR625_MIMIV	Uncharacterized protein R625	MIMI_R625	Acanthamoeba polyphaga mimivirus (APMV)	212035	186	21,655					15486256
+Q5UR87	YR634_MIMIV	Putative ankyrin repeat protein R634	MIMI_R634	Acanthamoeba polyphaga mimivirus (APMV)	212035	486	54,658					15486256
+Q5UR92	YR640_MIMIV	Uncharacterized protein R640	MIMI_R640	Acanthamoeba polyphaga mimivirus (APMV)	212035	530	59,593					15486256
+Q5UQ62	YR655_MIMIV	Putative glycosyltransferase R655 (EC 2.-.-.-)	MIMI_R655	Acanthamoeba polyphaga mimivirus (APMV)	212035	324	37,541	2.-.-.-			transferase activity, transferring glycosyl groups [GO:0016757]	15486256
+Q5UQ51	YR667_MIMIV	Uncharacterized protein R667	MIMI_R667	Acanthamoeba polyphaga mimivirus (APMV)	212035	149	17,796					15486256
+Q5UNV6	YR699_MIMIV	Uncharacterized protein R699	MIMI_R699	Acanthamoeba polyphaga mimivirus (APMV)	212035	455	53,086					15486256
+Q5UNW5	YR703_MIMIV	Uncharacterized protein R703	MIMI_R703	Acanthamoeba polyphaga mimivirus (APMV)	212035	135	16,574					15486256
+Q5UNW9	YR718_MIMIV	Uncharacterized protein R718	MIMI_R718	Acanthamoeba polyphaga mimivirus (APMV)	212035	130	15,157					15486256
+Q5UNY9	YR735_MIMIV	Uncharacterized protein R735	MIMI_R735	Acanthamoeba polyphaga mimivirus (APMV)	212035	446	51,882					15486256
+Q5UNZ3	YR745_MIMIV	Uncharacterized protein R745	MIMI_R745	Acanthamoeba polyphaga mimivirus (APMV)	212035	164	19,807					15486256
+Q5UP04	YR748_MIMIV	Putative ankyrin repeat protein R748	MIMI_R748	Acanthamoeba polyphaga mimivirus (APMV)	212035	877	102,285					15486256
+Q5UPQ1	YR762_MIMIV	Uncharacterized protein R762	MIMI_R762	Acanthamoeba polyphaga mimivirus (APMV)	212035	251	29,169					15486256
+Q5UPS1	YR784_MIMIV	Putative ankyrin repeat protein R784	MIMI_R784	Acanthamoeba polyphaga mimivirus (APMV)	212035	433	50,343					15486256
+Q5UQ05	YR790_MIMIV	Uncharacterized protein R790	MIMI_R790	Acanthamoeba polyphaga mimivirus (APMV)	212035	155	18,406					15486256
+Q5UQ04	YR791_MIMIV	Putative ankyrin repeat protein R791	MIMI_R791	Acanthamoeba polyphaga mimivirus (APMV)	212035	287	33,254					15486256
+Q5UR62	YR800_MIMIV	Uncharacterized protein R800	MIMI_R800	Acanthamoeba polyphaga mimivirus (APMV)	212035	114	12,829					15486256
+Q5UQ35	YR811_MIMIV	Putative ariadne-like RING finger protein R811	MIMI_R811	Acanthamoeba polyphaga mimivirus (APMV)	212035	990	112,252				metal ion binding [GO:0046872]	15486256
+Q5UQJ0	YR835_MIMIV	Putative ankyrin repeat protein R835	MIMI_R835	Acanthamoeba polyphaga mimivirus (APMV)	212035	308	35,638					15486256
+Q5UQI6	YR839_MIMIV	Uncharacterized protein R839	MIMI_R839	Acanthamoeba polyphaga mimivirus (APMV)	212035	457	53,751					15486256
+Q5UP13	YR846_MIMIV	Putative ankyrin repeat protein R846	MIMI_R846	Acanthamoeba polyphaga mimivirus (APMV)	212035	170	19,577					15486256
+Q5UP10	YR849_MIMIV	Uncharacterized protein R849	MIMI_R849	Acanthamoeba polyphaga mimivirus (APMV)	212035	141	17,063					15486256
+Q5UQQ5	YR858_MIMIV	Putative ankyrin repeat protein R858	MIMI_R858	Acanthamoeba polyphaga mimivirus (APMV)	212035	424	50,046					15486256
+Q5UP18	YR865_MIMIV	Uncharacterized protein R865	MIMI_R865	Acanthamoeba polyphaga mimivirus (APMV)	212035	590	68,733					15486256
+Q5UP39	YR873_MIMIV	Putative ankyrin repeat protein R873	MIMI_R873	Acanthamoeba polyphaga mimivirus (APMV)	212035	468	52,329					15486256
+Q7T6Y3	YR879_MIMIV	Putative KilA-N domain-containing protein R879	MIMI_R879	Acanthamoeba polyphaga mimivirus (APMV)	212035	299	34,984					15486256
+Q5UQY4	YR886_MIMIV	Putative ankyrin repeat protein R886 (Fragment)	MIMI_R886	Acanthamoeba polyphaga mimivirus (APMV)	212035	130	14,607					15486256
+Q5UQY7	YR898_MIMIV	Uncharacterized protein R898	MIMI_R898	Acanthamoeba polyphaga mimivirus (APMV)	212035	201	23,817					15486256
+Q5UP85	YR013_MIMIV	Uncharacterized protein R13	MIMI_R13	Acanthamoeba polyphaga mimivirus (APMV)	212035	183	21,481					15486256
+Q5UPC2	YR050_MIMIV	Uncharacterized protein R50	MIMI_R50	Acanthamoeba polyphaga mimivirus (APMV)	212035	113	12,912					15486256
+Q5UPK6	YR129_MIMIV	Uncharacterized protein R129	MIMI_R129	Acanthamoeba polyphaga mimivirus (APMV)	212035	176	20,470					15486256
+Q5UPK3	YR132_MIMIV	Uncharacterized protein R132	MIMI_R132	Acanthamoeba polyphaga mimivirus (APMV)	212035	221	25,493					15486256
+Q5UPM0	YR150_MIMIV	Uncharacterized protein R150	MIMI_R150	Acanthamoeba polyphaga mimivirus (APMV)	212035	266	30,820					15486256
+Q5UPL5	YR155_MIMIV	Uncharacterized protein R155	MIMI_R155	Acanthamoeba polyphaga mimivirus (APMV)	212035	142	17,145					15486256
+Q5UQ19	YR198_MIMIV	Uncharacterized protein R198	MIMI_R198	Acanthamoeba polyphaga mimivirus (APMV)	212035	115	13,617					15486256
+Q5UPU1	YR253_MIMIV	Uncharacterized protein R253	MIMI_R253	Acanthamoeba polyphaga mimivirus (APMV)	212035	345	38,970			virion [GO:0019012]		15486256; 16971431
+Q5UQR6	YR325_MIMIV	Uncharacterized protein R325	MIMI_R325	Acanthamoeba polyphaga mimivirus (APMV)	212035	197	22,781					15486256
+Q5UQS5	YR328_MIMIV	Uncharacterized protein R328	MIMI_R328	Acanthamoeba polyphaga mimivirus (APMV)	212035	343	39,514					15486256
+Q5UQT2	YR335_MIMIV	Uncharacterized protein R335	MIMI_R335	Acanthamoeba polyphaga mimivirus (APMV)	212035	306	36,130			integral component of membrane [GO:0016021]		15486256
+Q5UQV7	YR367_MIMIV	Uncharacterized protein R367	MIMI_R367	Acanthamoeba polyphaga mimivirus (APMV)	212035	483	55,408					15486256
+Q5UQV2	YR372_MIMIV	Uncharacterized protein R372	MIMI_R372	Acanthamoeba polyphaga mimivirus (APMV)	212035	250	29,458			integral component of membrane [GO:0016021]		15486256
+Q5UQ43	YR391_MIMIV	Uncharacterized protein R391	MIMI_R391	Acanthamoeba polyphaga mimivirus (APMV)	212035	125	14,657					15486256
+Q5UQK7	YR413_MIMIV	Uncharacterized protein R413	MIMI_R413	Acanthamoeba polyphaga mimivirus (APMV)	212035	355	42,053					15486256
+Q5UQL8	YR424_MIMIV	Uncharacterized protein R424	MIMI_R424	Acanthamoeba polyphaga mimivirus (APMV)	212035	342	40,105					15486256
+Q5UQN3	YR433_MIMIV	Uncharacterized protein R433	MIMI_R433	Acanthamoeba polyphaga mimivirus (APMV)	212035	126	14,999					15486256
+Q5UQE3	YR473_MIMIV	Uncharacterized protein R473	MIMI_R473	Acanthamoeba polyphaga mimivirus (APMV)	212035	255	30,586					15486256
+Q5UQE0	YR476_MIMIV	Putative AAA family ATPase R476	MIMI_R476	Acanthamoeba polyphaga mimivirus (APMV)	212035	855	97,429				ATP binding [GO:0005524]	15486256
+Q5UP45	YR502_MIMIV	Uncharacterized protein R502	MIMI_R502	Acanthamoeba polyphaga mimivirus (APMV)	212035	256	29,283					15486256
+Q5UQ95	YR527_MIMIV	Uncharacterized protein R527	MIMI_R527	Acanthamoeba polyphaga mimivirus (APMV)	212035	159	18,414					15486256
+Q5UR37	YR551_MIMIV	Putative ankyrin repeat protein R551	MIMI_R551	Acanthamoeba polyphaga mimivirus (APMV)	212035	285	32,600					15486256
+Q5UR33	YR555_MIMIV	Uncharacterized protein R555	MIMI_R555	Acanthamoeba polyphaga mimivirus (APMV)	212035	1351	157,914				hydrolase activity [GO:0016787]	15486256
+Q5UR51	YR566_MIMIV	Uncharacterized protein R566	MIMI_R566	Acanthamoeba polyphaga mimivirus (APMV)	212035	182	22,201					15486256
+Q5UP50	YR588_MIMIV	Uncharacterized protein R588	MIMI_R588	Acanthamoeba polyphaga mimivirus (APMV)	212035	397	44,579					15486256
+Q5UP63	YR600_MIMIV	Putative ankyrin repeat protein R600	MIMI_R600	Acanthamoeba polyphaga mimivirus (APMV)	212035	315	36,262					15486256
+Q5UP72	YR604_MIMIV	Uncharacterized protein R604	MIMI_R604	Acanthamoeba polyphaga mimivirus (APMV)	212035	387	44,756					15486256
+Q5UR66	YR618_MIMIV	Uncharacterized protein R618	MIMI_R618	Acanthamoeba polyphaga mimivirus (APMV)	212035	592	69,141				GTP binding [GO:0005525]	15486256
+Q5UR84	YR637_MIMIV	Putative F-box protein R637	MIMI_R637	Acanthamoeba polyphaga mimivirus (APMV)	212035	156	18,348					15486256
+Q5UR90	YR642_MIMIV	Uncharacterized protein R642	MIMI_R642	Acanthamoeba polyphaga mimivirus (APMV)	212035	220	26,614					15486256
+Q5UP43	YR646_MIMIV	Uncharacterized protein R646	MIMI_R646	Acanthamoeba polyphaga mimivirus (APMV)	212035	273	30,302			virion [GO:0019012]		15486256; 16971431
+Q5UQ65	YR652_MIMIV	Uncharacterized protein R652	MIMI_R652	Acanthamoeba polyphaga mimivirus (APMV)	212035	352	41,826					15486256
+Q5UQ61	YR661_MIMIV	Uncharacterized protein R661	MIMI_R661	Acanthamoeba polyphaga mimivirus (APMV)	212035	218	25,221					15486256
+Q5UNS8	YR665_MIMIV	Uncharacterized protein R665	MIMI_R665	Acanthamoeba polyphaga mimivirus (APMV)	212035	467	54,465					15486256
+Q5UNT5	YR681_MIMIV	Uncharacterized protein R681	MIMI_R681	Acanthamoeba polyphaga mimivirus (APMV)	212035	151	17,896					15486256
+Q5UQ53	YR713_MIMIV	Uncharacterized protein R713	MIMI_R713	Acanthamoeba polyphaga mimivirus (APMV)	212035	976	111,861					15486256
+Q5UNY5	YR727_MIMIV	Uncharacterized protein R727	MIMI_R727	Acanthamoeba polyphaga mimivirus (APMV)	212035	284	31,884			virion [GO:0019012]		15486256; 16971431
+Q5UNY8	YR736_MIMIV	Uncharacterized protein R736	MIMI_R736	Acanthamoeba polyphaga mimivirus (APMV)	212035	283	33,406					15486256
+Q5UP05	YR747_MIMIV	Putative ankyrin repeat protein R747	MIMI_R747	Acanthamoeba polyphaga mimivirus (APMV)	212035	118	13,577					15486256
+Q5UP01	YR751_MIMIV	Uncharacterized protein R751	MIMI_R751	Acanthamoeba polyphaga mimivirus (APMV)	212035	149	17,958					15486256
+Q5UP00	YR752_MIMIV	Uncharacterized protein R752	MIMI_R752	Acanthamoeba polyphaga mimivirus (APMV)	212035	215	25,431					15486256
+Q5UPQ0	YR757_MIMIV	Putative F-box protein R757	MIMI_R757	Acanthamoeba polyphaga mimivirus (APMV)	212035	650	76,169					15486256
+Q5UPQ3	YR765_MIMIV	Putative BTB/POZ domain-containing protein R765	MIMI_R765	Acanthamoeba polyphaga mimivirus (APMV)	212035	473	55,406					15486256
+Q5UPS0	YR785_MIMIV	Uncharacterized protein R785	MIMI_R785	Acanthamoeba polyphaga mimivirus (APMV)	212035	108	12,882					15486256
+Q5UR63	YR799_MIMIV	Uncharacterized protein R799	MIMI_R799	Acanthamoeba polyphaga mimivirus (APMV)	212035	201	22,691			integral component of membrane [GO:0016021]		15486256
+Q5UP34	YR825_MIMIV	Putative ankyrin repeat protein R825	MIMI_R825	Acanthamoeba polyphaga mimivirus (APMV)	212035	311	36,202					15486256
+Q5UQI8	YR837_MIMIV	Putative ankyrin repeat protein R837	MIMI_R837	Acanthamoeba polyphaga mimivirus (APMV)	212035	626	72,657					15486256
+Q5URB9	YR840_MIMIV	Putative ankyrin repeat protein R840	MIMI_R840	Acanthamoeba polyphaga mimivirus (APMV)	212035	526	58,910					15486256
+Q5UP14	YR845_MIMIV	Putative ankyrin repeat protein R845	MIMI_R845	Acanthamoeba polyphaga mimivirus (APMV)	212035	224	25,051					15486256
+Q5UP11	YR848_MIMIV	Putative ankyrin repeat protein R848	MIMI_R848	Acanthamoeba polyphaga mimivirus (APMV)	212035	262	29,656					15486256
+Q5UP28	YR853_MIMIV	Uncharacterized protein R853	MIMI_R853	Acanthamoeba polyphaga mimivirus (APMV)	212035	129	15,442			integral component of membrane [GO:0016021]		15486256
+Q5UQQ6	YR857_MIMIV	Uncharacterized protein R857	MIMI_R857	Acanthamoeba polyphaga mimivirus (APMV)	212035	180	21,442					15486256
+Q5UQY1	YR889_MIMIV	Uncharacterized protein R889	MIMI_R889	Acanthamoeba polyphaga mimivirus (APMV)	212035	114	13,864					15486256
+Q5UPM4	YR158_MIMIV	Uncharacterized protein R158	MIMI_R158	Acanthamoeba polyphaga mimivirus (APMV)	212035	370	42,235					15486256
+Q5UQ12	YR190_MIMIV	Putative ankyrin repeat protein R190	MIMI_R190	Acanthamoeba polyphaga mimivirus (APMV)	212035	359	42,112					15486256
+Q5UQ31	YR210_MIMIV	Uncharacterized protein R210	MIMI_R210	Acanthamoeba polyphaga mimivirus (APMV)	212035	384	45,002					15486256
+Q5UQ28	YR213_MIMIV	Uncharacterized protein R213	MIMI_R213	Acanthamoeba polyphaga mimivirus (APMV)	212035	142	16,643			integral component of membrane [GO:0016021]		15486256
+Q5UQA9	YR220_MIMIV	Uncharacterized protein R220	MIMI_R220	Acanthamoeba polyphaga mimivirus (APMV)	212035	340	39,430					15486256
+Q5UQC4	YR229_MIMIV	Putative ankyrin repeat protein R229	MIMI_R229	Acanthamoeba polyphaga mimivirus (APMV)	212035	307	35,069					15486256
+Q5UPY8	YR305_MIMIV	Uncharacterized protein R305	MIMI_R305	Acanthamoeba polyphaga mimivirus (APMV)	212035	169	20,008			integral component of membrane [GO:0016021]		15486256
+Q5UPZ3	YR311_MIMIV	Putative RING finger protein R311	MIMI_R311	Acanthamoeba polyphaga mimivirus (APMV)	212035	659	77,613				metal ion binding [GO:0046872]	15486256
+Q5UQT3	YR347_MIMIV	Uncharacterized protein R347	MIMI_R347	Acanthamoeba polyphaga mimivirus (APMV)	212035	485	56,316			virion [GO:0019012]		15486256; 16971431
+Q5UQT9	YR353_MIMIV	Uncharacterized protein R353	MIMI_R353	Acanthamoeba polyphaga mimivirus (APMV)	212035	178	21,558					15486256
+Q5UR24	YR363_MIMIV	Uncharacterized glycosyltransferase R363 (EC 2.4.-.-)	MIMI_R363	Acanthamoeba polyphaga mimivirus (APMV)	212035	256	29,415	2.4.-.-			transferase activity, transferring glycosyl groups [GO:0016757]	15486256
+Q5UQV4	YR370_MIMIV	Uncharacterized protein R370	MIMI_R370	Acanthamoeba polyphaga mimivirus (APMV)	212035	144	16,654					15486256
+Q5UQK5	YR403_MIMIV	Uncharacterized protein R403	MIMI_R403	Acanthamoeba polyphaga mimivirus (APMV)	212035	754	87,426			virion [GO:0019012]		15486256; 16971431
+Q5UQM0	YR422_MIMIV	Uncharacterized protein R422	MIMI_R422	Acanthamoeba polyphaga mimivirus (APMV)	212035	232	28,239					15486256
+Q5UQP4	ADPRL_MIMIV	Putative ADP-ribosyl glycohydrolase L444 (EC 3.2.2.-)	MIMI_L444	Acanthamoeba polyphaga mimivirus (APMV)	212035	513	58,753	3.2.2.-			hydrolase activity [GO:0016787]	15486256
+Q5UQA6	ADPRM_MIMIV	Putative ADP-ribosyl glycohydrolase L543 (EC 3.2.2.-)	MIMI_L543	Acanthamoeba polyphaga mimivirus (APMV)	212035	330	37,602	3.2.2.-			hydrolase activity [GO:0016787]	15486256
+B4YNG0	CAPSD_SPTNK	Putative capsid protein V20	ORF20	Sputnik virophage	543939	595	65,381			viral capsid [GO:0019028]		18690211
+Q5UNY2	CFXQ_MIMIV	Putative cfxQ-like protein R730	MIMI_R730	Acanthamoeba polyphaga mimivirus (APMV)	212035	406	46,782				ATP binding [GO:0005524]	15486256
+Q7T6X4	CAPS2_MIMIV	Probable capsid protein 2	MIMI_R439	Acanthamoeba polyphaga mimivirus (APMV)	212035	591	69,376			viral capsid [GO:0019028]	structural molecule activity [GO:0005198]	15486256
+Q7T6Y5	CAPS4_MIMIV	Probable capsid protein 4	MIMI_R441	Acanthamoeba polyphaga mimivirus (APMV)	212035	512	59,151			viral capsid [GO:0019028]	structural molecule activity [GO:0005198]	15486256
+Q5UQN7	CAPS3_MIMIV	Probable capsid protein 3	MIMI_R440	Acanthamoeba polyphaga mimivirus (APMV)	212035	2156	253,104			viral capsid [GO:0019028]	structural molecule activity [GO:0005198]	15486256
+Q5UPX4	COLL8_MIMIV	Putative collagenous domain-containing protein R238	MIMI_R238	Acanthamoeba polyphaga mimivirus (APMV)	212035	441	44,652					15486256
+Q54JC0	CMBB_DICDI	Calmodulin-binding protein CmbB (CaM-BP46)	cmbB DDB_G0288131	Dictyostelium discoideum (Slime mold)	44689	413	46,499				calmodulin binding [GO:0005516]	16777069; 15875012
+Q5UQM2	ROBIN_MIMIV	Robin	MIMI_R420	Acanthamoeba polyphaga mimivirus (APMV)	212035	244	29,433					15486256
+Q5UP16	RPO1H_MIMIV	Putative DNA-directed RNA polymerase subunit 1 inactive homolog	MIMI_R867	Acanthamoeba polyphaga mimivirus (APMV)	212035	108	12,991					15486256
+Q5UQQ7	Y856_MIMIV	Putative TPR repeat-containing protein R856	MIMI_R856	Acanthamoeba polyphaga mimivirus (APMV)	212035	342	39,644					15486256

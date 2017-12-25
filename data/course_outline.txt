@@ -1,0 +1,17 @@
+Week	Topics
+Orientation Week	Course Overview & Syllabus Review
+Week 1	Introduction to Data Science
+Week 2	Basic Concepts
+Week 3	Processes and Programs
+Week 4	Working with Data
+Week 5	Networking and Files
+Week 6	Text Processing
+Week 7	Visualization
+Week 8	Advanced Data Processing
+Week 9	Data Formats
+Week 10	Basic Statistics
+Week 11	Functional Programming
+Week 12	Relational Databases and SQL
+Week 13	Object Oriented Programming
+Week 14	Advanced Concepts
+Week 15	Performance
