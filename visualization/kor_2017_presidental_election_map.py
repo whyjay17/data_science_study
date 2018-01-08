@@ -58,6 +58,7 @@ soup = BeautifulSoup(kor, 'xml')
 # List of Regions
 
 # Temporary drop, TODO: fix this
+
 df = df.drop(['고성군', '남구', '서구', '중구','강서구','동구','북구'])
 regions = set(list(df.index.values))
 
